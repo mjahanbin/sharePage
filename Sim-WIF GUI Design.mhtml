@@ -1,14 +1,14 @@
 From: <Saved by Blink>
 Snapshot-Content-Location: https://chat.openai.com/c/4c8726d0-f761-4a9f-8a29-00d514d06571
 Subject: Sim-WIF GUI Design
-Date: Wed, 28 Feb 2024 14:32:52 -0500
+Date: Wed, 28 Feb 2024 18:07:54 -0500
 MIME-Version: 1.0
 Content-Type: multipart/related;
 	type="text/html";
-	boundary="----MultipartBoundary--WIPyXCa9HRxWKBLWm6fK6HIbauiVi7VUXyOlLsYuDM----"
+	boundary="----MultipartBoundary--Z1kDXMdPxrctQ4Iz03jZS6vxaoaoObOQOTudiMS7nm----"
 
 
-------MultipartBoundary--WIPyXCa9HRxWKBLWm6fK6HIbauiVi7VUXyOlLsYuDM----
+------MultipartBoundary--Z1kDXMdPxrctQ4Iz03jZS6vxaoaoObOQOTudiMS7nm----
 Content-Type: text/html
 Content-ID: <frame-37C1485F885C5222CC45F3A9F6774EA5@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
@@ -17,10 +17,10 @@ Content-Location: https://chat.openai.com/c/4c8726d0-f761-4a9f-8a29-00d514d06571
 <!DOCTYPE html><html data-build=3D"prod-fda1cb2" class=3D"light" style=3D"c=
 olor-scheme: light;" lang=3D"en-US"><head><meta http-equiv=3D"Content-Type"=
  content=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"te=
-xt/css" href=3D"cid:css-a737193a-df2a-42b5-b112-429158d9a849@mhtml.blink" /=
-><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-bf09c4b0-5d14-4=
-2e0-a406-80f3e7bd55cf@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/=
-css" href=3D"cid:css-44b75ccc-2e62-460e-b04a-cdc220c3881a@mhtml.blink" /><m=
+xt/css" href=3D"cid:css-c3f0a1e1-d284-484c-ba60-2b02c530670b@mhtml.blink" /=
+><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-d663d31f-8b47-4=
+d3b-9977-be4341801cdf@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-76b8d5a7-0d07-41d6-a1a7-946334153215@mhtml.blink" /><m=
 eta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"><=
 link rel=3D"apple-touch-icon" sizes=3D"180x180" href=3D"https://cdn.oaistat=
 ic.com/_next/static/media/apple-touch-icon.59f2e898.png"><link rel=3D"icon"=
@@ -3422,97 +3422,97 @@ v></div></div><div class=3D"w-full text-token-text-primary" data-testid=3D"=
 conversation-turn-21" style=3D"--avatar-color: #AB68FF;"><div class=3D"px-4=
  py-2 justify-center text-base md:gap-6 m-auto"><div class=3D"flex flex-1 t=
 ext-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem=
-] xl:max-w-[48rem] group final-completion"><div class=3D"flex-shrink-0 flex=
- flex-col relative items-end"><div><div class=3D"pt-0.5"><div class=3D"gizm=
-o-shadow-stroke flex h-6 w-6 items-center justify-center overflow-hidden ro=
-unded-full"><div class=3D"relative p-1 rounded-sm h-9 w-9 text-white flex i=
-tems-center justify-center" style=3D"background-color: rgb(171, 104, 255); =
-width: 24px; height: 24px;"><svg width=3D"41" height=3D"41" viewBox=3D"0 0 =
-41 41" fill=3D"none" xmlns=3D"http://www.w3.org/2000/svg" class=3D"icon-sm"=
- role=3D"img"><text x=3D"-9999" y=3D"-9999">ChatGPT</text><path d=3D"M37.53=
-24 16.8707C37.9808 15.5241 38.1363 14.0974 37.9886 12.6859C37.8409 11.2744 =
-37.3934 9.91076 36.676 8.68622C35.6126 6.83404 33.9882 5.3676 32.0373 4.498=
-5C30.0864 3.62941 27.9098 3.40259 25.8215 3.85078C24.8796 2.7893 23.7219 1.=
-94125 22.4257 1.36341C21.1295 0.785575 19.7249 0.491269 18.3058 0.500197C16=
-.1708 0.495044 14.0893 1.16803 12.3614 2.42214C10.6335 3.67624 9.34853 5.44=
-666 8.6917 7.47815C7.30085 7.76286 5.98686 8.3414 4.8377 9.17505C3.68854 10=
-.0087 2.73073 11.0782 2.02839 12.312C0.956464 14.1591 0.498905 16.2988 0.72=
-1698 18.4228C0.944492 20.5467 1.83612 22.5449 3.268 24.1293C2.81966 25.4759=
- 2.66413 26.9026 2.81182 28.3141C2.95951 29.7256 3.40701 31.0892 4.12437 32=
-.3138C5.18791 34.1659 6.8123 35.6322 8.76321 36.5013C10.7141 37.3704 12.890=
-7 37.5973 14.9789 37.1492C15.9208 38.2107 17.0786 39.0587 18.3747 39.6366C1=
-9.6709 40.2144 21.0755 40.5087 22.4946 40.4998C24.6307 40.5054 26.7133 39.8=
-321 28.4418 38.5772C30.1704 37.3223 31.4556 35.5506 32.1119 33.5179C33.5027=
- 33.2332 34.8167 32.6547 35.9659 31.821C37.115 30.9874 38.0728 29.9178 38.7=
-752 28.684C39.8458 26.8371 40.3023 24.6979 40.0789 22.5748C39.8556 20.4517 =
-38.9639 18.4544 37.5324 16.8707ZM22.4978 37.8849C20.7443 37.8874 19.0459 37=
-.2733 17.6994 36.1501C17.7601 36.117 17.8666 36.0586 17.936 36.0161L25.9004=
- 31.4156C26.1003 31.3019 26.2663 31.137 26.3813 30.9378C26.4964 30.7386 26.=
-5563 30.5124 26.5549 30.2825V19.0542L29.9213 20.998C29.9389 21.0068 29.9541=
- 21.0198 29.9656 21.0359C29.977 21.052 29.9842 21.0707 29.9867 21.0902V30.3=
-889C29.9842 32.375 29.1946 34.2791 27.7909 35.6841C26.3872 37.0892 24.4838 =
-37.8806 22.4978 37.8849ZM6.39227 31.0064C5.51397 29.4888 5.19742 27.7107 5.=
-49804 25.9832C5.55718 26.0187 5.66048 26.0818 5.73461 26.1244L13.699 30.724=
-8C13.8975 30.8408 14.1233 30.902 14.3532 30.902C14.583 30.902 14.8088 30.84=
-08 15.0073 30.7248L24.731 25.1103V28.9979C24.7321 29.0177 24.7283 29.0376 2=
-4.7199 29.0556C24.7115 29.0736 24.6988 29.0893 24.6829 29.1012L16.6317 33.7=
-497C14.9096 34.7416 12.8643 35.0097 10.9447 34.4954C9.02506 33.9811 7.38785=
- 32.7263 6.39227 31.0064ZM4.29707 13.6194C5.17156 12.0998 6.55279 10.9364 8=
-.19885 10.3327C8.19885 10.4013 8.19491 10.5228 8.19491 10.6071V19.808C8.193=
-51 20.0378 8.25334 20.2638 8.36823 20.4629C8.48312 20.6619 8.64893 20.8267 =
-8.84863 20.9404L18.5723 26.5542L15.206 28.4979C15.1894 28.5089 15.1703 28.5=
-155 15.1505 28.5173C15.1307 28.5191 15.1107 28.516 15.0924 28.5082L7.04046 =
-23.8557C5.32135 22.8601 4.06716 21.2235 3.55289 19.3046C3.03862 17.3858 3.3=
-0624 15.3413 4.29707 13.6194ZM31.955 20.0556L22.2312 14.4411L25.5976 12.498=
-1C25.6142 12.4872 25.6333 12.4805 25.6531 12.4787C25.6729 12.4769 25.6928 1=
-2.4801 25.7111 12.4879L33.7631 17.1364C34.9967 17.849 36.0017 18.8982 36.66=
-06 20.1613C37.3194 21.4244 37.6047 22.849 37.4832 24.2684C37.3617 25.6878 3=
-6.8382 27.0432 35.9743 28.1759C35.1103 29.3086 33.9415 30.1717 32.6047 30.6=
-641C32.6047 30.5947 32.6047 30.4733 32.6047 30.3889V21.188C32.6066 20.9586 =
-32.5474 20.7328 32.4332 20.5338C32.319 20.3348 32.154 20.1698 31.955 20.055=
-6ZM35.3055 15.0128C35.2464 14.9765 35.1431 14.9142 35.069 14.8717L27.1045 1=
-0.2712C26.906 10.1554 26.6803 10.0943 26.4504 10.0943C26.2206 10.0943 25.99=
-48 10.1554 25.7963 10.2712L16.0726 15.8858V11.9982C16.0715 11.9783 16.0753 =
-11.9585 16.0837 11.9405C16.0921 11.9225 16.1048 11.9068 16.1207 11.8949L24.=
-1719 7.25025C25.4053 6.53903 26.8158 6.19376 28.2383 6.25482C29.6608 6.3158=
-9 31.0364 6.78077 32.2044 7.59508C33.3723 8.40939 34.2842 9.53945 34.8334 1=
-0.8531C35.3826 12.1667 35.5464 13.6095 35.3055 15.0128ZM14.2424 21.9419L10.=
-8752 19.9981C10.8576 19.9893 10.8423 19.9763 10.8309 19.9602C10.8195 19.944=
-1 10.8122 19.9254 10.8098 19.9058V10.6071C10.8107 9.18295 11.2173 7.78848 1=
-1.9819 6.58696C12.7466 5.38544 13.8377 4.42659 15.1275 3.82264C16.4173 3.21=
-869 17.8524 2.99464 19.2649 3.1767C20.6775 3.35876 22.0089 3.93941 23.1034 =
-4.85067C23.0427 4.88379 22.937 4.94215 22.8668 4.98473L14.9024 9.58517C14.7=
-025 9.69878 14.5366 9.86356 14.4215 10.0626C14.3065 10.2616 14.2466 10.4877=
- 14.2479 10.7175L14.2424 21.9419ZM16.071 17.9991L20.4018 15.4978L24.7325 17=
-.9975V22.9985L20.4018 25.4983L16.071 22.9985V17.9991Z" fill=3D"currentColor=
-"></path></svg></div></div></div></div></div><div class=3D"relative flex w-=
-full flex-col agent-turn"><div class=3D"font-semibold select-none">ChatGPT<=
-/div><div class=3D"flex-col gap-1 md:gap-3"><div class=3D"flex flex-grow fl=
-ex-col max-w-full"><div data-message-author-role=3D"assistant" data-message=
--id=3D"693a0b10-5222-4244-a85e-d7d3d001edff" class=3D"min-h-[20px] text-mes=
-sage flex flex-col items-start gap-3 whitespace-pre-wrap break-words [.text=
--message+&amp;]:mt-5 overflow-x-auto"><div class=3D"markdown prose w-full b=
-reak-words dark:prose-invert light"><p>To achieve this, we can set up a cal=
-lback that triggers on the change of the counterparty dropdown value. This =
-callback will then update the data in the <code>DataTable</code> with a new=
- set of trade data corresponding to the selected counterparty. Here's an ex=
-ample of how you can set this up:</p><pre><div class=3D"dark bg-gray-950 ro=
-unded-md"><div class=3D"flex items-center relative text-token-text-secondar=
-y bg-token-main-surface-secondary px-4 py-2 text-xs font-sans justify-betwe=
-en rounded-t-md"><span>python</span><span class=3D"" data-state=3D"closed">=
-<button class=3D"flex gap-1 items-center"><svg width=3D"24" height=3D"24" v=
-iewBox=3D"0 0 24 24" fill=3D"none" xmlns=3D"http://www.w3.org/2000/svg" cla=
-ss=3D"icon-sm"><path fill-rule=3D"evenodd" clip-rule=3D"evenodd" d=3D"M12 4=
-C10.8954 4 10 4.89543 10 6H14C14 4.89543 13.1046 4 12 4ZM8.53513 4C9.22675 =
-2.8044 10.5194 2 12 2C13.4806 2 14.7733 2.8044 15.4649 4H17C18.6569 4 20 5.=
-34315 20 7V19C20 20.6569 18.6569 22 17 22H7C5.34315 22 4 20.6569 4 19V7C4 5=
-.34315 5.34315 4 7 4H8.53513ZM8 6H7C6.44772 6 6 6.44772 6 7V19C6 19.5523 6.=
-44772 20 7 20H17C17.5523 20 18 19.5523 18 19V7C18 6.44772 17.5523 6 17 6H16=
-C16 7.10457 15.1046 8 14 8H10C8.89543 8 8 7.10457 8 6Z" fill=3D"currentColo=
-r"></path></svg>Copy code</button></span></div><div class=3D"p-4 overflow-y=
--auto"><code class=3D"!whitespace-pre hljs language-python"><span class=3D"=
-hljs-keyword">from</span> dash <span class=3D"hljs-keyword">import</span> d=
-cc, html, Input, Output, dash_table
+] xl:max-w-[48rem] group"><div class=3D"flex-shrink-0 flex flex-col relativ=
+e items-end"><div><div class=3D"pt-0.5"><div class=3D"gizmo-shadow-stroke f=
+lex h-6 w-6 items-center justify-center overflow-hidden rounded-full"><div =
+class=3D"relative p-1 rounded-sm h-9 w-9 text-white flex items-center justi=
+fy-center" style=3D"background-color: rgb(171, 104, 255); width: 24px; heig=
+ht: 24px;"><svg width=3D"41" height=3D"41" viewBox=3D"0 0 41 41" fill=3D"no=
+ne" xmlns=3D"http://www.w3.org/2000/svg" class=3D"icon-sm" role=3D"img"><te=
+xt x=3D"-9999" y=3D"-9999">ChatGPT</text><path d=3D"M37.5324 16.8707C37.980=
+8 15.5241 38.1363 14.0974 37.9886 12.6859C37.8409 11.2744 37.3934 9.91076 3=
+6.676 8.68622C35.6126 6.83404 33.9882 5.3676 32.0373 4.4985C30.0864 3.62941=
+ 27.9098 3.40259 25.8215 3.85078C24.8796 2.7893 23.7219 1.94125 22.4257 1.3=
+6341C21.1295 0.785575 19.7249 0.491269 18.3058 0.500197C16.1708 0.495044 14=
+.0893 1.16803 12.3614 2.42214C10.6335 3.67624 9.34853 5.44666 8.6917 7.4781=
+5C7.30085 7.76286 5.98686 8.3414 4.8377 9.17505C3.68854 10.0087 2.73073 11.=
+0782 2.02839 12.312C0.956464 14.1591 0.498905 16.2988 0.721698 18.4228C0.94=
+4492 20.5467 1.83612 22.5449 3.268 24.1293C2.81966 25.4759 2.66413 26.9026 =
+2.81182 28.3141C2.95951 29.7256 3.40701 31.0892 4.12437 32.3138C5.18791 34.=
+1659 6.8123 35.6322 8.76321 36.5013C10.7141 37.3704 12.8907 37.5973 14.9789=
+ 37.1492C15.9208 38.2107 17.0786 39.0587 18.3747 39.6366C19.6709 40.2144 21=
+.0755 40.5087 22.4946 40.4998C24.6307 40.5054 26.7133 39.8321 28.4418 38.57=
+72C30.1704 37.3223 31.4556 35.5506 32.1119 33.5179C33.5027 33.2332 34.8167 =
+32.6547 35.9659 31.821C37.115 30.9874 38.0728 29.9178 38.7752 28.684C39.845=
+8 26.8371 40.3023 24.6979 40.0789 22.5748C39.8556 20.4517 38.9639 18.4544 3=
+7.5324 16.8707ZM22.4978 37.8849C20.7443 37.8874 19.0459 37.2733 17.6994 36.=
+1501C17.7601 36.117 17.8666 36.0586 17.936 36.0161L25.9004 31.4156C26.1003 =
+31.3019 26.2663 31.137 26.3813 30.9378C26.4964 30.7386 26.5563 30.5124 26.5=
+549 30.2825V19.0542L29.9213 20.998C29.9389 21.0068 29.9541 21.0198 29.9656 =
+21.0359C29.977 21.052 29.9842 21.0707 29.9867 21.0902V30.3889C29.9842 32.37=
+5 29.1946 34.2791 27.7909 35.6841C26.3872 37.0892 24.4838 37.8806 22.4978 3=
+7.8849ZM6.39227 31.0064C5.51397 29.4888 5.19742 27.7107 5.49804 25.9832C5.5=
+5718 26.0187 5.66048 26.0818 5.73461 26.1244L13.699 30.7248C13.8975 30.8408=
+ 14.1233 30.902 14.3532 30.902C14.583 30.902 14.8088 30.8408 15.0073 30.724=
+8L24.731 25.1103V28.9979C24.7321 29.0177 24.7283 29.0376 24.7199 29.0556C24=
+.7115 29.0736 24.6988 29.0893 24.6829 29.1012L16.6317 33.7497C14.9096 34.74=
+16 12.8643 35.0097 10.9447 34.4954C9.02506 33.9811 7.38785 32.7263 6.39227 =
+31.0064ZM4.29707 13.6194C5.17156 12.0998 6.55279 10.9364 8.19885 10.3327C8.=
+19885 10.4013 8.19491 10.5228 8.19491 10.6071V19.808C8.19351 20.0378 8.2533=
+4 20.2638 8.36823 20.4629C8.48312 20.6619 8.64893 20.8267 8.84863 20.9404L1=
+8.5723 26.5542L15.206 28.4979C15.1894 28.5089 15.1703 28.5155 15.1505 28.51=
+73C15.1307 28.5191 15.1107 28.516 15.0924 28.5082L7.04046 23.8557C5.32135 2=
+2.8601 4.06716 21.2235 3.55289 19.3046C3.03862 17.3858 3.30624 15.3413 4.29=
+707 13.6194ZM31.955 20.0556L22.2312 14.4411L25.5976 12.4981C25.6142 12.4872=
+ 25.6333 12.4805 25.6531 12.4787C25.6729 12.4769 25.6928 12.4801 25.7111 12=
+.4879L33.7631 17.1364C34.9967 17.849 36.0017 18.8982 36.6606 20.1613C37.319=
+4 21.4244 37.6047 22.849 37.4832 24.2684C37.3617 25.6878 36.8382 27.0432 35=
+.9743 28.1759C35.1103 29.3086 33.9415 30.1717 32.6047 30.6641C32.6047 30.59=
+47 32.6047 30.4733 32.6047 30.3889V21.188C32.6066 20.9586 32.5474 20.7328 3=
+2.4332 20.5338C32.319 20.3348 32.154 20.1698 31.955 20.0556ZM35.3055 15.012=
+8C35.2464 14.9765 35.1431 14.9142 35.069 14.8717L27.1045 10.2712C26.906 10.=
+1554 26.6803 10.0943 26.4504 10.0943C26.2206 10.0943 25.9948 10.1554 25.796=
+3 10.2712L16.0726 15.8858V11.9982C16.0715 11.9783 16.0753 11.9585 16.0837 1=
+1.9405C16.0921 11.9225 16.1048 11.9068 16.1207 11.8949L24.1719 7.25025C25.4=
+053 6.53903 26.8158 6.19376 28.2383 6.25482C29.6608 6.31589 31.0364 6.78077=
+ 32.2044 7.59508C33.3723 8.40939 34.2842 9.53945 34.8334 10.8531C35.3826 12=
+.1667 35.5464 13.6095 35.3055 15.0128ZM14.2424 21.9419L10.8752 19.9981C10.8=
+576 19.9893 10.8423 19.9763 10.8309 19.9602C10.8195 19.9441 10.8122 19.9254=
+ 10.8098 19.9058V10.6071C10.8107 9.18295 11.2173 7.78848 11.9819 6.58696C12=
+.7466 5.38544 13.8377 4.42659 15.1275 3.82264C16.4173 3.21869 17.8524 2.994=
+64 19.2649 3.1767C20.6775 3.35876 22.0089 3.93941 23.1034 4.85067C23.0427 4=
+.88379 22.937 4.94215 22.8668 4.98473L14.9024 9.58517C14.7025 9.69878 14.53=
+66 9.86356 14.4215 10.0626C14.3065 10.2616 14.2466 10.4877 14.2479 10.7175L=
+14.2424 21.9419ZM16.071 17.9991L20.4018 15.4978L24.7325 17.9975V22.9985L20.=
+4018 25.4983L16.071 22.9985V17.9991Z" fill=3D"currentColor"></path></svg></=
+div></div></div></div></div><div class=3D"relative flex w-full flex-col age=
+nt-turn"><div class=3D"font-semibold select-none">ChatGPT</div><div class=
+=3D"flex-col gap-1 md:gap-3"><div class=3D"flex flex-grow flex-col max-w-fu=
+ll"><div data-message-author-role=3D"assistant" data-message-id=3D"693a0b10=
+-5222-4244-a85e-d7d3d001edff" class=3D"min-h-[20px] text-message flex flex-=
+col items-start gap-3 whitespace-pre-wrap break-words [.text-message+&amp;]=
+:mt-5 overflow-x-auto"><div class=3D"markdown prose w-full break-words dark=
+:prose-invert light"><p>To achieve this, we can set up a callback that trig=
+gers on the change of the counterparty dropdown value. This callback will t=
+hen update the data in the <code>DataTable</code> with a new set of trade d=
+ata corresponding to the selected counterparty. Here's an example of how yo=
+u can set this up:</p><pre><div class=3D"dark bg-gray-950 rounded-md"><div =
+class=3D"flex items-center relative text-token-text-secondary bg-token-main=
+-surface-secondary px-4 py-2 text-xs font-sans justify-between rounded-t-md=
+"><span>python</span><span class=3D"" data-state=3D"closed"><button class=
+=3D"flex gap-1 items-center"><svg width=3D"24" height=3D"24" viewBox=3D"0 0=
+ 24 24" fill=3D"none" xmlns=3D"http://www.w3.org/2000/svg" class=3D"icon-sm=
+"><path fill-rule=3D"evenodd" clip-rule=3D"evenodd" d=3D"M12 4C10.8954 4 10=
+ 4.89543 10 6H14C14 4.89543 13.1046 4 12 4ZM8.53513 4C9.22675 2.8044 10.519=
+4 2 12 2C13.4806 2 14.7733 2.8044 15.4649 4H17C18.6569 4 20 5.34315 20 7V19=
+C20 20.6569 18.6569 22 17 22H7C5.34315 22 4 20.6569 4 19V7C4 5.34315 5.3431=
+5 4 7 4H8.53513ZM8 6H7C6.44772 6 6 6.44772 6 7V19C6 19.5523 6.44772 20 7 20=
+H17C17.5523 20 18 19.5523 18 19V7C18 6.44772 17.5523 6 17 6H16C16 7.10457 1=
+5.1046 8 14 8H10C8.89543 8 8 7.10457 8 6Z" fill=3D"currentColor"></path></s=
+vg>Copy code</button></span></div><div class=3D"p-4 overflow-y-auto"><code =
+class=3D"!whitespace-pre hljs language-python"><span class=3D"hljs-keyword"=
+>from</span> dash <span class=3D"hljs-keyword">import</span> dcc, html, Inp=
+ut, Output, dash_table
 <span class=3D"hljs-keyword">import</span> dash
 <span class=3D"hljs-keyword">import</span> pandas <span class=3D"hljs-keywo=
 rd">as</span> pd
@@ -3654,100 +3654,610 @@ x=3D"0 0 24 24" fill=3D"none" xmlns=3D"http://www.w3.org/2000/svg" class=3D=
 5 5.34315 4 7 4H8.53513ZM8 6H7C6.44772 6 6 6.44772 6 7V19C6 19.5523 6.44772=
  20 7 20H17C17.5523 20 18 19.5523 18 19V7C18 6.44772 17.5523 6 17 6H16C16 7=
 .10457 15.1046 8 14 8H10C8.89543 8 8 7.10457 8 6Z" fill=3D"currentColor"></=
-path></svg></button></span><span class=3D"" data-state=3D"closed"><button c=
-lass=3D"p-1 rounded-md text-token-text-tertiary hover:text-token-text-prima=
-ry md:invisible md:group-hover:visible md:group-[.final-completion]:visible=
-"><div class=3D"flex items-center gap-1.5 text-xs"><svg width=3D"24" height=
-=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" xmlns=3D"http://www.w3.org/2000=
-/svg" class=3D"icon-md"><path fill-rule=3D"evenodd" clip-rule=3D"evenodd" d=
-=3D"M4.5 2.5C5.05228 2.5 5.5 2.94772 5.5 3.5V5.07196C7.19872 3.47759 9.4848=
-3 2.5 12 2.5C17.2467 2.5 21.5 6.75329 21.5 12C21.5 17.2467 17.2467 21.5 12 =
-21.5C7.1307 21.5 3.11828 17.8375 2.565 13.1164C2.50071 12.5679 2.89327 12.0=
-711 3.4418 12.0068C3.99033 11.9425 4.48712 12.3351 4.5514 12.8836C4.98798 1=
-6.6089 8.15708 19.5 12 19.5C16.1421 19.5 19.5 16.1421 19.5 12C19.5 7.85786 =
-16.1421 4.5 12 4.5C9.7796 4.5 7.7836 5.46469 6.40954 7H9C9.55228 7 10 7.447=
-72 10 8C10 8.55228 9.55228 9 9 9H4.5C3.96064 9 3.52101 8.57299 3.50073 8.03=
-859C3.49983 8.01771 3.49958 7.99677 3.5 7.9758V3.5C3.5 2.94772 3.94771 2.5 =
-4.5 2.5Z" fill=3D"currentColor"></path></svg></div></button></span><div cla=
-ss=3D"flex"><span class=3D"" data-state=3D"closed"><button class=3D"p-1 rou=
-nded-md text-token-text-tertiary hover:text-token-text-primary md:invisible=
- md:group-hover:visible md:group-[.final-completion]:visible"><svg width=3D=
-"24" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" xmlns=3D"http://www.=
-w3.org/2000/svg" class=3D"icon-md"><path fill-rule=3D"evenodd" clip-rule=3D=
-"evenodd" d=3D"M11.8727 21.4961C11.6725 21.8466 11.2811 22.0423 10.8805 21.=
-9922L10.4267 21.9355C7.95958 21.6271 6.36855 19.1665 7.09975 16.7901L7.6505=
-4 15H6.93226C4.29476 15 2.37923 12.4921 3.0732 9.94753L4.43684 4.94753C4.91=
-145 3.20728 6.49209 2 8.29589 2H18.0045C19.6614 2 21.0045 3.34315 21.0045 5=
-V12C21.0045 13.6569 19.6614 15 18.0045 15H16.0045C15.745 15 15.5054 15.1391=
- 15.3766 15.3644L11.8727 21.4961ZM14.0045 4H8.29589C7.39399 4 6.60367 4.603=
-64 6.36637 5.47376L5.00273 10.4738C4.65574 11.746 5.61351 13 6.93226 13H9.0=
-0451C9.32185 13 9.62036 13.1506 9.8089 13.4059C9.99743 13.6612 10.0536 13.9=
-908 9.96028 14.2941L9.01131 17.3782C8.6661 18.5002 9.35608 19.6596 10.4726 =
-19.9153L13.6401 14.3721C13.9523 13.8258 14.4376 13.4141 15.0045 13.1902V5C1=
-5.0045 4.44772 14.5568 4 14.0045 4ZM17.0045 13V5C17.0045 4.64937 16.9444 4.=
-31278 16.8338 4H18.0045C18.5568 4 19.0045 4.44772 19.0045 5V12C19.0045 12.5=
-523 18.5568 13 18.0045 13H17.0045Z" fill=3D"currentColor"></path></svg></bu=
-tton></span></div></div></div></div><div class=3D"absolute" style=3D"top: 1=
-42.667px; left: 378.514px; width: 84px; height: 18px;"><span class=3D"" dat=
-a-state=3D"closed"><button class=3D"btn relative btn-neutral btn-small popo=
-ver shadow-lg"><div class=3D"flex w-full gap-2 items-center justify-center"=
-><svg width=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" xmlns=
-=3D"http://www.w3.org/2000/svg" class=3D"icon-md"><path d=3D"M7.5 13.25C7.9=
-8703 13.25 8.45082 13.1505 8.87217 12.9708C8.46129 14.0478 7.62459 15.5792 =
-6.35846 15.76C5.81173 15.8382 5.43183 16.3447 5.50993 16.8914C5.58804 17.43=
-82 6.09457 17.8181 6.6413 17.7399C9.19413 17.3753 10.7256 14.4711 11.169 12=
-.1909C11.4118 10.942 11.3856 9.58095 10.8491 8.44726C10.2424 7.16517 8.9225=
-6 6.24402 7.48508 6.25001C5.55895 6.25805 4 7.82196 4 9.74998C4 11.683 5.56=
-7 13.25 7.5 13.25Z" fill=3D"currentColor"></path><path d=3D"M16.1799 13.25C=
-16.667 13.25 17.1307 13.1505 17.5521 12.9708C17.1412 14.0478 16.3045 15.579=
-2 15.0384 15.76C14.4917 15.8382 14.1118 16.3447 14.1899 16.8914C14.268 17.4=
-382 14.7745 17.8181 15.3212 17.7399C17.8741 17.3753 19.4056 14.4711 19.8489=
- 12.1909C20.0918 10.942 20.0655 9.58095 19.529 8.44726C18.9223 7.16517 17.6=
-025 6.24402 16.165 6.25001C14.2389 6.25805 12.6799 7.82196 12.6799 9.74998C=
-12.6799 11.683 14.2469 13.25 16.1799 13.25Z" fill=3D"currentColor"></path><=
-/svg></div></button></span></div></div></div></div></div><button class=3D"c=
-ursor-pointer absolute z-10 rounded-full bg-clip-padding border text-token-=
-text-secondary border-token-border-light right-1/2 bg-token-main-surface-pr=
-imary bottom-5"><svg width=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fill=
-=3D"none" class=3D"m-1 text-token-text-primary"><path d=3D"M17 13L12 18L7 1=
-3M12 6L12 17" stroke=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D"=
-round" stroke-linejoin=3D"round"></path></svg></button></div></div><button =
-class=3D"react-scroll-to-bottom--css-zrcph-1tj0vk3 scroll-convo" type=3D"bu=
-tton"></button></div></div><div class=3D"w-full pt-2 md:pt-0 dark:border-wh=
-ite/20 md:border-transparent md:dark:border-transparent md:w-[calc(100%-.5r=
-em)]"><form class=3D"stretch mx-2 flex flex-row gap-3 last:mb-2 md:mx-4 md:=
-last:mb-6 lg:mx-auto lg:max-w-2xl xl:max-w-3xl"><div class=3D"relative flex=
- h-full flex-1 flex-col"><div class=3D"flex w-full items-center"><div class=
-=3D"overflow-hidden [&amp;:has(textarea:focus)]:border-token-border-xheavy =
-[&amp;:has(textarea:focus)]:shadow-[0_2px_6px_rgba(0,0,0,.05)] flex flex-co=
-l w-full dark:border-token-border-medium flex-grow relative border border-t=
-oken-border-medium dark:text-white rounded-2xl bg-token-main-surface-primar=
-y"><textarea id=3D"prompt-textarea" tabindex=3D"0" data-id=3D"request-4c872=
-6d0-f761-4a9f-8a29-00d514d06571-0" rows=3D"1" placeholder=3D"Message ChatGP=
-T=E2=80=A6" class=3D"m-0 w-full resize-none border-0 bg-transparent focus:r=
-ing-0 focus-visible:ring-0 dark:bg-transparent max-h-25 py-[10px] pr-10 md:=
-py-3.5 md:pr-12 placeholder-black/50 dark:placeholder-white/50 pl-10 md:pl-=
-[55px]" style=3D"height: 52px; overflow-y: hidden;"></textarea><div class=
-=3D"absolute bottom-2 md:bottom-3 left-2 md:left-4"><div class=3D"flex"><bu=
-tton class=3D"btn relative p-0 text-black dark:text-white" aria-label=3D"At=
-tach files"><div class=3D"flex w-full gap-2 items-center justify-center"><s=
-vg width=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" xmlns=3D"=
-http://www.w3.org/2000/svg"><path fill-rule=3D"evenodd" clip-rule=3D"evenod=
-d" d=3D"M9 7C9 4.23858 11.2386 2 14 2C16.7614 2 19 4.23858 19 7V15C19 18.86=
-6 15.866 22 12 22C8.13401 22 5 18.866 5 15V9C5 8.44772 5.44772 8 6 8C6.5522=
-8 8 7 8.44772 7 9V15C7 17.7614 9.23858 20 12 20C14.7614 20 17 17.7614 17 15=
-V7C17 5.34315 15.6569 4 14 4C12.3431 4 11 5.34315 11 7V15C11 15.5523 11.447=
-7 16 12 16C12.5523 16 13 15.5523 13 15V9C13 8.44772 13.4477 8 14 8C14.5523 =
-8 15 8.44772 15 9V15C15 16.6569 13.6569 18 12 18C10.3431 18 9 16.6569 9 15V=
-7Z" fill=3D"currentColor"></path></svg></div></button><input multiple=3D"" =
-type=3D"file" tabindex=3D"-1" class=3D"hidden" style=3D"display: none;"></d=
-iv></div><button disabled=3D"" class=3D"absolute bottom-1.5 right-2 rounded=
--lg border border-black bg-black p-0.5 text-white transition-colors enabled=
-:bg-black disabled:text-gray-400 disabled:opacity-10 dark:border-white dark=
-:bg-white dark:hover:bg-white md:bottom-3 md:right-3" data-testid=3D"send-b=
-utton"><span class=3D"" data-state=3D"closed"><svg width=3D"24" height=3D"2=
-4" viewBox=3D"0 0 24 24" fill=3D"none" class=3D"text-white dark:text-black"=
-><path d=3D"M7 11L12 6L17 11M12 18V7" stroke=3D"currentColor" stroke-width=
+path></svg></button></span><div class=3D"flex"><span class=3D"" data-state=
+=3D"closed"><button class=3D"p-1 rounded-md text-token-text-tertiary hover:=
+text-token-text-primary md:invisible md:group-hover:visible md:group-[.fina=
+l-completion]:visible"><svg width=3D"24" height=3D"24" viewBox=3D"0 0 24 24=
+" fill=3D"none" xmlns=3D"http://www.w3.org/2000/svg" class=3D"icon-md"><pat=
+h fill-rule=3D"evenodd" clip-rule=3D"evenodd" d=3D"M11.8727 21.4961C11.6725=
+ 21.8466 11.2811 22.0423 10.8805 21.9922L10.4267 21.9355C7.95958 21.6271 6.=
+36855 19.1665 7.09975 16.7901L7.65054 15H6.93226C4.29476 15 2.37923 12.4921=
+ 3.0732 9.94753L4.43684 4.94753C4.91145 3.20728 6.49209 2 8.29589 2H18.0045=
+C19.6614 2 21.0045 3.34315 21.0045 5V12C21.0045 13.6569 19.6614 15 18.0045 =
+15H16.0045C15.745 15 15.5054 15.1391 15.3766 15.3644L11.8727 21.4961ZM14.00=
+45 4H8.29589C7.39399 4 6.60367 4.60364 6.36637 5.47376L5.00273 10.4738C4.65=
+574 11.746 5.61351 13 6.93226 13H9.00451C9.32185 13 9.62036 13.1506 9.8089 =
+13.4059C9.99743 13.6612 10.0536 13.9908 9.96028 14.2941L9.01131 17.3782C8.6=
+661 18.5002 9.35608 19.6596 10.4726 19.9153L13.6401 14.3721C13.9523 13.8258=
+ 14.4376 13.4141 15.0045 13.1902V5C15.0045 4.44772 14.5568 4 14.0045 4ZM17.=
+0045 13V5C17.0045 4.64937 16.9444 4.31278 16.8338 4H18.0045C18.5568 4 19.00=
+45 4.44772 19.0045 5V12C19.0045 12.5523 18.5568 13 18.0045 13H17.0045Z" fil=
+l=3D"currentColor"></path></svg></button></span></div></div></div></div></d=
+iv></div></div></div><div class=3D"w-full text-token-text-primary" data-tes=
+tid=3D"conversation-turn-22" style=3D"--avatar-color: #AB68FF;"><div class=
+=3D"px-4 py-2 justify-center text-base md:gap-6 m-auto"><div class=3D"flex =
+flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-=
+w-[40rem] xl:max-w-[48rem] group"><div class=3D"flex-shrink-0 flex flex-col=
+ relative items-end"><div><div class=3D"pt-0.5"><div class=3D"gizmo-shadow-=
+stroke flex h-6 w-6 items-center justify-center overflow-hidden rounded-ful=
+l"><div class=3D"relative flex"><img alt=3D"User" loading=3D"lazy" width=3D=
+"24" height=3D"24" decoding=3D"async" data-nimg=3D"1" class=3D"rounded-sm" =
+src=3D"https://s.gravatar.com/avatar/ddcae653ee2eddac9f381cb44d864b27?s=3D4=
+80&amp;r=3Dpg&amp;d=3Dhttps%3A%2F%2Fcdn.auth0.com%2Favatars%2Fop.png" style=
+=3D"color: transparent;"></div></div></div></div></div><div class=3D"relati=
+ve flex w-full flex-col"><div class=3D"font-semibold select-none">You</div>=
+<div class=3D"flex-col gap-1 md:gap-3"><div class=3D"flex flex-grow flex-co=
+l max-w-full"><div data-message-author-role=3D"user" data-message-id=3D"aaa=
+21f6c-a134-4be8-a33f-b5be710f1838" class=3D"min-h-[20px] text-message flex =
+flex-col items-start gap-3 whitespace-pre-wrap break-words [.text-message+&=
+amp;]:mt-5 overflow-x-auto"><div class=3D"">how can I implement a ToolTip f=
+or the DataTable so that a separate ToolTip is displayed for each row.</div=
+></div></div><div class=3D"mt-1 flex justify-start gap-3 empty:hidden"><div=
+ class=3D"text-gray-400 flex self-end lg:self-center justify-center lg:just=
+ify-start mt-0 -ml-1 h-7 visible"><button class=3D"p-1 rounded-md text-toke=
+n-text-tertiary hover:text-token-text-primary md:invisible md:group-hover:v=
+isible md:group-[.final-completion]:visible"><div class=3D"flex items-cente=
+r gap-1.5 text-xs"><svg width=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fi=
+ll=3D"none" xmlns=3D"http://www.w3.org/2000/svg" class=3D"icon-md"><path fi=
+ll-rule=3D"evenodd" clip-rule=3D"evenodd" d=3D"M13.2929 4.29291C15.0641 2.5=
+2167 17.9359 2.52167 19.7071 4.2929C21.4783 6.06414 21.4783 8.93588 19.7071=
+ 10.7071L18.7073 11.7069L11.1603 19.2539C10.7182 19.696 10.1489 19.989 9.53=
+219 20.0918L4.1644 20.9864C3.84584 21.0395 3.52125 20.9355 3.29289 20.7071C=
+3.06453 20.4788 2.96051 20.1542 3.0136 19.8356L3.90824 14.4678C4.01103 13.8=
+511 4.30396 13.2818 4.7461 12.8397L13.2929 4.29291ZM13 7.41422L6.16031 14.2=
+539C6.01293 14.4013 5.91529 14.591 5.88102 14.7966L5.21655 18.7835L9.20339 =
+18.119C9.40898 18.0847 9.59872 17.9871 9.7461 17.8397L16.5858 11L13 7.41422=
+ZM18 9.5858L14.4142 6.00001L14.7071 5.70712C15.6973 4.71693 17.3027 4.71693=
+ 18.2929 5.70712C19.2831 6.69731 19.2831 8.30272 18.2929 9.29291L18 9.5858Z=
+" fill=3D"currentColor"></path></svg></div></button></div></div></div></div=
+></div></div></div><div class=3D"w-full text-token-text-primary" data-testi=
+d=3D"conversation-turn-23" style=3D"--avatar-color: #AB68FF;"><div class=3D=
+"px-4 py-2 justify-center text-base md:gap-6 m-auto"><div class=3D"flex fle=
+x-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[=
+40rem] xl:max-w-[48rem] group"><div class=3D"flex-shrink-0 flex flex-col re=
+lative items-end"><div><div class=3D"pt-0.5"><div class=3D"gizmo-shadow-str=
+oke flex h-6 w-6 items-center justify-center overflow-hidden rounded-full">=
+<div class=3D"relative p-1 rounded-sm h-9 w-9 text-white flex items-center =
+justify-center" style=3D"background-color: rgb(171, 104, 255); width: 24px;=
+ height: 24px;"><svg width=3D"41" height=3D"41" viewBox=3D"0 0 41 41" fill=
+=3D"none" xmlns=3D"http://www.w3.org/2000/svg" class=3D"icon-sm" role=3D"im=
+g"><text x=3D"-9999" y=3D"-9999">ChatGPT</text><path d=3D"M37.5324 16.8707C=
+37.9808 15.5241 38.1363 14.0974 37.9886 12.6859C37.8409 11.2744 37.3934 9.9=
+1076 36.676 8.68622C35.6126 6.83404 33.9882 5.3676 32.0373 4.4985C30.0864 3=
+.62941 27.9098 3.40259 25.8215 3.85078C24.8796 2.7893 23.7219 1.94125 22.42=
+57 1.36341C21.1295 0.785575 19.7249 0.491269 18.3058 0.500197C16.1708 0.495=
+044 14.0893 1.16803 12.3614 2.42214C10.6335 3.67624 9.34853 5.44666 8.6917 =
+7.47815C7.30085 7.76286 5.98686 8.3414 4.8377 9.17505C3.68854 10.0087 2.730=
+73 11.0782 2.02839 12.312C0.956464 14.1591 0.498905 16.2988 0.721698 18.422=
+8C0.944492 20.5467 1.83612 22.5449 3.268 24.1293C2.81966 25.4759 2.66413 26=
+.9026 2.81182 28.3141C2.95951 29.7256 3.40701 31.0892 4.12437 32.3138C5.187=
+91 34.1659 6.8123 35.6322 8.76321 36.5013C10.7141 37.3704 12.8907 37.5973 1=
+4.9789 37.1492C15.9208 38.2107 17.0786 39.0587 18.3747 39.6366C19.6709 40.2=
+144 21.0755 40.5087 22.4946 40.4998C24.6307 40.5054 26.7133 39.8321 28.4418=
+ 38.5772C30.1704 37.3223 31.4556 35.5506 32.1119 33.5179C33.5027 33.2332 34=
+.8167 32.6547 35.9659 31.821C37.115 30.9874 38.0728 29.9178 38.7752 28.684C=
+39.8458 26.8371 40.3023 24.6979 40.0789 22.5748C39.8556 20.4517 38.9639 18.=
+4544 37.5324 16.8707ZM22.4978 37.8849C20.7443 37.8874 19.0459 37.2733 17.69=
+94 36.1501C17.7601 36.117 17.8666 36.0586 17.936 36.0161L25.9004 31.4156C26=
+.1003 31.3019 26.2663 31.137 26.3813 30.9378C26.4964 30.7386 26.5563 30.512=
+4 26.5549 30.2825V19.0542L29.9213 20.998C29.9389 21.0068 29.9541 21.0198 29=
+.9656 21.0359C29.977 21.052 29.9842 21.0707 29.9867 21.0902V30.3889C29.9842=
+ 32.375 29.1946 34.2791 27.7909 35.6841C26.3872 37.0892 24.4838 37.8806 22.=
+4978 37.8849ZM6.39227 31.0064C5.51397 29.4888 5.19742 27.7107 5.49804 25.98=
+32C5.55718 26.0187 5.66048 26.0818 5.73461 26.1244L13.699 30.7248C13.8975 3=
+0.8408 14.1233 30.902 14.3532 30.902C14.583 30.902 14.8088 30.8408 15.0073 =
+30.7248L24.731 25.1103V28.9979C24.7321 29.0177 24.7283 29.0376 24.7199 29.0=
+556C24.7115 29.0736 24.6988 29.0893 24.6829 29.1012L16.6317 33.7497C14.9096=
+ 34.7416 12.8643 35.0097 10.9447 34.4954C9.02506 33.9811 7.38785 32.7263 6.=
+39227 31.0064ZM4.29707 13.6194C5.17156 12.0998 6.55279 10.9364 8.19885 10.3=
+327C8.19885 10.4013 8.19491 10.5228 8.19491 10.6071V19.808C8.19351 20.0378 =
+8.25334 20.2638 8.36823 20.4629C8.48312 20.6619 8.64893 20.8267 8.84863 20.=
+9404L18.5723 26.5542L15.206 28.4979C15.1894 28.5089 15.1703 28.5155 15.1505=
+ 28.5173C15.1307 28.5191 15.1107 28.516 15.0924 28.5082L7.04046 23.8557C5.3=
+2135 22.8601 4.06716 21.2235 3.55289 19.3046C3.03862 17.3858 3.30624 15.341=
+3 4.29707 13.6194ZM31.955 20.0556L22.2312 14.4411L25.5976 12.4981C25.6142 1=
+2.4872 25.6333 12.4805 25.6531 12.4787C25.6729 12.4769 25.6928 12.4801 25.7=
+111 12.4879L33.7631 17.1364C34.9967 17.849 36.0017 18.8982 36.6606 20.1613C=
+37.3194 21.4244 37.6047 22.849 37.4832 24.2684C37.3617 25.6878 36.8382 27.0=
+432 35.9743 28.1759C35.1103 29.3086 33.9415 30.1717 32.6047 30.6641C32.6047=
+ 30.5947 32.6047 30.4733 32.6047 30.3889V21.188C32.6066 20.9586 32.5474 20.=
+7328 32.4332 20.5338C32.319 20.3348 32.154 20.1698 31.955 20.0556ZM35.3055 =
+15.0128C35.2464 14.9765 35.1431 14.9142 35.069 14.8717L27.1045 10.2712C26.9=
+06 10.1554 26.6803 10.0943 26.4504 10.0943C26.2206 10.0943 25.9948 10.1554 =
+25.7963 10.2712L16.0726 15.8858V11.9982C16.0715 11.9783 16.0753 11.9585 16.=
+0837 11.9405C16.0921 11.9225 16.1048 11.9068 16.1207 11.8949L24.1719 7.2502=
+5C25.4053 6.53903 26.8158 6.19376 28.2383 6.25482C29.6608 6.31589 31.0364 6=
+.78077 32.2044 7.59508C33.3723 8.40939 34.2842 9.53945 34.8334 10.8531C35.3=
+826 12.1667 35.5464 13.6095 35.3055 15.0128ZM14.2424 21.9419L10.8752 19.998=
+1C10.8576 19.9893 10.8423 19.9763 10.8309 19.9602C10.8195 19.9441 10.8122 1=
+9.9254 10.8098 19.9058V10.6071C10.8107 9.18295 11.2173 7.78848 11.9819 6.58=
+696C12.7466 5.38544 13.8377 4.42659 15.1275 3.82264C16.4173 3.21869 17.8524=
+ 2.99464 19.2649 3.1767C20.6775 3.35876 22.0089 3.93941 23.1034 4.85067C23.=
+0427 4.88379 22.937 4.94215 22.8668 4.98473L14.9024 9.58517C14.7025 9.69878=
+ 14.5366 9.86356 14.4215 10.0626C14.3065 10.2616 14.2466 10.4877 14.2479 10=
+.7175L14.2424 21.9419ZM16.071 17.9991L20.4018 15.4978L24.7325 17.9975V22.99=
+85L20.4018 25.4983L16.071 22.9985V17.9991Z" fill=3D"currentColor"></path></=
+svg></div></div></div></div></div><div class=3D"relative flex w-full flex-c=
+ol agent-turn"><div class=3D"font-semibold select-none">ChatGPT</div><div c=
+lass=3D"flex-col gap-1 md:gap-3"><div class=3D"flex flex-grow flex-col max-=
+w-full"><div data-message-author-role=3D"assistant" data-message-id=3D"303b=
+196e-1f35-49a1-b47e-0eb86482fbe7" class=3D"min-h-[20px] text-message flex f=
+lex-col items-start gap-3 whitespace-pre-wrap break-words [.text-message+&a=
+mp;]:mt-5 overflow-x-auto"><div class=3D"markdown prose w-full break-words =
+dark:prose-invert light"><p>In Dash, you can implement row-specific tooltip=
+s for a <code>DataTable</code> by using the <code>tooltip_data</code> prope=
+rty. This property is a list of dictionaries where each dictionary correspo=
+nds to a specific row in the table. The keys in the dictionary are the colu=
+mn IDs, and the values are the tooltip texts you want to display for that c=
+ell.</p><p>Here's an example of how to add tooltips that are specific to ea=
+ch row in the <code>DataTable</code>:</p><pre><div class=3D"dark bg-gray-95=
+0 rounded-md"><div class=3D"flex items-center relative text-token-text-seco=
+ndary bg-token-main-surface-secondary px-4 py-2 text-xs font-sans justify-b=
+etween rounded-t-md"><span>python</span><span class=3D"" data-state=3D"clos=
+ed"><button class=3D"flex gap-1 items-center"><svg width=3D"24" height=3D"2=
+4" viewBox=3D"0 0 24 24" fill=3D"none" xmlns=3D"http://www.w3.org/2000/svg"=
+ class=3D"icon-sm"><path fill-rule=3D"evenodd" clip-rule=3D"evenodd" d=3D"M=
+12 4C10.8954 4 10 4.89543 10 6H14C14 4.89543 13.1046 4 12 4ZM8.53513 4C9.22=
+675 2.8044 10.5194 2 12 2C13.4806 2 14.7733 2.8044 15.4649 4H17C18.6569 4 2=
+0 5.34315 20 7V19C20 20.6569 18.6569 22 17 22H7C5.34315 22 4 20.6569 4 19V7=
+C4 5.34315 5.34315 4 7 4H8.53513ZM8 6H7C6.44772 6 6 6.44772 6 7V19C6 19.552=
+3 6.44772 20 7 20H17C17.5523 20 18 19.5523 18 19V7C18 6.44772 17.5523 6 17 =
+6H16C16 7.10457 15.1046 8 14 8H10C8.89543 8 8 7.10457 8 6Z" fill=3D"current=
+Color"></path></svg>Copy code</button></span></div><div class=3D"p-4 overfl=
+ow-y-auto"><code class=3D"!whitespace-pre hljs language-python"><span class=
+=3D"hljs-keyword">from</span> dash <span class=3D"hljs-keyword">import</spa=
+n> dcc, html, Input, Output, dash_table
+<span class=3D"hljs-keyword">import</span> dash
+<span class=3D"hljs-keyword">import</span> pandas <span class=3D"hljs-keywo=
+rd">as</span> pd
+
+<span class=3D"hljs-comment"># Initialize the Dash app</span>
+app =3D dash.Dash(__name__)
+
+<span class=3D"hljs-comment"># Assume you have a DataFrame `df_trades` with=
+ your trades data</span>
+df_trades =3D pd.DataFrame({
+    <span class=3D"hljs-string">"ID"</span>: [<span class=3D"hljs-string">"=
+MX-5433"</span>, <span class=3D"hljs-string">"MX-5423"</span>, <span class=
+=3D"hljs-string">"MX-5485"</span>],
+    <span class=3D"hljs-string">"Description"</span>: [<span class=3D"hljs-=
+string">"SPX50CallDec24"</span>, <span class=3D"hljs-string">"SPX60CallDec2=
+4"</span>, <span class=3D"hljs-string">"SPX55CallDec24"</span>],
+    <span class=3D"hljs-string">"Current Position"</span>: [<span class=3D"=
+hljs-number">30000</span>, <span class=3D"hljs-number">35000</span>, <span =
+class=3D"hljs-number">1000000</span>]
+})
+
+<span class=3D"hljs-comment"># Create a tooltip_data that corresponds to df=
+_trades</span>
+tooltip_data =3D [
+    {
+        column: {<span class=3D"hljs-string">'value'</span>: <span class=3D=
+"hljs-built_in">str</span>(value), <span class=3D"hljs-string">'type'</span=
+>: <span class=3D"hljs-string">'markdown'</span>}
+        <span class=3D"hljs-keyword">for</span> column, value <span class=
+=3D"hljs-keyword">in</span> row.items()
+    } <span class=3D"hljs-keyword">for</span> row <span class=3D"hljs-keywo=
+rd">in</span> df_trades.to_dict(<span class=3D"hljs-string">'records'</span=
+>)
+]
+
+<span class=3D"hljs-comment"># Add a custom tooltip message for each row if=
+ needed</span>
+<span class=3D"hljs-keyword">for</span> i, tooltip_row <span class=3D"hljs-=
+keyword">in</span> <span class=3D"hljs-built_in">enumerate</span>(tooltip_d=
+ata):
+    tooltip_row[<span class=3D"hljs-string">'ID'</span>][<span class=3D"hlj=
+s-string">'value'</span>] =3D <span class=3D"hljs-string">f"Trade ID <span =
+class=3D"hljs-subst">{df_trades.loc[i, <span class=3D"hljs-string">'ID'</sp=
+an>]}</span>"</span>
+
+<span class=3D"hljs-comment"># Define the layout of the app</span>
+app.layout =3D html.Div([
+    dash_table.DataTable(
+        <span class=3D"hljs-built_in">id</span>=3D<span class=3D"hljs-strin=
+g">'trades-table'</span>,
+        columns=3D[
+            {<span class=3D"hljs-string">'name'</span>: <span class=3D"hljs=
+-string">'ID'</span>, <span class=3D"hljs-string">'id'</span>: <span class=
+=3D"hljs-string">'ID'</span>},
+            {<span class=3D"hljs-string">'name'</span>: <span class=3D"hljs=
+-string">'Description'</span>, <span class=3D"hljs-string">'id'</span>: <sp=
+an class=3D"hljs-string">'Description'</span>},
+            {<span class=3D"hljs-string">'name'</span>: <span class=3D"hljs=
+-string">'Current Position'</span>, <span class=3D"hljs-string">'id'</span>=
+: <span class=3D"hljs-string">'Current Position'</span>, <span class=3D"hlj=
+s-string">'type'</span>: <span class=3D"hljs-string">'numeric'</span>, <spa=
+n class=3D"hljs-string">'format'</span>: {<span class=3D"hljs-string">'spec=
+ifier'</span>: <span class=3D"hljs-string">'$,.2f'</span>}}
+        ],
+        data=3Ddf_trades.to_dict(<span class=3D"hljs-string">'records'</spa=
+n>),
+        tooltip_data=3Dtooltip_data,
+    )
+])
+
+<span class=3D"hljs-comment"># Run the app</span>
+<span class=3D"hljs-keyword">if</span> __name__ =3D=3D <span class=3D"hljs-=
+string">'__main__'</span>:
+    app.run_server(debug=3D<span class=3D"hljs-literal">True</span>)
+</code></div></div></pre><p>In this example, the <code>tooltip_data</code> =
+is generated by iterating over the records in the DataFrame and creating a =
+dictionary for each row. Then, an additional loop is added to customize the=
+ tooltip message for the 'ID' column of each row. When you hover over the c=
+ells in the 'ID' column, it will display "Trade ID MX-5433", "Trade ID MX-5=
+423", etc., depending on the row.</p><p>The tooltips can contain any text, =
+and you can format it using Markdown by specifying <code>'type': 'markdown'=
+</code> in the tooltip dictionary. Adjust the content of the tooltips accor=
+ding to the information you want to display for each cell.</p><p>Please not=
+e that the format for the tooltip_data may change depending on the version =
+of Dash you are using, so it's always a good idea to check the latest <a ta=
+rget=3D"_new">Dash DataTable documentation</a> for the most current informa=
+tion.</p></div></div></div><div class=3D"mt-1 flex justify-start gap-3 empt=
+y:hidden"><div class=3D"text-gray-400 flex self-end lg:self-center justify-=
+center lg:justify-start mt-0 -ml-1 h-7 visible"><span class=3D"" data-state=
+=3D"closed"><button class=3D"flex items-center gap-1.5 rounded-md p-1 text-=
+xs text-token-text-tertiary hover:text-token-text-primary md:invisible md:g=
+roup-hover:visible md:group-[.final-completion]:visible"><svg width=3D"24" =
+height=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" xmlns=3D"http://www.w3.or=
+g/2000/svg" class=3D"icon-md"><path fill-rule=3D"evenodd" clip-rule=3D"even=
+odd" d=3D"M12 4C10.8954 4 10 4.89543 10 6H14C14 4.89543 13.1046 4 12 4ZM8.5=
+3513 4C9.22675 2.8044 10.5194 2 12 2C13.4806 2 14.7733 2.8044 15.4649 4H17C=
+18.6569 4 20 5.34315 20 7V19C20 20.6569 18.6569 22 17 22H7C5.34315 22 4 20.=
+6569 4 19V7C4 5.34315 5.34315 4 7 4H8.53513ZM8 6H7C6.44772 6 6 6.44772 6 7V=
+19C6 19.5523 6.44772 20 7 20H17C17.5523 20 18 19.5523 18 19V7C18 6.44772 17=
+.5523 6 17 6H16C16 7.10457 15.1046 8 14 8H10C8.89543 8 8 7.10457 8 6Z" fill=
+=3D"currentColor"></path></svg></button></span><div class=3D"flex"><span cl=
+ass=3D"" data-state=3D"closed"><button class=3D"p-1 rounded-md text-token-t=
+ext-tertiary hover:text-token-text-primary md:invisible md:group-hover:visi=
+ble md:group-[.final-completion]:visible"><svg width=3D"24" height=3D"24" v=
+iewBox=3D"0 0 24 24" fill=3D"none" xmlns=3D"http://www.w3.org/2000/svg" cla=
+ss=3D"icon-md"><path fill-rule=3D"evenodd" clip-rule=3D"evenodd" d=3D"M11.8=
+727 21.4961C11.6725 21.8466 11.2811 22.0423 10.8805 21.9922L10.4267 21.9355=
+C7.95958 21.6271 6.36855 19.1665 7.09975 16.7901L7.65054 15H6.93226C4.29476=
+ 15 2.37923 12.4921 3.0732 9.94753L4.43684 4.94753C4.91145 3.20728 6.49209 =
+2 8.29589 2H18.0045C19.6614 2 21.0045 3.34315 21.0045 5V12C21.0045 13.6569 =
+19.6614 15 18.0045 15H16.0045C15.745 15 15.5054 15.1391 15.3766 15.3644L11.=
+8727 21.4961ZM14.0045 4H8.29589C7.39399 4 6.60367 4.60364 6.36637 5.47376L5=
+.00273 10.4738C4.65574 11.746 5.61351 13 6.93226 13H9.00451C9.32185 13 9.62=
+036 13.1506 9.8089 13.4059C9.99743 13.6612 10.0536 13.9908 9.96028 14.2941L=
+9.01131 17.3782C8.6661 18.5002 9.35608 19.6596 10.4726 19.9153L13.6401 14.3=
+721C13.9523 13.8258 14.4376 13.4141 15.0045 13.1902V5C15.0045 4.44772 14.55=
+68 4 14.0045 4ZM17.0045 13V5C17.0045 4.64937 16.9444 4.31278 16.8338 4H18.0=
+045C18.5568 4 19.0045 4.44772 19.0045 5V12C19.0045 12.5523 18.5568 13 18.00=
+45 13H17.0045Z" fill=3D"currentColor"></path></svg></button></span></div></=
+div></div></div></div></div></div></div><div class=3D"w-full text-token-tex=
+t-primary" data-testid=3D"conversation-turn-24" style=3D"--avatar-color: #A=
+B68FF;"><div class=3D"px-4 py-2 justify-center text-base md:gap-6 m-auto"><=
+div class=3D"flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md=
+:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group"><div class=3D"flex-shri=
+nk-0 flex flex-col relative items-end"><div><div class=3D"pt-0.5"><div clas=
+s=3D"gizmo-shadow-stroke flex h-6 w-6 items-center justify-center overflow-=
+hidden rounded-full"><div class=3D"relative flex"><img alt=3D"User" loading=
+=3D"lazy" width=3D"24" height=3D"24" decoding=3D"async" data-nimg=3D"1" cla=
+ss=3D"rounded-sm" src=3D"https://s.gravatar.com/avatar/ddcae653ee2eddac9f38=
+1cb44d864b27?s=3D480&amp;r=3Dpg&amp;d=3Dhttps%3A%2F%2Fcdn.auth0.com%2Favata=
+rs%2Fop.png" style=3D"color: transparent;"></div></div></div></div></div><d=
+iv class=3D"relative flex w-full flex-col"><div class=3D"font-semibold sele=
+ct-none">You</div><div class=3D"flex-col gap-1 md:gap-3"><div class=3D"flex=
+ flex-grow flex-col max-w-full"><div data-message-author-role=3D"user" data=
+-message-id=3D"aaa202d7-e547-4890-90aa-3f6af36d7614" class=3D"min-h-[20px] =
+text-message flex flex-col items-start gap-3 whitespace-pre-wrap break-word=
+s [.text-message+&amp;]:mt-5 overflow-x-auto"><div class=3D"">can you updat=
+e the code so that I can upload a trade file via the gui</div></div></div><=
+div class=3D"mt-1 flex justify-start gap-3 empty:hidden"><div class=3D"text=
+-gray-400 flex self-end lg:self-center justify-center lg:justify-start mt-0=
+ -ml-1 h-7 visible"><button class=3D"p-1 rounded-md text-token-text-tertiar=
+y hover:text-token-text-primary md:invisible md:group-hover:visible md:grou=
+p-[.final-completion]:visible"><div class=3D"flex items-center gap-1.5 text=
+-xs"><svg width=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" xm=
+lns=3D"http://www.w3.org/2000/svg" class=3D"icon-md"><path fill-rule=3D"eve=
+nodd" clip-rule=3D"evenodd" d=3D"M13.2929 4.29291C15.0641 2.52167 17.9359 2=
+.52167 19.7071 4.2929C21.4783 6.06414 21.4783 8.93588 19.7071 10.7071L18.70=
+73 11.7069L11.1603 19.2539C10.7182 19.696 10.1489 19.989 9.53219 20.0918L4.=
+1644 20.9864C3.84584 21.0395 3.52125 20.9355 3.29289 20.7071C3.06453 20.478=
+8 2.96051 20.1542 3.0136 19.8356L3.90824 14.4678C4.01103 13.8511 4.30396 13=
+.2818 4.7461 12.8397L13.2929 4.29291ZM13 7.41422L6.16031 14.2539C6.01293 14=
+.4013 5.91529 14.591 5.88102 14.7966L5.21655 18.7835L9.20339 18.119C9.40898=
+ 18.0847 9.59872 17.9871 9.7461 17.8397L16.5858 11L13 7.41422ZM18 9.5858L14=
+.4142 6.00001L14.7071 5.70712C15.6973 4.71693 17.3027 4.71693 18.2929 5.707=
+12C19.2831 6.69731 19.2831 8.30272 18.2929 9.29291L18 9.5858Z" fill=3D"curr=
+entColor"></path></svg></div></button></div></div></div></div></div></div><=
+/div><div class=3D"w-full text-token-text-primary" data-testid=3D"conversat=
+ion-turn-25" style=3D"--avatar-color: #AB68FF;"><div class=3D"px-4 py-2 jus=
+tify-center text-base md:gap-6 m-auto"><div class=3D"flex flex-1 text-base =
+mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-=
+w-[48rem] group final-completion"><div class=3D"flex-shrink-0 flex flex-col=
+ relative items-end"><div><div class=3D"pt-0.5"><div class=3D"gizmo-shadow-=
+stroke flex h-6 w-6 items-center justify-center overflow-hidden rounded-ful=
+l"><div class=3D"relative p-1 rounded-sm h-9 w-9 text-white flex items-cent=
+er justify-center" style=3D"background-color: rgb(171, 104, 255); width: 24=
+px; height: 24px;"><svg width=3D"41" height=3D"41" viewBox=3D"0 0 41 41" fi=
+ll=3D"none" xmlns=3D"http://www.w3.org/2000/svg" class=3D"icon-sm" role=3D"=
+img"><text x=3D"-9999" y=3D"-9999">ChatGPT</text><path d=3D"M37.5324 16.870=
+7C37.9808 15.5241 38.1363 14.0974 37.9886 12.6859C37.8409 11.2744 37.3934 9=
+.91076 36.676 8.68622C35.6126 6.83404 33.9882 5.3676 32.0373 4.4985C30.0864=
+ 3.62941 27.9098 3.40259 25.8215 3.85078C24.8796 2.7893 23.7219 1.94125 22.=
+4257 1.36341C21.1295 0.785575 19.7249 0.491269 18.3058 0.500197C16.1708 0.4=
+95044 14.0893 1.16803 12.3614 2.42214C10.6335 3.67624 9.34853 5.44666 8.691=
+7 7.47815C7.30085 7.76286 5.98686 8.3414 4.8377 9.17505C3.68854 10.0087 2.7=
+3073 11.0782 2.02839 12.312C0.956464 14.1591 0.498905 16.2988 0.721698 18.4=
+228C0.944492 20.5467 1.83612 22.5449 3.268 24.1293C2.81966 25.4759 2.66413 =
+26.9026 2.81182 28.3141C2.95951 29.7256 3.40701 31.0892 4.12437 32.3138C5.1=
+8791 34.1659 6.8123 35.6322 8.76321 36.5013C10.7141 37.3704 12.8907 37.5973=
+ 14.9789 37.1492C15.9208 38.2107 17.0786 39.0587 18.3747 39.6366C19.6709 40=
+.2144 21.0755 40.5087 22.4946 40.4998C24.6307 40.5054 26.7133 39.8321 28.44=
+18 38.5772C30.1704 37.3223 31.4556 35.5506 32.1119 33.5179C33.5027 33.2332 =
+34.8167 32.6547 35.9659 31.821C37.115 30.9874 38.0728 29.9178 38.7752 28.68=
+4C39.8458 26.8371 40.3023 24.6979 40.0789 22.5748C39.8556 20.4517 38.9639 1=
+8.4544 37.5324 16.8707ZM22.4978 37.8849C20.7443 37.8874 19.0459 37.2733 17.=
+6994 36.1501C17.7601 36.117 17.8666 36.0586 17.936 36.0161L25.9004 31.4156C=
+26.1003 31.3019 26.2663 31.137 26.3813 30.9378C26.4964 30.7386 26.5563 30.5=
+124 26.5549 30.2825V19.0542L29.9213 20.998C29.9389 21.0068 29.9541 21.0198 =
+29.9656 21.0359C29.977 21.052 29.9842 21.0707 29.9867 21.0902V30.3889C29.98=
+42 32.375 29.1946 34.2791 27.7909 35.6841C26.3872 37.0892 24.4838 37.8806 2=
+2.4978 37.8849ZM6.39227 31.0064C5.51397 29.4888 5.19742 27.7107 5.49804 25.=
+9832C5.55718 26.0187 5.66048 26.0818 5.73461 26.1244L13.699 30.7248C13.8975=
+ 30.8408 14.1233 30.902 14.3532 30.902C14.583 30.902 14.8088 30.8408 15.007=
+3 30.7248L24.731 25.1103V28.9979C24.7321 29.0177 24.7283 29.0376 24.7199 29=
+.0556C24.7115 29.0736 24.6988 29.0893 24.6829 29.1012L16.6317 33.7497C14.90=
+96 34.7416 12.8643 35.0097 10.9447 34.4954C9.02506 33.9811 7.38785 32.7263 =
+6.39227 31.0064ZM4.29707 13.6194C5.17156 12.0998 6.55279 10.9364 8.19885 10=
+.3327C8.19885 10.4013 8.19491 10.5228 8.19491 10.6071V19.808C8.19351 20.037=
+8 8.25334 20.2638 8.36823 20.4629C8.48312 20.6619 8.64893 20.8267 8.84863 2=
+0.9404L18.5723 26.5542L15.206 28.4979C15.1894 28.5089 15.1703 28.5155 15.15=
+05 28.5173C15.1307 28.5191 15.1107 28.516 15.0924 28.5082L7.04046 23.8557C5=
+.32135 22.8601 4.06716 21.2235 3.55289 19.3046C3.03862 17.3858 3.30624 15.3=
+413 4.29707 13.6194ZM31.955 20.0556L22.2312 14.4411L25.5976 12.4981C25.6142=
+ 12.4872 25.6333 12.4805 25.6531 12.4787C25.6729 12.4769 25.6928 12.4801 25=
+.7111 12.4879L33.7631 17.1364C34.9967 17.849 36.0017 18.8982 36.6606 20.161=
+3C37.3194 21.4244 37.6047 22.849 37.4832 24.2684C37.3617 25.6878 36.8382 27=
+.0432 35.9743 28.1759C35.1103 29.3086 33.9415 30.1717 32.6047 30.6641C32.60=
+47 30.5947 32.6047 30.4733 32.6047 30.3889V21.188C32.6066 20.9586 32.5474 2=
+0.7328 32.4332 20.5338C32.319 20.3348 32.154 20.1698 31.955 20.0556ZM35.305=
+5 15.0128C35.2464 14.9765 35.1431 14.9142 35.069 14.8717L27.1045 10.2712C26=
+.906 10.1554 26.6803 10.0943 26.4504 10.0943C26.2206 10.0943 25.9948 10.155=
+4 25.7963 10.2712L16.0726 15.8858V11.9982C16.0715 11.9783 16.0753 11.9585 1=
+6.0837 11.9405C16.0921 11.9225 16.1048 11.9068 16.1207 11.8949L24.1719 7.25=
+025C25.4053 6.53903 26.8158 6.19376 28.2383 6.25482C29.6608 6.31589 31.0364=
+ 6.78077 32.2044 7.59508C33.3723 8.40939 34.2842 9.53945 34.8334 10.8531C35=
+.3826 12.1667 35.5464 13.6095 35.3055 15.0128ZM14.2424 21.9419L10.8752 19.9=
+981C10.8576 19.9893 10.8423 19.9763 10.8309 19.9602C10.8195 19.9441 10.8122=
+ 19.9254 10.8098 19.9058V10.6071C10.8107 9.18295 11.2173 7.78848 11.9819 6.=
+58696C12.7466 5.38544 13.8377 4.42659 15.1275 3.82264C16.4173 3.21869 17.85=
+24 2.99464 19.2649 3.1767C20.6775 3.35876 22.0089 3.93941 23.1034 4.85067C2=
+3.0427 4.88379 22.937 4.94215 22.8668 4.98473L14.9024 9.58517C14.7025 9.698=
+78 14.5366 9.86356 14.4215 10.0626C14.3065 10.2616 14.2466 10.4877 14.2479 =
+10.7175L14.2424 21.9419ZM16.071 17.9991L20.4018 15.4978L24.7325 17.9975V22.=
+9985L20.4018 25.4983L16.071 22.9985V17.9991Z" fill=3D"currentColor"></path>=
+</svg></div></div></div></div></div><div class=3D"relative flex w-full flex=
+-col agent-turn"><div class=3D"font-semibold select-none">ChatGPT</div><div=
+ class=3D"flex-col gap-1 md:gap-3"><div class=3D"flex flex-grow flex-col ma=
+x-w-full"><div data-message-author-role=3D"assistant" data-message-id=3D"fb=
+9ed088-c657-4f5e-b7a8-d74d42959362" class=3D"min-h-[20px] text-message flex=
+ flex-col items-start gap-3 whitespace-pre-wrap break-words [.text-message+=
+&amp;]:mt-5 overflow-x-auto"><div class=3D"markdown prose w-full break-word=
+s dark:prose-invert light"><p>Certainly! To enable file uploading through t=
+he GUI, you can use the <code>dcc.Upload</code> component in Dash, which al=
+lows users to upload files through drag-and-drop or by using a file dialog.=
+</p><p>Here's an updated version of the code that includes a file upload fe=
+ature. When a file is uploaded, it is parsed, and the data is used to popul=
+ate the <code>DataTable</code>:</p><pre><div class=3D"dark bg-gray-950 roun=
+ded-md"><div class=3D"flex items-center relative text-token-text-secondary =
+bg-token-main-surface-secondary px-4 py-2 text-xs font-sans justify-between=
+ rounded-t-md"><span>python</span><span class=3D"" data-state=3D"closed"><b=
+utton class=3D"flex gap-1 items-center"><svg width=3D"24" height=3D"24" vie=
+wBox=3D"0 0 24 24" fill=3D"none" xmlns=3D"http://www.w3.org/2000/svg" class=
+=3D"icon-sm"><path fill-rule=3D"evenodd" clip-rule=3D"evenodd" d=3D"M12 4C1=
+0.8954 4 10 4.89543 10 6H14C14 4.89543 13.1046 4 12 4ZM8.53513 4C9.22675 2.=
+8044 10.5194 2 12 2C13.4806 2 14.7733 2.8044 15.4649 4H17C18.6569 4 20 5.34=
+315 20 7V19C20 20.6569 18.6569 22 17 22H7C5.34315 22 4 20.6569 4 19V7C4 5.3=
+4315 5.34315 4 7 4H8.53513ZM8 6H7C6.44772 6 6 6.44772 6 7V19C6 19.5523 6.44=
+772 20 7 20H17C17.5523 20 18 19.5523 18 19V7C18 6.44772 17.5523 6 17 6H16C1=
+6 7.10457 15.1046 8 14 8H10C8.89543 8 8 7.10457 8 6Z" fill=3D"currentColor"=
+></path></svg>Copy code</button></span></div><div class=3D"p-4 overflow-y-a=
+uto"><code class=3D"!whitespace-pre hljs language-python"><span class=3D"hl=
+js-keyword">from</span> dash <span class=3D"hljs-keyword">import</span> dcc=
+, html, Input, Output, dash_table, callback_context
+<span class=3D"hljs-keyword">import</span> dash
+<span class=3D"hljs-keyword">import</span> pandas <span class=3D"hljs-keywo=
+rd">as</span> pd
+<span class=3D"hljs-keyword">import</span> base64
+<span class=3D"hljs-keyword">import</span> io
+
+<span class=3D"hljs-comment"># Initialize the Dash app</span>
+app =3D dash.Dash(__name__)
+
+<span class=3D"hljs-comment"># Function to parse the uploaded file</span>
+<span class=3D"hljs-keyword">def</span> <span class=3D"hljs-title function_=
+">parse_contents</span>(<span class=3D"hljs-params">contents, filename</spa=
+n>):
+    content_type, content_string =3D contents.split(<span class=3D"hljs-str=
+ing">','</span>)
+
+    decoded =3D base64.b64decode(content_string)
+    <span class=3D"hljs-keyword">try</span>:
+        <span class=3D"hljs-keyword">if</span> <span class=3D"hljs-string">=
+'csv'</span> <span class=3D"hljs-keyword">in</span> filename:
+            <span class=3D"hljs-comment"># Assume that the user uploaded a =
+CSV file</span>
+            df =3D pd.read_csv(io.StringIO(decoded.decode(<span class=3D"hl=
+js-string">'utf-8'</span>)))
+        <span class=3D"hljs-keyword">elif</span> <span class=3D"hljs-string=
+">'xls'</span> <span class=3D"hljs-keyword">in</span> filename:
+            <span class=3D"hljs-comment"># Assume that the user uploaded an=
+ Excel file</span>
+            df =3D pd.read_excel(io.BytesIO(decoded))
+        <span class=3D"hljs-keyword">else</span>:
+            <span class=3D"hljs-keyword">return</span> html.Div([
+                <span class=3D"hljs-string">'Unsupported file format!'</spa=
+n>
+            ])
+    <span class=3D"hljs-keyword">except</span> Exception <span class=3D"hlj=
+s-keyword">as</span> e:
+        <span class=3D"hljs-built_in">print</span>(e)
+        <span class=3D"hljs-keyword">return</span> html.Div([
+            <span class=3D"hljs-string">'There was an error processing this=
+ file.'</span>
+        ])
+
+    <span class=3D"hljs-keyword">return</span> df
+
+<span class=3D"hljs-comment"># Define the layout of the app</span>
+app.layout =3D html.Div([
+    html.H3(<span class=3D"hljs-string">"Upload Trade File"</span>),
+    dcc.Upload(
+        <span class=3D"hljs-built_in">id</span>=3D<span class=3D"hljs-strin=
+g">'upload-data'</span>,
+        children=3Dhtml.Div([
+            <span class=3D"hljs-string">'Drag and Drop or '</span>,
+            html.A(<span class=3D"hljs-string">'Select Files'</span>)
+        ]),
+        style=3D{
+            <span class=3D"hljs-string">'width'</span>: <span class=3D"hljs=
+-string">'100%'</span>,
+            <span class=3D"hljs-string">'height'</span>: <span class=3D"hlj=
+s-string">'60px'</span>,
+            <span class=3D"hljs-string">'lineHeight'</span>: <span class=3D=
+"hljs-string">'60px'</span>,
+            <span class=3D"hljs-string">'borderWidth'</span>: <span class=
+=3D"hljs-string">'1px'</span>,
+            <span class=3D"hljs-string">'borderStyle'</span>: <span class=
+=3D"hljs-string">'dashed'</span>,
+            <span class=3D"hljs-string">'borderRadius'</span>: <span class=
+=3D"hljs-string">'5px'</span>,
+            <span class=3D"hljs-string">'textAlign'</span>: <span class=3D"=
+hljs-string">'center'</span>,
+            <span class=3D"hljs-string">'margin'</span>: <span class=3D"hlj=
+s-string">'10px'</span>
+        },
+        <span class=3D"hljs-comment"># Allow multiple files to be uploaded<=
+/span>
+        multiple=3D<span class=3D"hljs-literal">True</span>
+    ),
+    html.Div(<span class=3D"hljs-built_in">id</span>=3D<span class=3D"hljs-=
+string">'output-data-upload'</span>),
+    dash_table.DataTable(<span class=3D"hljs-built_in">id</span>=3D<span cl=
+ass=3D"hljs-string">'trades-table'</span>)
+])
+
+<span class=3D"hljs-meta">@app.callback(<span class=3D"hljs-params">
+    Output(<span class=3D"hljs-params"><span class=3D"hljs-string">'trades-=
+table'</span>, <span class=3D"hljs-string">'data'</span></span>),
+    [Input(<span class=3D"hljs-params"><span class=3D"hljs-string">'upload-=
+data'</span>, <span class=3D"hljs-string">'contents'</span></span>)],
+    [State(<span class=3D"hljs-params"><span class=3D"hljs-string">'upload-=
+data'</span>, <span class=3D"hljs-string">'filename'</span></span>)]
+</span>)</span>
+<span class=3D"hljs-keyword">def</span> <span class=3D"hljs-title function_=
+">update_output</span>(<span class=3D"hljs-params">list_of_contents, list_o=
+f_names</span>):
+    <span class=3D"hljs-keyword">if</span> list_of_contents <span class=3D"=
+hljs-keyword">is</span> <span class=3D"hljs-keyword">not</span> <span class=
+=3D"hljs-literal">None</span>:
+        <span class=3D"hljs-comment"># Assuming the user may upload multipl=
+e files, we take the first one to parse</span>
+        contents =3D list_of_contents[<span class=3D"hljs-number">0</span>]
+        filename =3D list_of_names[<span class=3D"hljs-number">0</span>]
+        df =3D parse_contents(contents, filename)
+        <span class=3D"hljs-keyword">return</span> df.to_dict(<span class=
+=3D"hljs-string">'records'</span>)
+    <span class=3D"hljs-keyword">return</span> []
+
+<span class=3D"hljs-comment"># Run the app</span>
+<span class=3D"hljs-keyword">if</span> __name__ =3D=3D <span class=3D"hljs-=
+string">'__main__'</span>:
+    app.run_server(debug=3D<span class=3D"hljs-literal">True</span>)
+</code></div></div></pre><p>This example allows the user to upload CSV or E=
+xcel files. The <code>parse_contents</code> function takes the content of t=
+he file and attempts to parse it into a DataFrame, which then updates the d=
+ata of the <code>DataTable</code> in the callback.</p><p>Please ensure that=
+ the uploaded trade file has a structure compatible with the <code>DataTabl=
+e</code> columns and formatting you've set up in your application. Also, yo=
+u might want to implement additional error handling or file validation as n=
+eeded.</p></div></div></div><div class=3D"mt-1 flex justify-start gap-3 emp=
+ty:hidden"><div class=3D"text-gray-400 flex self-end lg:self-center justify=
+-center lg:justify-start mt-0 -ml-1 h-7 visible"><span class=3D"" data-stat=
+e=3D"closed"><button class=3D"flex items-center gap-1.5 rounded-md p-1 text=
+-xs text-token-text-tertiary hover:text-token-text-primary md:invisible md:=
+group-hover:visible md:group-[.final-completion]:visible"><svg width=3D"24"=
+ height=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" xmlns=3D"http://www.w3.o=
+rg/2000/svg" class=3D"icon-md"><path fill-rule=3D"evenodd" clip-rule=3D"eve=
+nodd" d=3D"M12 4C10.8954 4 10 4.89543 10 6H14C14 4.89543 13.1046 4 12 4ZM8.=
+53513 4C9.22675 2.8044 10.5194 2 12 2C13.4806 2 14.7733 2.8044 15.4649 4H17=
+C18.6569 4 20 5.34315 20 7V19C20 20.6569 18.6569 22 17 22H7C5.34315 22 4 20=
+.6569 4 19V7C4 5.34315 5.34315 4 7 4H8.53513ZM8 6H7C6.44772 6 6 6.44772 6 7=
+V19C6 19.5523 6.44772 20 7 20H17C17.5523 20 18 19.5523 18 19V7C18 6.44772 1=
+7.5523 6 17 6H16C16 7.10457 15.1046 8 14 8H10C8.89543 8 8 7.10457 8 6Z" fil=
+l=3D"currentColor"></path></svg></button></span><span class=3D"" data-state=
+=3D"closed"><button class=3D"p-1 rounded-md text-token-text-tertiary hover:=
+text-token-text-primary md:invisible md:group-hover:visible md:group-[.fina=
+l-completion]:visible"><div class=3D"flex items-center gap-1.5 text-xs"><sv=
+g width=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" xmlns=3D"h=
+ttp://www.w3.org/2000/svg" class=3D"icon-md"><path fill-rule=3D"evenodd" cl=
+ip-rule=3D"evenodd" d=3D"M4.5 2.5C5.05228 2.5 5.5 2.94772 5.5 3.5V5.07196C7=
+.19872 3.47759 9.48483 2.5 12 2.5C17.2467 2.5 21.5 6.75329 21.5 12C21.5 17.=
+2467 17.2467 21.5 12 21.5C7.1307 21.5 3.11828 17.8375 2.565 13.1164C2.50071=
+ 12.5679 2.89327 12.0711 3.4418 12.0068C3.99033 11.9425 4.48712 12.3351 4.5=
+514 12.8836C4.98798 16.6089 8.15708 19.5 12 19.5C16.1421 19.5 19.5 16.1421 =
+19.5 12C19.5 7.85786 16.1421 4.5 12 4.5C9.7796 4.5 7.7836 5.46469 6.40954 7=
+H9C9.55228 7 10 7.44772 10 8C10 8.55228 9.55228 9 9 9H4.5C3.96064 9 3.52101=
+ 8.57299 3.50073 8.03859C3.49983 8.01771 3.49958 7.99677 3.5 7.9758V3.5C3.5=
+ 2.94772 3.94771 2.5 4.5 2.5Z" fill=3D"currentColor"></path></svg></div></b=
+utton></span><div class=3D"flex"><span class=3D"" data-state=3D"closed"><bu=
+tton class=3D"p-1 rounded-md text-token-text-tertiary hover:text-token-text=
+-primary md:invisible md:group-hover:visible md:group-[.final-completion]:v=
+isible"><svg width=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"none"=
+ xmlns=3D"http://www.w3.org/2000/svg" class=3D"icon-md"><path fill-rule=3D"=
+evenodd" clip-rule=3D"evenodd" d=3D"M11.8727 21.4961C11.6725 21.8466 11.281=
+1 22.0423 10.8805 21.9922L10.4267 21.9355C7.95958 21.6271 6.36855 19.1665 7=
+.09975 16.7901L7.65054 15H6.93226C4.29476 15 2.37923 12.4921 3.0732 9.94753=
+L4.43684 4.94753C4.91145 3.20728 6.49209 2 8.29589 2H18.0045C19.6614 2 21.0=
+045 3.34315 21.0045 5V12C21.0045 13.6569 19.6614 15 18.0045 15H16.0045C15.7=
+45 15 15.5054 15.1391 15.3766 15.3644L11.8727 21.4961ZM14.0045 4H8.29589C7.=
+39399 4 6.60367 4.60364 6.36637 5.47376L5.00273 10.4738C4.65574 11.746 5.61=
+351 13 6.93226 13H9.00451C9.32185 13 9.62036 13.1506 9.8089 13.4059C9.99743=
+ 13.6612 10.0536 13.9908 9.96028 14.2941L9.01131 17.3782C8.6661 18.5002 9.3=
+5608 19.6596 10.4726 19.9153L13.6401 14.3721C13.9523 13.8258 14.4376 13.414=
+1 15.0045 13.1902V5C15.0045 4.44772 14.5568 4 14.0045 4ZM17.0045 13V5C17.00=
+45 4.64937 16.9444 4.31278 16.8338 4H18.0045C18.5568 4 19.0045 4.44772 19.0=
+045 5V12C19.0045 12.5523 18.5568 13 18.0045 13H17.0045Z" fill=3D"currentCol=
+or"></path></svg></button></span></div></div></div></div></div></div></div>=
+</div></div></div></div></div><div class=3D"w-full pt-2 md:pt-0 dark:border=
+-white/20 md:border-transparent md:dark:border-transparent md:w-[calc(100%-=
+.5rem)]"><form class=3D"stretch mx-2 flex flex-row gap-3 last:mb-2 md:mx-4 =
+md:last:mb-6 lg:mx-auto lg:max-w-2xl xl:max-w-3xl"><div class=3D"relative f=
+lex h-full flex-1 flex-col"><div class=3D"flex w-full items-center"><div cl=
+ass=3D"overflow-hidden [&amp;:has(textarea:focus)]:border-token-border-xhea=
+vy [&amp;:has(textarea:focus)]:shadow-[0_2px_6px_rgba(0,0,0,.05)] flex flex=
+-col w-full dark:border-token-border-medium flex-grow relative border borde=
+r-token-border-medium dark:text-white rounded-2xl bg-token-main-surface-pri=
+mary"><textarea id=3D"prompt-textarea" tabindex=3D"0" data-id=3D"request-4c=
+8726d0-f761-4a9f-8a29-00d514d06571-2" rows=3D"1" placeholder=3D"Message Cha=
+tGPT=E2=80=A6" class=3D"m-0 w-full resize-none border-0 bg-transparent focu=
+s:ring-0 focus-visible:ring-0 dark:bg-transparent max-h-25 py-[10px] pr-10 =
+md:py-3.5 md:pr-12 placeholder-black/50 dark:placeholder-white/50 pl-10 md:=
+pl-[55px]" style=3D"height: 52px; overflow-y: hidden;"></textarea><div clas=
+s=3D"absolute bottom-2 md:bottom-3 left-2 md:left-4"><div class=3D"flex"><b=
+utton class=3D"btn relative p-0 text-black dark:text-white" aria-label=3D"A=
+ttach files"><div class=3D"flex w-full gap-2 items-center justify-center"><=
+svg width=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" xmlns=3D=
+"http://www.w3.org/2000/svg"><path fill-rule=3D"evenodd" clip-rule=3D"eveno=
+dd" d=3D"M9 7C9 4.23858 11.2386 2 14 2C16.7614 2 19 4.23858 19 7V15C19 18.8=
+66 15.866 22 12 22C8.13401 22 5 18.866 5 15V9C5 8.44772 5.44772 8 6 8C6.552=
+28 8 7 8.44772 7 9V15C7 17.7614 9.23858 20 12 20C14.7614 20 17 17.7614 17 1=
+5V7C17 5.34315 15.6569 4 14 4C12.3431 4 11 5.34315 11 7V15C11 15.5523 11.44=
+77 16 12 16C12.5523 16 13 15.5523 13 15V9C13 8.44772 13.4477 8 14 8C14.5523=
+ 8 15 8.44772 15 9V15C15 16.6569 13.6569 18 12 18C10.3431 18 9 16.6569 9 15=
+V7Z" fill=3D"currentColor"></path></svg></div></button><input multiple=3D""=
+ type=3D"file" tabindex=3D"-1" class=3D"hidden" style=3D"display: none;"></=
+div></div><button disabled=3D"" class=3D"absolute bottom-1.5 right-2 rounde=
+d-lg border border-black bg-black p-0.5 text-white transition-colors enable=
+d:bg-black disabled:text-gray-400 disabled:opacity-10 dark:border-white dar=
+k:bg-white dark:hover:bg-white md:bottom-3 md:right-3" data-testid=3D"send-=
+button"><span class=3D"" data-state=3D"closed"><svg width=3D"24" height=3D"=
+24" viewBox=3D"0 0 24 24" fill=3D"none" class=3D"text-white dark:text-black=
+"><path d=3D"M7 11L12 6L17 11M12 18V7" stroke=3D"currentColor" stroke-width=
 =3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round"></path></svg></sp=
 an></button></div></div></div></form><div class=3D"relative px-2 py-2 text-=
 center text-xs text-token-text-secondary md:px-[60px]"><span>ChatGPT can ma=
@@ -3773,10 +4283,10 @@ absolute !important; opacity: 0 !important; width: 1px !important; height: =
 ant; display: block !important; z-index: -1 !important; pointer-events: non=
 e;" aria-hidden=3D"true" tabindex=3D"-1" title=3D"Intercom"></iframe><div c=
 lass=3D"intercom-lightweight-app"></div></body></html>
-------MultipartBoundary--WIPyXCa9HRxWKBLWm6fK6HIbauiVi7VUXyOlLsYuDM----
+------MultipartBoundary--Z1kDXMdPxrctQ4Iz03jZS6vxaoaoObOQOTudiMS7nm----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-a737193a-df2a-42b5-b112-429158d9a849@mhtml.blink
+Content-Location: cid:css-c3f0a1e1-d284-484c-ba60-2b02c530670b@mhtml.blink
 
 @charset "utf-8";
 
@@ -3795,10 +4305,10 @@ r; height: 20px; outline: 0px; position: absolute; right: 20px; width: 20px=
 
 .react-scroll-to-bottom--css-zrcph-1tj0vk3:active { background-color: rgba(=
 0, 0, 0, 0.6); }
-------MultipartBoundary--WIPyXCa9HRxWKBLWm6fK6HIbauiVi7VUXyOlLsYuDM----
+------MultipartBoundary--Z1kDXMdPxrctQ4Iz03jZS6vxaoaoObOQOTudiMS7nm----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-bf09c4b0-5d14-42e0-a406-80f3e7bd55cf@mhtml.blink
+Content-Location: cid:css-d663d31f-8b47-4d3b-9977-be4341801cdf@mhtml.blink
 
 @charset "utf-8";
 
@@ -3818,10 +4328,10 @@ sition: inherit; }
 
 .r34K7X1zGgAi6DllVF3T.active.show.lightbox { position: fixed; inset: 0px; w=
 idth: 100% !important; height: 100% !important; }
-------MultipartBoundary--WIPyXCa9HRxWKBLWm6fK6HIbauiVi7VUXyOlLsYuDM----
+------MultipartBoundary--Z1kDXMdPxrctQ4Iz03jZS6vxaoaoObOQOTudiMS7nm----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-44b75ccc-2e62-460e-b04a-cdc220c3881a@mhtml.blink
+Content-Location: cid:css-76b8d5a7-0d07-41d6-a1a7-946334153215@mhtml.blink
 
 @charset "utf-8";
 
@@ -3916,7 +4426,7 @@ w: rgba(0, 0, 0, 0.05) 0px 0px 25px; }
 @media print {
   .intercom-lightweight-app { display: none; }
 }
-------MultipartBoundary--WIPyXCa9HRxWKBLWm6fK6HIbauiVi7VUXyOlLsYuDM----
+------MultipartBoundary--Z1kDXMdPxrctQ4Iz03jZS6vxaoaoObOQOTudiMS7nm----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://cdn.oaistatic.com/_next/static/css/f4bf4a8acf5cb56a.css
@@ -9980,7 +10490,7 @@ sparent; margin: 0px; }
 .react-select-container .react-select__multi-value__label { padding: 0px; }
 
 #intercom-container { display: none; }
-------MultipartBoundary--WIPyXCa9HRxWKBLWm6fK6HIbauiVi7VUXyOlLsYuDM----
+------MultipartBoundary--Z1kDXMdPxrctQ4Iz03jZS6vxaoaoObOQOTudiMS7nm----
 Content-Type: image/webp
 Content-Transfer-Encoding: base64
 Content-Location: https://s.gravatar.com/avatar/ddcae653ee2eddac9f381cb44d864b27?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fop.png
@@ -9997,7 +10507,7 @@ ysH1qLMGDIjFZoB+lWQVcGOzzyiwrzEEtInNZBMIPzjbAryPdpMOIHLjZAlgTSz3VQ/4ZpKFvPQC
 jIrt5KMBoGzqNkfyZMgLMCL2k+8+cnorGxsSbrI9y1IKRA5rsgptfZQSIZmDTn+++MidOLWZiKTv
 dhdmZpaPnuS///+UCwA=
 
-------MultipartBoundary--WIPyXCa9HRxWKBLWm6fK6HIbauiVi7VUXyOlLsYuDM----
+------MultipartBoundary--Z1kDXMdPxrctQ4Iz03jZS6vxaoaoObOQOTudiMS7nm----
 Content-Type: application/octet-stream
 Content-Transfer-Encoding: base64
 Content-Location: https://files.oaiusercontent.com/file-g4nCrhNqMjVCnnO4jJqWg3Et?se=2024-02-28T17%3A42%3A41Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D299%2C%20immutable&rscd=attachment%3B%20filename%3D47154802-926a-4e17-b155-6b6d5e76589b&sig=xDGEivEXevUBoSr7pCkETQt533sRrIotlEZrnZBv6LM%3D
@@ -10847,7 +11357,7 @@ AAAAAAAAkCN2AwAAAAAAAJAjdgMAAAAAAACQI3YDAAAAAAAAkCN2AwAAAAAAAJAjdgMAAAAAAACQ
 I3YDAAAAAAAAkCN2AwAAAAAAAJAjdgMAAAAAAACQI3YDAAAAAAAAkCN2AwAAAAAAAJDzTyM6KzpG
 CnfmAAAAAElFTkSuQmCC
 
-------MultipartBoundary--WIPyXCa9HRxWKBLWm6fK6HIbauiVi7VUXyOlLsYuDM----
+------MultipartBoundary--Z1kDXMdPxrctQ4Iz03jZS6vxaoaoObOQOTudiMS7nm----
 Content-Type: application/octet-stream
 Content-Transfer-Encoding: base64
 Content-Location: https://files.oaiusercontent.com/file-9kBzcLIbbzxXTYyE0tBUynk0?se=2024-02-28T17%3A42%3A41Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D299%2C%20immutable&rscd=attachment%3B%20filename%3Dc97114b7-73a9-4455-9057-ea70b72134aa&sig=qJLA7y5Vra0ocKve3Nls9S8CRGCufYUvAdeydn69k7M%3D
@@ -11852,7 +12362,7 @@ HLEbAAAAAAAAgOKI3QAAAAAAAAAUR+wGAAAAAAAAoDhiNwAAAAAAAADFEbsBAAAAAAAAKI7YDQAA
 AAAAAEBxxG4AAAAAAAAAiiN2AwAAAAAAAFAcsRsAAAAAAACA4ojdAAAAAAAAABRH7AYAAAAAAACg
 OGI3AAAAAAAAAMURuwEAAAAAAAAozv8H2m78kwDUrDAAAAAASUVORK5CYII=
 
-------MultipartBoundary--WIPyXCa9HRxWKBLWm6fK6HIbauiVi7VUXyOlLsYuDM----
+------MultipartBoundary--Z1kDXMdPxrctQ4Iz03jZS6vxaoaoObOQOTudiMS7nm----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://files.oaiusercontent.com/file-541NeR6MjnTiuhsYGzZSVLGV?se=2024-02-28T17%3A42%3A41Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D299%2C%20immutable&rscd=attachment%3B%20filename%3DwhatifLayout.png&sig=cHkg43AVGfmrZ8C%2BavKaT50aLc3CBCkbaYzh1ybWPyY%3D
@@ -12405,7 +12915,7 @@ AAB4oaQBAOCFkgYAgBdKGgAAXihpAAB4oaQBAOCFkgYAgBdKGgAAXihpAAB4oaQBAOCFkgYAgBdK
 GgAAXihpAAB4oaQBAOCFkgYAgBdKGgAAXihpAAB4oaQBAOCFkgYAgBdKGgAAXihpAAB4oaQBAOCF
 kgYAgBdKGgAAXihpAAB48Q9wC2T64lT6GgAAAABJRU5ErkJggg==
 
-------MultipartBoundary--WIPyXCa9HRxWKBLWm6fK6HIbauiVi7VUXyOlLsYuDM----
+------MultipartBoundary--Z1kDXMdPxrctQ4Iz03jZS6vxaoaoObOQOTudiMS7nm----
 Content-Type: text/html
 Content-ID: <frame-B99FECCBAF59DEC5F413D078BDEE8614@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
@@ -12417,25 +12927,25 @@ tml; charset=3DUTF-8">
       <body>
      =20
     </body></html>
-------MultipartBoundary--WIPyXCa9HRxWKBLWm6fK6HIbauiVi7VUXyOlLsYuDM----
+------MultipartBoundary--Z1kDXMdPxrctQ4Iz03jZS6vxaoaoObOQOTudiMS7nm----
 Content-Type: text/html
-Content-ID: <frame-A50F0D772A04585A8FF04DCF7E6188C2@mhtml.blink>
+Content-ID: <frame-DBB0E85A87762984D0B999C4795CD905@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://tcr9i.chat.openai.com/v2/2.4.1/enforcement.377e2ed937ca5b2169bf1fd2dae9bdf9.html#35536E1E-65B4-4D96-9D97-6ADB7EFF8147&3b6a05b1-4f36-46dd-8798-547e72a910c0
 
 <!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
 ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
-css" href=3D"cid:css-34b6d515-73d4-481a-892a-ed67e6778126@mhtml.blink" /><l=
-ink rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-555116f8-71b3-4a68=
--a141-ccb19f4d4f88@mhtml.blink" /><meta name=3D"viewport" content=3D"width=
+css" href=3D"cid:css-7084392b-3d1f-4ab4-8559-2d3f1142f0c5@mhtml.blink" /><l=
+ink rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-2777b58f-ed66-4f4a=
+-9fe2-e873af969b93@mhtml.blink" /><meta name=3D"viewport" content=3D"width=
 =3Ddevice-width,initial-scale=3D1"><meta http-equiv=3D"X-UA-Compatible" con=
 tent=3D"ie=3Dedge"></head><body><div id=3D"app"><div id=3D"challenge" class=
 =3D"slrEYyWESVLe_Cx3DM1k"><div id=3D"FunCaptcha"></div></div></div></body><=
 /html>
-------MultipartBoundary--WIPyXCa9HRxWKBLWm6fK6HIbauiVi7VUXyOlLsYuDM----
+------MultipartBoundary--Z1kDXMdPxrctQ4Iz03jZS6vxaoaoObOQOTudiMS7nm----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-34b6d515-73d4-481a-892a-ed67e6778126@mhtml.blink
+Content-Location: cid:css-7084392b-3d1f-4ab4-8559-2d3f1142f0c5@mhtml.blink
 
 @charset "utf-8";
 
@@ -12444,10 +12954,10 @@ html, body { margin: 0px; padding: 0px; height: 100%; }
 * { box-sizing: border-box; }
 
 #app { height: 100%; overflow: hidden; }
-------MultipartBoundary--WIPyXCa9HRxWKBLWm6fK6HIbauiVi7VUXyOlLsYuDM----
+------MultipartBoundary--Z1kDXMdPxrctQ4Iz03jZS6vxaoaoObOQOTudiMS7nm----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-555116f8-71b3-4a68-a141-ccb19f4d4f88@mhtml.blink
+Content-Location: cid:css-2777b58f-ed66-4f4a-9fe2-e873af969b93@mhtml.blink
 
 @charset "utf-8";
 
@@ -12525,4 +13035,4 @@ e-exit-done { transform: scale(0.8); opacity: 0; }
 
 .dTcazKGGob_VbK_J853h { display: flex; align-items: center; justify-content=
 : center; }
-------MultipartBoundary--WIPyXCa9HRxWKBLWm6fK6HIbauiVi7VUXyOlLsYuDM------
+------MultipartBoundary--Z1kDXMdPxrctQ4Iz03jZS6vxaoaoObOQOTudiMS7nm------
