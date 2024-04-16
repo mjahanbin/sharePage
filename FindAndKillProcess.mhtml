@@ -1,14 +1,14 @@
 From: <Saved by Blink>
 Snapshot-Content-Location: https://chat.openai.com/c/0c0dac9a-a398-4c38-90ba-0edd7b5742d0
 Subject: ChatGPT
-Date: Tue, 16 Apr 2024 18:30:22 -0400
+Date: Tue, 16 Apr 2024 19:01:48 -0400
 MIME-Version: 1.0
 Content-Type: multipart/related;
 	type="text/html";
-	boundary="----MultipartBoundary--xbN73w344e7Gu9cDhlpmQVSCW1qiP8hqeZ36jVeOSl----"
+	boundary="----MultipartBoundary--oKtfZAAxSPUBCvuoBce4co6ULeUAkLkl6xndfkJMkB----"
 
 
-------MultipartBoundary--xbN73w344e7Gu9cDhlpmQVSCW1qiP8hqeZ36jVeOSl----
+------MultipartBoundary--oKtfZAAxSPUBCvuoBce4co6ULeUAkLkl6xndfkJMkB----
 Content-Type: text/html
 Content-ID: <frame-CFA71C9A94A24552F22A1BA0DE4B313F@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
@@ -17,11 +17,11 @@ Content-Location: https://chat.openai.com/c/0c0dac9a-a398-4c38-90ba-0edd7b5742d0
 <!DOCTYPE html><html data-build=3D"prod-f8767f0cc4fb146a44adf5f83a97a406552=
 467d9" class=3D"light" lang=3D"en-US" style=3D"color-scheme: light;"><head>=
 <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"><l=
-ink rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-094474c4-a32c-43e9=
--afda-53903eef55e3@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css=
-" href=3D"cid:css-55e9791c-4ea5-4813-bd67-a618eb41535b@mhtml.blink" /><link=
- rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-2d2aa394-405f-4abc-9d=
-03-37105c1832aa@mhtml.blink" /><meta name=3D"viewport" content=3D"width=3Dd=
+ink rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-8129f915-e81f-41e5=
+-918b-51c36941dabf@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css=
+" href=3D"cid:css-efea4fa6-3dd3-422f-8c14-e8c68542b528@mhtml.blink" /><link=
+ rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-714170b5-bba6-4397-90=
+f5-e8740c5d41dc@mhtml.blink" /><meta name=3D"viewport" content=3D"width=3Dd=
 evice-width, initial-scale=3D1"><link rel=3D"apple-touch-icon" sizes=3D"180=
 x180" href=3D"https://cdn.oaistatic.com/_next/static/media/apple-touch-icon=
 .59f2e898.png"><link rel=3D"icon" type=3D"image/png" sizes=3D"32x32" href=
@@ -3954,98 +3954,98 @@ imary" dir=3D"auto" data-testid=3D"conversation-turn-17" style=3D"--avatar-=
 color: #AB68FF;"><div class=3D"px-4 py-2 justify-center text-base md:gap-6 =
 m-auto"><div class=3D"flex flex-1 text-base mx-auto gap-3 juice:gap-4 juice=
 :md:gap-6 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[4=
-8rem] group final-completion"><div class=3D"flex-shrink-0 flex flex-col rel=
-ative items-end"><div><div class=3D"pt-0.5"><div class=3D"gizmo-shadow-stro=
-ke flex h-6 w-6 items-center justify-center overflow-hidden rounded-full"><=
-div class=3D"relative p-1 rounded-sm h-9 w-9 text-white flex items-center j=
-ustify-center" style=3D"background-color: rgb(171, 104, 255); width: 24px; =
-height: 24px;"><svg width=3D"41" height=3D"41" viewBox=3D"0 0 41 41" fill=
-=3D"none" xmlns=3D"http://www.w3.org/2000/svg" class=3D"icon-sm" role=3D"im=
-g"><text x=3D"-9999" y=3D"-9999">ChatGPT</text><path d=3D"M37.5324 16.8707C=
-37.9808 15.5241 38.1363 14.0974 37.9886 12.6859C37.8409 11.2744 37.3934 9.9=
-1076 36.676 8.68622C35.6126 6.83404 33.9882 5.3676 32.0373 4.4985C30.0864 3=
-.62941 27.9098 3.40259 25.8215 3.85078C24.8796 2.7893 23.7219 1.94125 22.42=
-57 1.36341C21.1295 0.785575 19.7249 0.491269 18.3058 0.500197C16.1708 0.495=
-044 14.0893 1.16803 12.3614 2.42214C10.6335 3.67624 9.34853 5.44666 8.6917 =
-7.47815C7.30085 7.76286 5.98686 8.3414 4.8377 9.17505C3.68854 10.0087 2.730=
-73 11.0782 2.02839 12.312C0.956464 14.1591 0.498905 16.2988 0.721698 18.422=
-8C0.944492 20.5467 1.83612 22.5449 3.268 24.1293C2.81966 25.4759 2.66413 26=
-.9026 2.81182 28.3141C2.95951 29.7256 3.40701 31.0892 4.12437 32.3138C5.187=
-91 34.1659 6.8123 35.6322 8.76321 36.5013C10.7141 37.3704 12.8907 37.5973 1=
-4.9789 37.1492C15.9208 38.2107 17.0786 39.0587 18.3747 39.6366C19.6709 40.2=
-144 21.0755 40.5087 22.4946 40.4998C24.6307 40.5054 26.7133 39.8321 28.4418=
- 38.5772C30.1704 37.3223 31.4556 35.5506 32.1119 33.5179C33.5027 33.2332 34=
-.8167 32.6547 35.9659 31.821C37.115 30.9874 38.0728 29.9178 38.7752 28.684C=
-39.8458 26.8371 40.3023 24.6979 40.0789 22.5748C39.8556 20.4517 38.9639 18.=
-4544 37.5324 16.8707ZM22.4978 37.8849C20.7443 37.8874 19.0459 37.2733 17.69=
-94 36.1501C17.7601 36.117 17.8666 36.0586 17.936 36.0161L25.9004 31.4156C26=
-.1003 31.3019 26.2663 31.137 26.3813 30.9378C26.4964 30.7386 26.5563 30.512=
-4 26.5549 30.2825V19.0542L29.9213 20.998C29.9389 21.0068 29.9541 21.0198 29=
-.9656 21.0359C29.977 21.052 29.9842 21.0707 29.9867 21.0902V30.3889C29.9842=
- 32.375 29.1946 34.2791 27.7909 35.6841C26.3872 37.0892 24.4838 37.8806 22.=
-4978 37.8849ZM6.39227 31.0064C5.51397 29.4888 5.19742 27.7107 5.49804 25.98=
-32C5.55718 26.0187 5.66048 26.0818 5.73461 26.1244L13.699 30.7248C13.8975 3=
-0.8408 14.1233 30.902 14.3532 30.902C14.583 30.902 14.8088 30.8408 15.0073 =
-30.7248L24.731 25.1103V28.9979C24.7321 29.0177 24.7283 29.0376 24.7199 29.0=
-556C24.7115 29.0736 24.6988 29.0893 24.6829 29.1012L16.6317 33.7497C14.9096=
- 34.7416 12.8643 35.0097 10.9447 34.4954C9.02506 33.9811 7.38785 32.7263 6.=
-39227 31.0064ZM4.29707 13.6194C5.17156 12.0998 6.55279 10.9364 8.19885 10.3=
-327C8.19885 10.4013 8.19491 10.5228 8.19491 10.6071V19.808C8.19351 20.0378 =
-8.25334 20.2638 8.36823 20.4629C8.48312 20.6619 8.64893 20.8267 8.84863 20.=
-9404L18.5723 26.5542L15.206 28.4979C15.1894 28.5089 15.1703 28.5155 15.1505=
- 28.5173C15.1307 28.5191 15.1107 28.516 15.0924 28.5082L7.04046 23.8557C5.3=
-2135 22.8601 4.06716 21.2235 3.55289 19.3046C3.03862 17.3858 3.30624 15.341=
-3 4.29707 13.6194ZM31.955 20.0556L22.2312 14.4411L25.5976 12.4981C25.6142 1=
-2.4872 25.6333 12.4805 25.6531 12.4787C25.6729 12.4769 25.6928 12.4801 25.7=
-111 12.4879L33.7631 17.1364C34.9967 17.849 36.0017 18.8982 36.6606 20.1613C=
-37.3194 21.4244 37.6047 22.849 37.4832 24.2684C37.3617 25.6878 36.8382 27.0=
-432 35.9743 28.1759C35.1103 29.3086 33.9415 30.1717 32.6047 30.6641C32.6047=
- 30.5947 32.6047 30.4733 32.6047 30.3889V21.188C32.6066 20.9586 32.5474 20.=
-7328 32.4332 20.5338C32.319 20.3348 32.154 20.1698 31.955 20.0556ZM35.3055 =
-15.0128C35.2464 14.9765 35.1431 14.9142 35.069 14.8717L27.1045 10.2712C26.9=
-06 10.1554 26.6803 10.0943 26.4504 10.0943C26.2206 10.0943 25.9948 10.1554 =
-25.7963 10.2712L16.0726 15.8858V11.9982C16.0715 11.9783 16.0753 11.9585 16.=
-0837 11.9405C16.0921 11.9225 16.1048 11.9068 16.1207 11.8949L24.1719 7.2502=
-5C25.4053 6.53903 26.8158 6.19376 28.2383 6.25482C29.6608 6.31589 31.0364 6=
-.78077 32.2044 7.59508C33.3723 8.40939 34.2842 9.53945 34.8334 10.8531C35.3=
-826 12.1667 35.5464 13.6095 35.3055 15.0128ZM14.2424 21.9419L10.8752 19.998=
-1C10.8576 19.9893 10.8423 19.9763 10.8309 19.9602C10.8195 19.9441 10.8122 1=
-9.9254 10.8098 19.9058V10.6071C10.8107 9.18295 11.2173 7.78848 11.9819 6.58=
-696C12.7466 5.38544 13.8377 4.42659 15.1275 3.82264C16.4173 3.21869 17.8524=
- 2.99464 19.2649 3.1767C20.6775 3.35876 22.0089 3.93941 23.1034 4.85067C23.=
-0427 4.88379 22.937 4.94215 22.8668 4.98473L14.9024 9.58517C14.7025 9.69878=
- 14.5366 9.86356 14.4215 10.0626C14.3065 10.2616 14.2466 10.4877 14.2479 10=
-.7175L14.2424 21.9419ZM16.071 17.9991L20.4018 15.4978L24.7325 17.9975V22.99=
-85L20.4018 25.4983L16.071 22.9985V17.9991Z" fill=3D"currentColor"></path></=
-svg></div></div></div></div></div><div class=3D"relative flex w-full flex-c=
-ol agent-turn"><div class=3D"font-semibold select-none">ChatGPT</div><div c=
-lass=3D"flex-col gap-1 md:gap-3"><div class=3D"flex flex-grow flex-col max-=
-w-full"><div data-message-author-role=3D"assistant" data-message-id=3D"fdd5=
-e036-3c90-4c67-a37d-b23666cf58a9" dir=3D"auto" class=3D"min-h-[20px] text-m=
-essage flex flex-col items-start gap-3 whitespace-pre-wrap break-words [.te=
-xt-message+&amp;]:mt-5 overflow-x-auto"><div class=3D"markdown prose w-full=
- break-words dark:prose-invert light"><p>To kill a process that's identifie=
-d by a process ID in a Windows CMD script, you can use the <code>taskkill</=
-code> command. This command allows you to forcefully terminate tasks by the=
-ir process ID or by their image name. Here's how you can extend the previou=
-s script to automatically kill the Python process running <code>MyProgram.p=
-y</code>:</p><pre><div class=3D"dark bg-gray-950 rounded-md"><div class=3D"=
-flex items-center relative text-token-text-secondary bg-token-main-surface-=
-secondary px-4 py-2 text-xs font-sans justify-between rounded-t-md"><span>b=
-atch</span><span class=3D"" data-state=3D"closed"><button class=3D"flex gap=
--1 items-center"><svg width=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fill=
-=3D"none" xmlns=3D"http://www.w3.org/2000/svg" class=3D"icon-sm"><path fill=
--rule=3D"evenodd" clip-rule=3D"evenodd" d=3D"M12 3.5C10.8954 3.5 10 4.39543=
- 10 5.5H14C14 4.39543 13.1046 3.5 12 3.5ZM8.53513 3.5C9.22675 2.3044 10.519=
-4 1.5 12 1.5C13.4806 1.5 14.7733 2.3044 15.4649 3.5H17.25C18.9069 3.5 20.25=
- 4.84315 20.25 6.5V18.5C20.25 20.1569 19.1569 21.5 17.25 21.5H6.75C5.09315 =
-21.5 3.75 20.1569 3.75 18.5V6.5C3.75 4.84315 5.09315 3.5 6.75 3.5H8.53513ZM=
-8 5.5H6.75C6.19772 5.5 5.75 5.94772 5.75 6.5V18.5C5.75 19.0523 6.19772 19.5=
- 6.75 19.5H17.25C18.0523 19.5 18.25 19.0523 18.25 18.5V6.5C18.25 5.94772 17=
-.8023 5.5 17.25 5.5H16C16 6.60457 15.1046 7.5 14 7.5H10C8.89543 7.5 8 6.604=
-57 8 5.5Z" fill=3D"currentColor"></path></svg>Copy code</button></span></di=
-v><div class=3D"p-4 overflow-y-auto"><code class=3D"!whitespace-pre hljs la=
-nguage-batch">@echo off
+8rem] group"><div class=3D"flex-shrink-0 flex flex-col relative items-end">=
+<div><div class=3D"pt-0.5"><div class=3D"gizmo-shadow-stroke flex h-6 w-6 i=
+tems-center justify-center overflow-hidden rounded-full"><div class=3D"rela=
+tive p-1 rounded-sm h-9 w-9 text-white flex items-center justify-center" st=
+yle=3D"background-color: rgb(171, 104, 255); width: 24px; height: 24px;"><s=
+vg width=3D"41" height=3D"41" viewBox=3D"0 0 41 41" fill=3D"none" xmlns=3D"=
+http://www.w3.org/2000/svg" class=3D"icon-sm" role=3D"img"><text x=3D"-9999=
+" y=3D"-9999">ChatGPT</text><path d=3D"M37.5324 16.8707C37.9808 15.5241 38.=
+1363 14.0974 37.9886 12.6859C37.8409 11.2744 37.3934 9.91076 36.676 8.68622=
+C35.6126 6.83404 33.9882 5.3676 32.0373 4.4985C30.0864 3.62941 27.9098 3.40=
+259 25.8215 3.85078C24.8796 2.7893 23.7219 1.94125 22.4257 1.36341C21.1295 =
+0.785575 19.7249 0.491269 18.3058 0.500197C16.1708 0.495044 14.0893 1.16803=
+ 12.3614 2.42214C10.6335 3.67624 9.34853 5.44666 8.6917 7.47815C7.30085 7.7=
+6286 5.98686 8.3414 4.8377 9.17505C3.68854 10.0087 2.73073 11.0782 2.02839 =
+12.312C0.956464 14.1591 0.498905 16.2988 0.721698 18.4228C0.944492 20.5467 =
+1.83612 22.5449 3.268 24.1293C2.81966 25.4759 2.66413 26.9026 2.81182 28.31=
+41C2.95951 29.7256 3.40701 31.0892 4.12437 32.3138C5.18791 34.1659 6.8123 3=
+5.6322 8.76321 36.5013C10.7141 37.3704 12.8907 37.5973 14.9789 37.1492C15.9=
+208 38.2107 17.0786 39.0587 18.3747 39.6366C19.6709 40.2144 21.0755 40.5087=
+ 22.4946 40.4998C24.6307 40.5054 26.7133 39.8321 28.4418 38.5772C30.1704 37=
+.3223 31.4556 35.5506 32.1119 33.5179C33.5027 33.2332 34.8167 32.6547 35.96=
+59 31.821C37.115 30.9874 38.0728 29.9178 38.7752 28.684C39.8458 26.8371 40.=
+3023 24.6979 40.0789 22.5748C39.8556 20.4517 38.9639 18.4544 37.5324 16.870=
+7ZM22.4978 37.8849C20.7443 37.8874 19.0459 37.2733 17.6994 36.1501C17.7601 =
+36.117 17.8666 36.0586 17.936 36.0161L25.9004 31.4156C26.1003 31.3019 26.26=
+63 31.137 26.3813 30.9378C26.4964 30.7386 26.5563 30.5124 26.5549 30.2825V1=
+9.0542L29.9213 20.998C29.9389 21.0068 29.9541 21.0198 29.9656 21.0359C29.97=
+7 21.052 29.9842 21.0707 29.9867 21.0902V30.3889C29.9842 32.375 29.1946 34.=
+2791 27.7909 35.6841C26.3872 37.0892 24.4838 37.8806 22.4978 37.8849ZM6.392=
+27 31.0064C5.51397 29.4888 5.19742 27.7107 5.49804 25.9832C5.55718 26.0187 =
+5.66048 26.0818 5.73461 26.1244L13.699 30.7248C13.8975 30.8408 14.1233 30.9=
+02 14.3532 30.902C14.583 30.902 14.8088 30.8408 15.0073 30.7248L24.731 25.1=
+103V28.9979C24.7321 29.0177 24.7283 29.0376 24.7199 29.0556C24.7115 29.0736=
+ 24.6988 29.0893 24.6829 29.1012L16.6317 33.7497C14.9096 34.7416 12.8643 35=
+.0097 10.9447 34.4954C9.02506 33.9811 7.38785 32.7263 6.39227 31.0064ZM4.29=
+707 13.6194C5.17156 12.0998 6.55279 10.9364 8.19885 10.3327C8.19885 10.4013=
+ 8.19491 10.5228 8.19491 10.6071V19.808C8.19351 20.0378 8.25334 20.2638 8.3=
+6823 20.4629C8.48312 20.6619 8.64893 20.8267 8.84863 20.9404L18.5723 26.554=
+2L15.206 28.4979C15.1894 28.5089 15.1703 28.5155 15.1505 28.5173C15.1307 28=
+.5191 15.1107 28.516 15.0924 28.5082L7.04046 23.8557C5.32135 22.8601 4.0671=
+6 21.2235 3.55289 19.3046C3.03862 17.3858 3.30624 15.3413 4.29707 13.6194ZM=
+31.955 20.0556L22.2312 14.4411L25.5976 12.4981C25.6142 12.4872 25.6333 12.4=
+805 25.6531 12.4787C25.6729 12.4769 25.6928 12.4801 25.7111 12.4879L33.7631=
+ 17.1364C34.9967 17.849 36.0017 18.8982 36.6606 20.1613C37.3194 21.4244 37.=
+6047 22.849 37.4832 24.2684C37.3617 25.6878 36.8382 27.0432 35.9743 28.1759=
+C35.1103 29.3086 33.9415 30.1717 32.6047 30.6641C32.6047 30.5947 32.6047 30=
+.4733 32.6047 30.3889V21.188C32.6066 20.9586 32.5474 20.7328 32.4332 20.533=
+8C32.319 20.3348 32.154 20.1698 31.955 20.0556ZM35.3055 15.0128C35.2464 14.=
+9765 35.1431 14.9142 35.069 14.8717L27.1045 10.2712C26.906 10.1554 26.6803 =
+10.0943 26.4504 10.0943C26.2206 10.0943 25.9948 10.1554 25.7963 10.2712L16.=
+0726 15.8858V11.9982C16.0715 11.9783 16.0753 11.9585 16.0837 11.9405C16.092=
+1 11.9225 16.1048 11.9068 16.1207 11.8949L24.1719 7.25025C25.4053 6.53903 2=
+6.8158 6.19376 28.2383 6.25482C29.6608 6.31589 31.0364 6.78077 32.2044 7.59=
+508C33.3723 8.40939 34.2842 9.53945 34.8334 10.8531C35.3826 12.1667 35.5464=
+ 13.6095 35.3055 15.0128ZM14.2424 21.9419L10.8752 19.9981C10.8576 19.9893 1=
+0.8423 19.9763 10.8309 19.9602C10.8195 19.9441 10.8122 19.9254 10.8098 19.9=
+058V10.6071C10.8107 9.18295 11.2173 7.78848 11.9819 6.58696C12.7466 5.38544=
+ 13.8377 4.42659 15.1275 3.82264C16.4173 3.21869 17.8524 2.99464 19.2649 3.=
+1767C20.6775 3.35876 22.0089 3.93941 23.1034 4.85067C23.0427 4.88379 22.937=
+ 4.94215 22.8668 4.98473L14.9024 9.58517C14.7025 9.69878 14.5366 9.86356 14=
+.4215 10.0626C14.3065 10.2616 14.2466 10.4877 14.2479 10.7175L14.2424 21.94=
+19ZM16.071 17.9991L20.4018 15.4978L24.7325 17.9975V22.9985L20.4018 25.4983L=
+16.071 22.9985V17.9991Z" fill=3D"currentColor"></path></svg></div></div></d=
+iv></div></div><div class=3D"relative flex w-full flex-col agent-turn"><div=
+ class=3D"font-semibold select-none">ChatGPT</div><div class=3D"flex-col ga=
+p-1 md:gap-3"><div class=3D"flex flex-grow flex-col max-w-full"><div data-m=
+essage-author-role=3D"assistant" data-message-id=3D"fdd5e036-3c90-4c67-a37d=
+-b23666cf58a9" dir=3D"auto" class=3D"min-h-[20px] text-message flex flex-co=
+l items-start gap-3 whitespace-pre-wrap break-words [.text-message+&amp;]:m=
+t-5 overflow-x-auto"><div class=3D"markdown prose w-full break-words dark:p=
+rose-invert light"><p>To kill a process that's identified by a process ID i=
+n a Windows CMD script, you can use the <code>taskkill</code> command. This=
+ command allows you to forcefully terminate tasks by their process ID or by=
+ their image name. Here's how you can extend the previous script to automat=
+ically kill the Python process running <code>MyProgram.py</code>:</p><pre><=
+div class=3D"dark bg-gray-950 rounded-md"><div class=3D"flex items-center r=
+elative text-token-text-secondary bg-token-main-surface-secondary px-4 py-2=
+ text-xs font-sans justify-between rounded-t-md"><span>batch</span><span cl=
+ass=3D"" data-state=3D"closed"><button class=3D"flex gap-1 items-center"><s=
+vg width=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" xmlns=3D"=
+http://www.w3.org/2000/svg" class=3D"icon-sm"><path fill-rule=3D"evenodd" c=
+lip-rule=3D"evenodd" d=3D"M12 3.5C10.8954 3.5 10 4.39543 10 5.5H14C14 4.395=
+43 13.1046 3.5 12 3.5ZM8.53513 3.5C9.22675 2.3044 10.5194 1.5 12 1.5C13.480=
+6 1.5 14.7733 2.3044 15.4649 3.5H17.25C18.9069 3.5 20.25 4.84315 20.25 6.5V=
+18.5C20.25 20.1569 19.1569 21.5 17.25 21.5H6.75C5.09315 21.5 3.75 20.1569 3=
+.75 18.5V6.5C3.75 4.84315 5.09315 3.5 6.75 3.5H8.53513ZM8 5.5H6.75C6.19772 =
+5.5 5.75 5.94772 5.75 6.5V18.5C5.75 19.0523 6.19772 19.5 6.75 19.5H17.25C18=
+.0523 19.5 18.25 19.0523 18.25 18.5V6.5C18.25 5.94772 17.8023 5.5 17.25 5.5=
+H16C16 6.60457 15.1046 7.5 14 7.5H10C8.89543 7.5 8 6.60457 8 5.5Z" fill=3D"=
+currentColor"></path></svg>Copy code</button></span></div><div class=3D"p-4=
+ overflow-y-auto"><code class=3D"!whitespace-pre hljs language-batch">@echo=
+ off
 setlocal
 
 REM Define the Python script name
@@ -4130,139 +4130,651 @@ le=3D"evenodd" clip-rule=3D"evenodd" d=3D"M12 3.5C10.8954 3.5 10 4.39543 10=
 .5H6.75C6.19772 5.5 5.75 5.94772 5.75 6.5V18.5C5.75 19.0523 6.19772 19.5 6.=
 75 19.5H17.25C18.0523 19.5 18.25 19.0523 18.25 18.5V6.5C18.25 5.94772 17.80=
 23 5.5 17.25 5.5H16C16 6.60457 15.1046 7.5 14 7.5H10C8.89543 7.5 8 6.60457 =
-8 5.5Z" fill=3D"currentColor"></path></svg></button></span><span class=3D""=
- data-state=3D"closed"><button class=3D"p-1 rounded-md text-token-text-tert=
-iary hover:text-token-text-primary md:invisible md:group-hover:visible md:g=
-roup-[.final-completion]:visible"><div class=3D"flex items-center gap-1.5 t=
-ext-xs"><svg width=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"none"=
- xmlns=3D"http://www.w3.org/2000/svg" class=3D"icon-md"><path fill-rule=3D"=
-evenodd" clip-rule=3D"evenodd" d=3D"M4.5 2.5C5.05228 2.5 5.5 2.94772 5.5 3.=
-5V5.07196C7.19872 3.47759 9.48483 2.5 12 2.5C17.2467 2.5 21.5 6.75329 21.5 =
-12C21.5 17.2467 17.2467 21.5 12 21.5C7.1307 21.5 3.11828 17.8375 2.565 13.1=
-164C2.50071 12.5679 2.89327 12.0711 3.4418 12.0068C3.99033 11.9425 4.48712 =
-12.3351 4.5514 12.8836C4.98798 16.6089 8.15708 19.5 12 19.5C16.1421 19.5 19=
-.5 16.1421 19.5 12C19.5 7.85786 16.1421 4.5 12 4.5C9.7796 4.5 7.7836 5.4646=
-9 6.40954 7H9C9.55228 7 10 7.44772 10 8C10 8.55228 9.55228 9 9 9H4.5C3.9606=
-4 9 3.52101 8.57299 3.50073 8.03859C3.49983 8.01771 3.49958 7.99677 3.5 7.9=
-758V3.5C3.5 2.94772 3.94771 2.5 4.5 2.5Z" fill=3D"currentColor"></path></sv=
-g></div></button></span><div class=3D"flex"><span class=3D"" data-state=3D"=
-closed"><button class=3D"p-1 rounded-md text-token-text-tertiary hover:text=
--token-text-primary md:invisible md:group-hover:visible md:group-[.final-co=
-mpletion]:visible"><svg width=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fi=
-ll=3D"none" xmlns=3D"http://www.w3.org/2000/svg" class=3D"icon-md"><path fi=
-ll-rule=3D"evenodd" clip-rule=3D"evenodd" d=3D"M11.8727 21.4961C11.6725 21.=
-8466 11.2811 22.0423 10.8805 21.9922L10.4267 21.9355C7.95958 21.6271 6.3685=
-5 19.1665 7.09975 16.7901L7.65054 15H6.93226C4.29476 15 2.37923 12.4921 3.0=
-732 9.94753L4.43684 4.94753C4.91145 3.20728 6.49209 2 8.29589 2H18.0045C19.=
-6614 2 21.0045 3.34315 21.0045 5V12C21.0045 13.6569 19.6614 15 18.0045 15H1=
-6.0045C15.745 15 15.5054 15.1391 15.3766 15.3644L11.8727 21.4961ZM14.0045 4=
-H8.29589C7.39399 4 6.60367 4.60364 6.36637 5.47376L5.00273 10.4738C4.65574 =
-11.746 5.61351 13 6.93226 13H9.00451C9.32185 13 9.62036 13.1506 9.8089 13.4=
-059C9.99743 13.6612 10.0536 13.9908 9.96028 14.2941L9.01131 17.3782C8.6661 =
-18.5002 9.35608 19.6596 10.4726 19.9153L13.6401 14.3721C13.9523 13.8258 14.=
-4376 13.4141 15.0045 13.1902V5C15.0045 4.44772 14.5568 4 14.0045 4ZM17.0045=
- 13V5C17.0045 4.64937 16.9444 4.31278 16.8338 4H18.0045C18.5568 4 19.0045 4=
-.44772 19.0045 5V12C19.0045 12.5523 18.5568 13 18.0045 13H17.0045Z" fill=3D=
-"currentColor"></path></svg></button></span></div></div></div><div class=3D=
-"pr-2 lg:pr-0"></div></div></div></div></div></div></div></div></div></div>=
-</div><div class=3D"w-full pt-2 md:pt-0 dark:border-white/20 md:border-tran=
-sparent md:dark:border-transparent md:w-[calc(100%-.5rem)]" style=3D"paddin=
-g-left: 0px; padding-right: 0px;"><form class=3D"stretch mx-2 flex flex-row=
- gap-3 last:mb-2 md:mx-4 md:last:mb-6 lg:mx-auto lg:max-w-2xl xl:max-w-3xl"=
-><div class=3D"relative flex h-full flex-1 flex-col"><div class=3D"absolute=
- bottom-full left-0 right-0"></div><div class=3D"flex w-full items-center">=
-<div class=3D"overflow-hidden [&amp;:has(textarea:focus)]:border-token-bord=
-er-xheavy [&amp;:has(textarea:focus)]:shadow-[0_2px_6px_rgba(0,0,0,.05)] fl=
-ex flex-col w-full flex-grow relative border dark:text-white rounded-2xl bg=
--token-main-surface-primary border-token-border-medium"><textarea id=3D"pro=
-mpt-textarea" tabindex=3D"0" data-id=3D"request-WEB:5f7a90bb-e0b8-4c98-9e1b=
--48101f6cc3bd-8" dir=3D"auto" rows=3D"1" placeholder=3D"Message ChatGPT=E2=
-=80=A6" class=3D"m-0 w-full resize-none border-0 bg-transparent focus:ring-=
-0 focus-visible:ring-0 dark:bg-transparent py-[10px] pr-10 md:py-3.5 md:pr-=
-12 max-h-[25dvh] max-h-52 placeholder-black/50 dark:placeholder-white/50 pl=
--10 md:pl-[55px]" style=3D"height: 52px; overflow-y: hidden;"></textarea><d=
-iv type=3D"button" aria-haspopup=3D"dialog" aria-expanded=3D"false" aria-co=
-ntrols=3D"radix-:reg:" data-state=3D"closed" class=3D"absolute bottom-2 md:=
-bottom-3 left-2 md:left-4"><div class=3D"flex"><button class=3D"btn relativ=
-e p-0 text-black dark:text-white" aria-label=3D"Attach files"><div class=3D=
-"flex w-full gap-2 items-center justify-center"><svg width=3D"24" height=3D=
-"24" viewBox=3D"0 0 24 24" fill=3D"none" xmlns=3D"http://www.w3.org/2000/sv=
-g"><path fill-rule=3D"evenodd" clip-rule=3D"evenodd" d=3D"M9 7C9 4.23858 11=
-.2386 2 14 2C16.7614 2 19 4.23858 19 7V15C19 18.866 15.866 22 12 22C8.13401=
- 22 5 18.866 5 15V9C5 8.44772 5.44772 8 6 8C6.55228 8 7 8.44772 7 9V15C7 17=
-.7614 9.23858 20 12 20C14.7614 20 17 17.7614 17 15V7C17 5.34315 15.6569 4 1=
-4 4C12.3431 4 11 5.34315 11 7V15C11 15.5523 11.4477 16 12 16C12.5523 16 13 =
-15.5523 13 15V9C13 8.44772 13.4477 8 14 8C14.5523 8 15 8.44772 15 9V15C15 1=
-6.6569 13.6569 18 12 18C10.3431 18 9 16.6569 9 15V7Z" fill=3D"currentColor"=
-></path></svg></div></button><input multiple=3D"" type=3D"file" tabindex=3D=
-"-1" class=3D"hidden" style=3D"display: none;"></div></div><button disabled=
-=3D"" class=3D"absolute bottom-1.5 right-2 rounded-lg border border-black b=
-g-black p-0.5 text-white transition-colors enabled:bg-black disabled:text-g=
-ray-400 disabled:opacity-10 dark:border-white dark:bg-white dark:hover:bg-w=
-hite md:bottom-3 md:right-3" data-testid=3D"send-button"><span class=3D"" d=
-ata-state=3D"closed"><svg width=3D"24" height=3D"24" viewBox=3D"0 0 24 24" =
-fill=3D"none" class=3D"text-white dark:text-black"><path d=3D"M7 11L12 6L17=
- 11M12 18V7" stroke=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D"r=
-ound" stroke-linejoin=3D"round"></path></svg></span></button></div></div></=
-div></form><div class=3D"relative px-2 py-2 text-center text-xs text-token-=
-text-secondary md:px-[60px]"><span>ChatGPT can make mistakes. Consider chec=
-king important information.</span></div></div></div><div class=3D"group fix=
-ed bottom-3 right-3 z-10 hidden gap-1 lg:flex"><div class=3D"group relative=
-" data-headlessui-state=3D""><button class=3D"flex items-center justify-cen=
-ter rounded-full border border-token-border-light text-token-text-secondary=
-" id=3D"headlessui-menu-button-:rei:" type=3D"button" aria-haspopup=3D"true=
-" aria-expanded=3D"false" data-headlessui-state=3D""><div class=3D"flex h-6=
- w-6 items-center justify-center text-xs">?</div></button></div></div></mai=
-n></div></div><div class=3D"absolute left-0 right-0 top-0 z-[2]"></div><aud=
-io class=3D"fixed bottom-0 left-0 hidden h-0 w-0" autoplay=3D"" crossorigin=
-=3D"anonymous"></audio></div><iframe height=3D"1" width=3D"1" style=3D"posi=
-tion: absolute; top: 0px; left: 0px; border: none; visibility: hidden;"></i=
-frame><next-route-announcer><p aria-live=3D"assertive" id=3D"__next-route-a=
-nnouncer__" role=3D"alert" style=3D"border: 0px; clip: rect(0px, 0px, 0px, =
-0px); height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: =
-absolute; top: 0px; width: 1px; white-space: nowrap; overflow-wrap: normal;=
-">ChatGPT</p></next-route-announcer><div portal-container=3D""><span class=
-=3D"pointer-events-none fixed inset-0 z-[60] mx-auto my-2 flex max-w-[560px=
-] flex-col items-stretch justify-start md:pb-5"></span></div><div id=3D"enf=
-orcement-containerchatgpt-paid" tabindex=3D"0" style=3D"position: fixed; to=
-p: 0px; left: 0px; width: 100vw; height: 100vh; z-index: 1000; background-c=
-olor: rgba(255, 255, 255, 0.85); align-items: center; box-sizing: border-bo=
-x; flex-direction: column; justify-content: center; text-align: center; opa=
-city: 0; transition: opacity 0.5s ease 0s; pointer-events: auto; display: n=
-one;"><div style=3D"position: fixed; top: 20px; right: 20px; height: 20px; =
-width: 20px; background-repeat: no-repeat; background-position: center cent=
-er; z-index: 1500; cursor: pointer; transform: scale(1); background-image: =
-url(&quot;data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0=
-iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMzhweCIgaGVpZ2h0PSIzOHB4IiB2aWV3Qm94PSIwIDAgMz=
-ggMzgiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4b=
-Wxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVy=
-YXRvcjogU2tldGNoIDQ0LjEgKDQxNDU1KSAtIGh0dHA6Ly93d3cuYm9oZW1pYW5jb2RpbmcuY29=
-tL3NrZXRjaCAtLT4KICAgIDx0aXRsZT5Hcm91cDwvdGl0bGU+CiAgICA8ZGVzYz5DcmVhdGVkIH=
-dpdGggU2tldGNoLjwvZGVzYz4KICAgIDxkZWZzPjwvZGVmcz4KICAgIDxnIGlkPSJQYWdlLTEiI=
-HN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2=
-ZW5vZGQiPgogICAgICAgIDxnIGlkPSJHcm91cCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTkuMDA=
-wMDAwLCAxOS4wMDAwMDApIHJvdGF0ZSg0NS4wMDAwMDApIHRyYW5zbGF0ZSgtMTkuMDAwMDAwLC=
-AtMTkuMDAwMDAwKSB0cmFuc2xhdGUoLTYuMDAwMDAwLCAtNi4wMDAwMDApIiBmaWxsPSIjOTQ5N=
-Dk0Ij4KICAgICAgICAgICAgPHJlY3QgaWQ9IlJlY3RhbmdsZSIgeD0iMjQiIHk9IjAiIHdpZHRo=
-PSIyIiBoZWlnaHQ9IjUwIj48L3JlY3Q+CiAgICAgICAgICAgIDxyZWN0IGlkPSJSZWN0YW5nbGU=
-iIHRyYW5zZm9ybT0idHJhbnNsYXRlKDI1LjAwMDAwMCwgMjUuMDAwMDAwKSByb3RhdGUoOTAuMD=
-AwMDAwKSB0cmFuc2xhdGUoLTI1LjAwMDAwMCwgLTI1LjAwMDAwMCkgIiB4PSIyNCIgeT0iMCIgd=
-2lkdGg9IjIiIGhlaWdodD0iNTAiPjwvcmVjdD4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3Zn=
-Pg=3D=3D&quot;);"></div><div aria-hidden=3D"false" class=3D"arkose-35536E1E=
--65B4-4D96-9D97-6ADB7EFF8147-wrapper"><iframe src=3D"cid:frame-CA3390675D01=
-0959E7090969FF250EFF@mhtml.blink" class=3D"r34K7X1zGgAi6DllVF3T active inli=
-ne" title=3D"Verification challenge" aria-label=3D"Verification challenge" =
-data-e2e=3D"enforcement-frame" style=3D"width: 0px; height: 0px;"></iframe>=
-</div></div><iframe id=3D"intercom-frame" style=3D"position: absolute !impo=
-rtant; opacity: 0 !important; width: 1px !important; height: 1px !important=
-; top: 0 !important; left: 0 !important; border: none !important; display: =
-block !important; z-index: -1 !important; pointer-events: none;" aria-hidde=
-n=3D"true" tabindex=3D"-1" title=3D"Intercom"></iframe><div class=3D"interc=
-om-lightweight-app"></div></body></html>
-------MultipartBoundary--xbN73w344e7Gu9cDhlpmQVSCW1qiP8hqeZ36jVeOSl----
+8 5.5Z" fill=3D"currentColor"></path></svg></button></span><div class=3D"fl=
+ex"><span class=3D"" data-state=3D"closed"><button class=3D"p-1 rounded-md =
+text-token-text-tertiary hover:text-token-text-primary md:invisible md:grou=
+p-hover:visible md:group-[.final-completion]:visible"><svg width=3D"24" hei=
+ght=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" xmlns=3D"http://www.w3.org/2=
+000/svg" class=3D"icon-md"><path fill-rule=3D"evenodd" clip-rule=3D"evenodd=
+" d=3D"M11.8727 21.4961C11.6725 21.8466 11.2811 22.0423 10.8805 21.9922L10.=
+4267 21.9355C7.95958 21.6271 6.36855 19.1665 7.09975 16.7901L7.65054 15H6.9=
+3226C4.29476 15 2.37923 12.4921 3.0732 9.94753L4.43684 4.94753C4.91145 3.20=
+728 6.49209 2 8.29589 2H18.0045C19.6614 2 21.0045 3.34315 21.0045 5V12C21.0=
+045 13.6569 19.6614 15 18.0045 15H16.0045C15.745 15 15.5054 15.1391 15.3766=
+ 15.3644L11.8727 21.4961ZM14.0045 4H8.29589C7.39399 4 6.60367 4.60364 6.366=
+37 5.47376L5.00273 10.4738C4.65574 11.746 5.61351 13 6.93226 13H9.00451C9.3=
+2185 13 9.62036 13.1506 9.8089 13.4059C9.99743 13.6612 10.0536 13.9908 9.96=
+028 14.2941L9.01131 17.3782C8.6661 18.5002 9.35608 19.6596 10.4726 19.9153L=
+13.6401 14.3721C13.9523 13.8258 14.4376 13.4141 15.0045 13.1902V5C15.0045 4=
+.44772 14.5568 4 14.0045 4ZM17.0045 13V5C17.0045 4.64937 16.9444 4.31278 16=
+.8338 4H18.0045C18.5568 4 19.0045 4.44772 19.0045 5V12C19.0045 12.5523 18.5=
+568 13 18.0045 13H17.0045Z" fill=3D"currentColor"></path></svg></button></s=
+pan></div></div></div><div class=3D"pr-2 lg:pr-0"></div></div></div></div><=
+/div></div><div class=3D"w-full text-token-text-primary" dir=3D"auto" data-=
+testid=3D"conversation-turn-18" style=3D"--avatar-color: #AB68FF;"><div cla=
+ss=3D"px-4 py-2 justify-center text-base md:gap-6 m-auto"><div class=3D"fle=
+x flex-1 text-base mx-auto gap-3 juice:gap-4 juice:md:gap-6 md:px-5 lg:px-1=
+ xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group"><div class=
+=3D"flex-shrink-0 flex flex-col relative items-end"><div><div class=3D"pt-0=
+.5"><div class=3D"gizmo-shadow-stroke flex h-6 w-6 items-center justify-cen=
+ter overflow-hidden rounded-full"><div class=3D"relative flex"><img alt=3D"=
+User" referrerpolicy=3D"no-referrer" loading=3D"lazy" width=3D"24" height=
+=3D"24" decoding=3D"async" data-nimg=3D"1" class=3D"rounded-sm" src=3D"http=
+s://s.gravatar.com/avatar/ddcae653ee2eddac9f381cb44d864b27?s=3D480&amp;r=3D=
+pg&amp;d=3Dhttps%3A%2F%2Fcdn.auth0.com%2Favatars%2Fop.png" style=3D"color: =
+transparent;"></div></div></div></div></div><div class=3D"relative flex w-f=
+ull flex-col"><div class=3D"font-semibold select-none">You</div><div class=
+=3D"flex-col gap-1 md:gap-3"><div class=3D"flex flex-grow flex-col max-w-fu=
+ll"><div data-message-author-role=3D"user" data-message-id=3D"aaa28b7d-a13c=
+-406d-9f95-b7ad90917bfc" dir=3D"auto" class=3D"min-h-[20px] text-message fl=
+ex flex-col items-start gap-3 whitespace-pre-wrap break-words [.text-messag=
+e+&amp;]:mt-5 overflow-x-auto"><div class=3D"">can you make this into a fun=
+ction with in the CMD script with FILENAME as the parameter to the function=
+ and a return value of 1 if process was found and killed 0 otherwise.</div>=
+</div></div><div class=3D"mt-1 flex gap-3 empty:hidden juice:justify-end"><=
+div class=3D"text-gray-400 flex self-end lg:self-center items-center justif=
+y-center lg:justify-start mt-0 -ml-1 h-7 gap-[2px] visible"><button class=
+=3D"p-1 rounded-md text-token-text-tertiary hover:text-token-text-primary m=
+d:invisible md:group-hover:visible md:group-[.final-completion]:visible"><d=
+iv class=3D"flex items-center gap-1.5 text-xs"><svg width=3D"24" height=3D"=
+24" viewBox=3D"0 0 24 24" fill=3D"none" xmlns=3D"http://www.w3.org/2000/svg=
+" class=3D"icon-md"><path fill-rule=3D"evenodd" clip-rule=3D"evenodd" d=3D"=
+M13.2929 4.29291C15.0641 2.52167 17.9359 2.52167 19.7071 4.2929C21.4783 6.0=
+6414 21.4783 8.93588 19.7071 10.7071L18.7073 11.7069L11.1603 19.2539C10.718=
+2 19.696 10.1489 19.989 9.53219 20.0918L4.1644 20.9864C3.84584 21.0395 3.52=
+125 20.9355 3.29289 20.7071C3.06453 20.4788 2.96051 20.1542 3.0136 19.8356L=
+3.90824 14.4678C4.01103 13.8511 4.30396 13.2818 4.7461 12.8397L13.2929 4.29=
+291ZM13 7.41422L6.16031 14.2539C6.01293 14.4013 5.91529 14.591 5.88102 14.7=
+966L5.21655 18.7835L9.20339 18.119C9.40898 18.0847 9.59872 17.9871 9.7461 1=
+7.8397L16.5858 11L13 7.41422ZM18 9.5858L14.4142 6.00001L14.7071 5.70712C15.=
+6973 4.71693 17.3027 4.71693 18.2929 5.70712C19.2831 6.69731 19.2831 8.3027=
+2 18.2929 9.29291L18 9.5858Z" fill=3D"currentColor"></path></svg></div></bu=
+tton></div></div></div></div></div></div></div><div class=3D"w-full text-to=
+ken-text-primary" dir=3D"auto" data-testid=3D"conversation-turn-19" style=
+=3D"--avatar-color: #AB68FF;"><div class=3D"px-4 py-2 justify-center text-b=
+ase md:gap-6 m-auto"><div class=3D"flex flex-1 text-base mx-auto gap-3 juic=
+e:gap-4 juice:md:gap-6 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem=
+] xl:max-w-[48rem] group"><div class=3D"flex-shrink-0 flex flex-col relativ=
+e items-end"><div><div class=3D"pt-0.5"><div class=3D"gizmo-shadow-stroke f=
+lex h-6 w-6 items-center justify-center overflow-hidden rounded-full"><div =
+class=3D"relative p-1 rounded-sm h-9 w-9 text-white flex items-center justi=
+fy-center" style=3D"background-color: rgb(171, 104, 255); width: 24px; heig=
+ht: 24px;"><svg width=3D"41" height=3D"41" viewBox=3D"0 0 41 41" fill=3D"no=
+ne" xmlns=3D"http://www.w3.org/2000/svg" class=3D"icon-sm" role=3D"img"><te=
+xt x=3D"-9999" y=3D"-9999">ChatGPT</text><path d=3D"M37.5324 16.8707C37.980=
+8 15.5241 38.1363 14.0974 37.9886 12.6859C37.8409 11.2744 37.3934 9.91076 3=
+6.676 8.68622C35.6126 6.83404 33.9882 5.3676 32.0373 4.4985C30.0864 3.62941=
+ 27.9098 3.40259 25.8215 3.85078C24.8796 2.7893 23.7219 1.94125 22.4257 1.3=
+6341C21.1295 0.785575 19.7249 0.491269 18.3058 0.500197C16.1708 0.495044 14=
+.0893 1.16803 12.3614 2.42214C10.6335 3.67624 9.34853 5.44666 8.6917 7.4781=
+5C7.30085 7.76286 5.98686 8.3414 4.8377 9.17505C3.68854 10.0087 2.73073 11.=
+0782 2.02839 12.312C0.956464 14.1591 0.498905 16.2988 0.721698 18.4228C0.94=
+4492 20.5467 1.83612 22.5449 3.268 24.1293C2.81966 25.4759 2.66413 26.9026 =
+2.81182 28.3141C2.95951 29.7256 3.40701 31.0892 4.12437 32.3138C5.18791 34.=
+1659 6.8123 35.6322 8.76321 36.5013C10.7141 37.3704 12.8907 37.5973 14.9789=
+ 37.1492C15.9208 38.2107 17.0786 39.0587 18.3747 39.6366C19.6709 40.2144 21=
+.0755 40.5087 22.4946 40.4998C24.6307 40.5054 26.7133 39.8321 28.4418 38.57=
+72C30.1704 37.3223 31.4556 35.5506 32.1119 33.5179C33.5027 33.2332 34.8167 =
+32.6547 35.9659 31.821C37.115 30.9874 38.0728 29.9178 38.7752 28.684C39.845=
+8 26.8371 40.3023 24.6979 40.0789 22.5748C39.8556 20.4517 38.9639 18.4544 3=
+7.5324 16.8707ZM22.4978 37.8849C20.7443 37.8874 19.0459 37.2733 17.6994 36.=
+1501C17.7601 36.117 17.8666 36.0586 17.936 36.0161L25.9004 31.4156C26.1003 =
+31.3019 26.2663 31.137 26.3813 30.9378C26.4964 30.7386 26.5563 30.5124 26.5=
+549 30.2825V19.0542L29.9213 20.998C29.9389 21.0068 29.9541 21.0198 29.9656 =
+21.0359C29.977 21.052 29.9842 21.0707 29.9867 21.0902V30.3889C29.9842 32.37=
+5 29.1946 34.2791 27.7909 35.6841C26.3872 37.0892 24.4838 37.8806 22.4978 3=
+7.8849ZM6.39227 31.0064C5.51397 29.4888 5.19742 27.7107 5.49804 25.9832C5.5=
+5718 26.0187 5.66048 26.0818 5.73461 26.1244L13.699 30.7248C13.8975 30.8408=
+ 14.1233 30.902 14.3532 30.902C14.583 30.902 14.8088 30.8408 15.0073 30.724=
+8L24.731 25.1103V28.9979C24.7321 29.0177 24.7283 29.0376 24.7199 29.0556C24=
+.7115 29.0736 24.6988 29.0893 24.6829 29.1012L16.6317 33.7497C14.9096 34.74=
+16 12.8643 35.0097 10.9447 34.4954C9.02506 33.9811 7.38785 32.7263 6.39227 =
+31.0064ZM4.29707 13.6194C5.17156 12.0998 6.55279 10.9364 8.19885 10.3327C8.=
+19885 10.4013 8.19491 10.5228 8.19491 10.6071V19.808C8.19351 20.0378 8.2533=
+4 20.2638 8.36823 20.4629C8.48312 20.6619 8.64893 20.8267 8.84863 20.9404L1=
+8.5723 26.5542L15.206 28.4979C15.1894 28.5089 15.1703 28.5155 15.1505 28.51=
+73C15.1307 28.5191 15.1107 28.516 15.0924 28.5082L7.04046 23.8557C5.32135 2=
+2.8601 4.06716 21.2235 3.55289 19.3046C3.03862 17.3858 3.30624 15.3413 4.29=
+707 13.6194ZM31.955 20.0556L22.2312 14.4411L25.5976 12.4981C25.6142 12.4872=
+ 25.6333 12.4805 25.6531 12.4787C25.6729 12.4769 25.6928 12.4801 25.7111 12=
+.4879L33.7631 17.1364C34.9967 17.849 36.0017 18.8982 36.6606 20.1613C37.319=
+4 21.4244 37.6047 22.849 37.4832 24.2684C37.3617 25.6878 36.8382 27.0432 35=
+.9743 28.1759C35.1103 29.3086 33.9415 30.1717 32.6047 30.6641C32.6047 30.59=
+47 32.6047 30.4733 32.6047 30.3889V21.188C32.6066 20.9586 32.5474 20.7328 3=
+2.4332 20.5338C32.319 20.3348 32.154 20.1698 31.955 20.0556ZM35.3055 15.012=
+8C35.2464 14.9765 35.1431 14.9142 35.069 14.8717L27.1045 10.2712C26.906 10.=
+1554 26.6803 10.0943 26.4504 10.0943C26.2206 10.0943 25.9948 10.1554 25.796=
+3 10.2712L16.0726 15.8858V11.9982C16.0715 11.9783 16.0753 11.9585 16.0837 1=
+1.9405C16.0921 11.9225 16.1048 11.9068 16.1207 11.8949L24.1719 7.25025C25.4=
+053 6.53903 26.8158 6.19376 28.2383 6.25482C29.6608 6.31589 31.0364 6.78077=
+ 32.2044 7.59508C33.3723 8.40939 34.2842 9.53945 34.8334 10.8531C35.3826 12=
+.1667 35.5464 13.6095 35.3055 15.0128ZM14.2424 21.9419L10.8752 19.9981C10.8=
+576 19.9893 10.8423 19.9763 10.8309 19.9602C10.8195 19.9441 10.8122 19.9254=
+ 10.8098 19.9058V10.6071C10.8107 9.18295 11.2173 7.78848 11.9819 6.58696C12=
+.7466 5.38544 13.8377 4.42659 15.1275 3.82264C16.4173 3.21869 17.8524 2.994=
+64 19.2649 3.1767C20.6775 3.35876 22.0089 3.93941 23.1034 4.85067C23.0427 4=
+.88379 22.937 4.94215 22.8668 4.98473L14.9024 9.58517C14.7025 9.69878 14.53=
+66 9.86356 14.4215 10.0626C14.3065 10.2616 14.2466 10.4877 14.2479 10.7175L=
+14.2424 21.9419ZM16.071 17.9991L20.4018 15.4978L24.7325 17.9975V22.9985L20.=
+4018 25.4983L16.071 22.9985V17.9991Z" fill=3D"currentColor"></path></svg></=
+div></div></div></div></div><div class=3D"relative flex w-full flex-col age=
+nt-turn"><div class=3D"font-semibold select-none">ChatGPT</div><div class=
+=3D"flex-col gap-1 md:gap-3"><div class=3D"flex flex-grow flex-col max-w-fu=
+ll"><div data-message-author-role=3D"assistant" data-message-id=3D"1ccbb215=
+-c75c-4352-acdf-9ed127102dd5" dir=3D"auto" class=3D"min-h-[20px] text-messa=
+ge flex flex-col items-start gap-3 whitespace-pre-wrap break-words [.text-m=
+essage+&amp;]:mt-5 overflow-x-auto"><div class=3D"markdown prose w-full bre=
+ak-words dark:prose-invert light"><p>Creating a "function" in a CMD script =
+involves structuring the script in a way that simulates the behavior of a f=
+unction. In CMD batch files, you typically use labels as function names and=
+ use <code>call</code> to invoke them. Here=E2=80=99s how to restructure th=
+e script into a function that takes <code>FILENAME</code> as a parameter an=
+d returns a value based on whether a process was found and killed:</p><pre>=
+<div class=3D"dark bg-gray-950 rounded-md"><div class=3D"flex items-center =
+relative text-token-text-secondary bg-token-main-surface-secondary px-4 py-=
+2 text-xs font-sans justify-between rounded-t-md"><span>batch</span><span c=
+lass=3D"" data-state=3D"closed"><button class=3D"flex gap-1 items-center"><=
+svg width=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" xmlns=3D=
+"http://www.w3.org/2000/svg" class=3D"icon-sm"><path fill-rule=3D"evenodd" =
+clip-rule=3D"evenodd" d=3D"M12 3.5C10.8954 3.5 10 4.39543 10 5.5H14C14 4.39=
+543 13.1046 3.5 12 3.5ZM8.53513 3.5C9.22675 2.3044 10.5194 1.5 12 1.5C13.48=
+06 1.5 14.7733 2.3044 15.4649 3.5H17.25C18.9069 3.5 20.25 4.84315 20.25 6.5=
+V18.5C20.25 20.1569 19.1569 21.5 17.25 21.5H6.75C5.09315 21.5 3.75 20.1569 =
+3.75 18.5V6.5C3.75 4.84315 5.09315 3.5 6.75 3.5H8.53513ZM8 5.5H6.75C6.19772=
+ 5.5 5.75 5.94772 5.75 6.5V18.5C5.75 19.0523 6.19772 19.5 6.75 19.5H17.25C1=
+8.0523 19.5 18.25 19.0523 18.25 18.5V6.5C18.25 5.94772 17.8023 5.5 17.25 5.=
+5H16C16 6.60457 15.1046 7.5 14 7.5H10C8.89543 7.5 8 6.60457 8 5.5Z" fill=3D=
+"currentColor"></path></svg>Copy code</button></span></div><div class=3D"p-=
+4 overflow-y-auto"><code class=3D"!whitespace-pre hljs language-batch">@ech=
+o off
+setlocal
+
+REM Define a label as a function
+:KillPythonProcess
+    setlocal
+    set FILENAME=3D%~1
+    set PID=3D
+
+    REM Use WMIC to find the process ID of the specific Python script
+    for /f "tokens=3D2 delims=3D," %%G in ('wmic process where "name=3D'pyt=
+hon.exe' and commandline like '%%\%FILENAME%\%%'" get ProcessId^, CommandLi=
+ne /format:csv') do (
+        set PID=3D%%G
+    )
+
+    REM Check if PID was set and if so, kill the process
+    if defined PID (
+        echo Killing process with PID: %PID%
+        taskkill /PID %PID% /F
+        endlocal
+        exit /b 1
+    ) else (
+        echo No process found running %FILENAME%.
+        endlocal
+        exit /b 0
+    )
+
+REM Call the function with the Python script filename as the parameter
+call :KillPythonProcess MyProgram.py
+set RESULT=3D%ERRORLEVEL%
+
+echo Function returned: %RESULT%
+endlocal
+</code></div></div></pre><h3>Explanation of the Function-Like Script:</h3><=
+ol><li><p><strong>:KillPythonProcess</strong>: This label acts as the "func=
+tion" name. The script below this label will execute when the label is call=
+ed with the <code>call</code> command.</p></li><li><p><strong>setlocal</str=
+ong>: This command starts a new scope for environment changes, ensuring var=
+iables set within the "function" don't affect the global environment.</p></=
+li><li><p><strong>set FILENAME=3D%~1</strong>: This captures the first argu=
+ment passed to the "function" and assigns it to <code>FILENAME</code>. The =
+<code>%~1</code> syntax strips any surrounding quotes from the argument, wh=
+ich can be useful if the filename contains spaces.</p></li><li><p><strong>f=
+or /f "tokens=3D2 delims=3D,"</strong>: This loop parses the output of the =
+WMIC command, specifically looking to extract the <code>ProcessId</code> fr=
+om the CSV formatted response.</p></li><li><p><strong>if defined PID</stron=
+g>: This checks if a PID was found. If it was, the script terminates the pr=
+ocess with <code>taskkill</code> and exits the function scope with a return=
+ value of 1.</p></li><li><p><strong>exit /b 0 or exit /b 1</strong>: These =
+commands exit the "function" and return control to the calling context with=
+ the specified exit code. <code>0</code> typically indicates "false" or "no=
+ error", while <code>1</code> indicates "true" or an action was taken.</p><=
+/li><li><p><strong>call :KillPythonProcess MyProgram.py</strong>: This line=
+ calls the "function" and passes <code>MyProgram.py</code> as an argument.<=
+/p></li><li><p><strong>set RESULT=3D%ERRORLEVEL%</strong>: After the functi=
+on call, the exit code is captured in <code>RESULT</code>. <code>%ERRORLEVE=
+L%</code> captures the return value from the last executed command, which i=
+n this case, is the exit code from the "function".</p></li></ol><p>This scr=
+ipt now acts like a function within a CMD script, allowing you to pass the =
+filename as a parameter and get a return value indicating whether the proce=
+ss was successfully killed.</p></div></div></div><div class=3D"mt-1 flex ga=
+p-3 empty:hidden"><div class=3D"text-gray-400 flex self-end lg:self-center =
+items-center justify-center lg:justify-start mt-0 -ml-1 h-7 gap-[2px] visib=
+le"><span class=3D"" data-state=3D"closed"><button class=3D"flex items-cent=
+er gap-1.5 rounded-md p-1 text-xs text-token-text-tertiary hover:text-token=
+-text-primary md:invisible md:group-hover:visible md:group-[.final-completi=
+on]:visible"><svg width=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"=
+none" xmlns=3D"http://www.w3.org/2000/svg" class=3D"icon-md"><path fill-rul=
+e=3D"evenodd" clip-rule=3D"evenodd" d=3D"M11 4.9099C11 4.47485 10.4828 4.24=
+734 10.1621 4.54132L6.67572 7.7372C6.49129 7.90626 6.25019 8.00005 6 8.0000=
+5H4C3.44772 8.00005 3 8.44776 3 9.00005V15C3 15.5523 3.44772 16 4 16H6C6.25=
+019 16 6.49129 16.0938 6.67572 16.2629L10.1621 19.4588C10.4828 19.7527 11 1=
+9.5252 11 19.0902V4.9099ZM8.81069 3.06701C10.4142 1.59714 13 2.73463 13 4.9=
+099V19.0902C13 21.2655 10.4142 22.403 8.81069 20.9331L5.61102 18H4C2.34315 =
+18 1 16.6569 1 15V9.00005C1 7.34319 2.34315 6.00005 4 6.00005H5.61102L8.810=
+69 3.06701ZM20.3166 6.35665C20.8019 6.09313 21.409 6.27296 21.6725 6.75833C=
+22.5191 8.3176 22.9996 10.1042 22.9996 12.0001C22.9996 13.8507 22.5418 15.5=
+974 21.7323 17.1302C21.4744 17.6185 20.8695 17.8054 20.3811 17.5475C19.8927=
+ 17.2896 19.7059 16.6846 19.9638 16.1962C20.6249 14.9444 20.9996 13.5175 20=
+.9996 12.0001C20.9996 10.4458 20.6064 8.98627 19.9149 7.71262C19.6514 7.227=
+26 19.8312 6.62017 20.3166 6.35665ZM15.7994 7.90049C16.241 7.5688 16.8679 7=
+.65789 17.1995 8.09947C18.0156 9.18593 18.4996 10.5379 18.4996 12.0001C18.4=
+996 13.3127 18.1094 14.5372 17.4385 15.5604C17.1357 16.0222 16.5158 16.1511=
+ 16.0539 15.8483C15.5921 15.5455 15.4632 14.9255 15.766 14.4637C16.2298 13.=
+7564 16.4996 12.9113 16.4996 12.0001C16.4996 10.9859 16.1653 10.0526 15.600=
+4 9.30063C15.2687 8.85905 15.3578 8.23218 15.7994 7.90049Z" fill=3D"current=
+Color"></path></svg></button></span><span class=3D"" data-state=3D"closed">=
+<button class=3D"flex items-center gap-1.5 rounded-md p-1 text-xs text-toke=
+n-text-tertiary hover:text-token-text-primary md:invisible md:group-hover:v=
+isible md:group-[.final-completion]:visible"><svg width=3D"24" height=3D"24=
+" viewBox=3D"0 0 24 24" fill=3D"none" xmlns=3D"http://www.w3.org/2000/svg" =
+class=3D"icon-md"><path fill-rule=3D"evenodd" clip-rule=3D"evenodd" d=3D"M1=
+2 3.5C10.8954 3.5 10 4.39543 10 5.5H14C14 4.39543 13.1046 3.5 12 3.5ZM8.535=
+13 3.5C9.22675 2.3044 10.5194 1.5 12 1.5C13.4806 1.5 14.7733 2.3044 15.4649=
+ 3.5H17.25C18.9069 3.5 20.25 4.84315 20.25 6.5V18.5C20.25 20.1569 19.1569 2=
+1.5 17.25 21.5H6.75C5.09315 21.5 3.75 20.1569 3.75 18.5V6.5C3.75 4.84315 5.=
+09315 3.5 6.75 3.5H8.53513ZM8 5.5H6.75C6.19772 5.5 5.75 5.94772 5.75 6.5V18=
+.5C5.75 19.0523 6.19772 19.5 6.75 19.5H17.25C18.0523 19.5 18.25 19.0523 18.=
+25 18.5V6.5C18.25 5.94772 17.8023 5.5 17.25 5.5H16C16 6.60457 15.1046 7.5 1=
+4 7.5H10C8.89543 7.5 8 6.60457 8 5.5Z" fill=3D"currentColor"></path></svg><=
+/button></span><div class=3D"flex"><span class=3D"" data-state=3D"closed"><=
+button class=3D"p-1 rounded-md text-token-text-tertiary hover:text-token-te=
+xt-primary md:invisible md:group-hover:visible md:group-[.final-completion]=
+:visible"><svg width=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"non=
+e" xmlns=3D"http://www.w3.org/2000/svg" class=3D"icon-md"><path fill-rule=
+=3D"evenodd" clip-rule=3D"evenodd" d=3D"M11.8727 21.4961C11.6725 21.8466 11=
+.2811 22.0423 10.8805 21.9922L10.4267 21.9355C7.95958 21.6271 6.36855 19.16=
+65 7.09975 16.7901L7.65054 15H6.93226C4.29476 15 2.37923 12.4921 3.0732 9.9=
+4753L4.43684 4.94753C4.91145 3.20728 6.49209 2 8.29589 2H18.0045C19.6614 2 =
+21.0045 3.34315 21.0045 5V12C21.0045 13.6569 19.6614 15 18.0045 15H16.0045C=
+15.745 15 15.5054 15.1391 15.3766 15.3644L11.8727 21.4961ZM14.0045 4H8.2958=
+9C7.39399 4 6.60367 4.60364 6.36637 5.47376L5.00273 10.4738C4.65574 11.746 =
+5.61351 13 6.93226 13H9.00451C9.32185 13 9.62036 13.1506 9.8089 13.4059C9.9=
+9743 13.6612 10.0536 13.9908 9.96028 14.2941L9.01131 17.3782C8.6661 18.5002=
+ 9.35608 19.6596 10.4726 19.9153L13.6401 14.3721C13.9523 13.8258 14.4376 13=
+.4141 15.0045 13.1902V5C15.0045 4.44772 14.5568 4 14.0045 4ZM17.0045 13V5C1=
+7.0045 4.64937 16.9444 4.31278 16.8338 4H18.0045C18.5568 4 19.0045 4.44772 =
+19.0045 5V12C19.0045 12.5523 18.5568 13 18.0045 13H17.0045Z" fill=3D"curren=
+tColor"></path></svg></button></span></div></div></div><div class=3D"pr-2 l=
+g:pr-0"></div></div></div></div></div></div><div class=3D"w-full text-token=
+-text-primary" dir=3D"auto" data-testid=3D"conversation-turn-20" style=3D"-=
+-avatar-color: #AB68FF;"><div class=3D"px-4 py-2 justify-center text-base m=
+d:gap-6 m-auto"><div class=3D"flex flex-1 text-base mx-auto gap-3 juice:gap=
+-4 juice:md:gap-6 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:=
+max-w-[48rem] group"><div class=3D"flex-shrink-0 flex flex-col relative ite=
+ms-end"><div><div class=3D"pt-0.5"><div class=3D"gizmo-shadow-stroke flex h=
+-6 w-6 items-center justify-center overflow-hidden rounded-full"><div class=
+=3D"relative flex"><img alt=3D"User" referrerpolicy=3D"no-referrer" loading=
+=3D"lazy" width=3D"24" height=3D"24" decoding=3D"async" data-nimg=3D"1" cla=
+ss=3D"rounded-sm" src=3D"https://s.gravatar.com/avatar/ddcae653ee2eddac9f38=
+1cb44d864b27?s=3D480&amp;r=3Dpg&amp;d=3Dhttps%3A%2F%2Fcdn.auth0.com%2Favata=
+rs%2Fop.png" style=3D"color: transparent;"></div></div></div></div></div><d=
+iv class=3D"relative flex w-full flex-col"><div class=3D"font-semibold sele=
+ct-none">You</div><div class=3D"flex-col gap-1 md:gap-3"><div class=3D"flex=
+ flex-grow flex-col max-w-full"><div data-message-author-role=3D"user" data=
+-message-id=3D"aaa2b188-db3d-4917-8e66-4747b7a20af1" dir=3D"auto" class=3D"=
+min-h-[20px] text-message flex flex-col items-start gap-3 whitespace-pre-wr=
+ap break-words [.text-message+&amp;]:mt-5 overflow-x-auto"><div class=3D"">=
+create a script that call this function with the parameter DynamicBacktest.=
+py as the FILENAME, once killed it waits 5 seconds and then goes on to crea=
+te a new task by running pytyhon  DynamicBacktest.py</div></div></div><div =
+class=3D"mt-1 flex gap-3 empty:hidden juice:justify-end"><div class=3D"text=
+-gray-400 flex self-end lg:self-center items-center justify-center lg:justi=
+fy-start mt-0 -ml-1 h-7 gap-[2px] visible"><button class=3D"p-1 rounded-md =
+text-token-text-tertiary hover:text-token-text-primary md:invisible md:grou=
+p-hover:visible md:group-[.final-completion]:visible"><div class=3D"flex it=
+ems-center gap-1.5 text-xs"><svg width=3D"24" height=3D"24" viewBox=3D"0 0 =
+24 24" fill=3D"none" xmlns=3D"http://www.w3.org/2000/svg" class=3D"icon-md"=
+><path fill-rule=3D"evenodd" clip-rule=3D"evenodd" d=3D"M13.2929 4.29291C15=
+.0641 2.52167 17.9359 2.52167 19.7071 4.2929C21.4783 6.06414 21.4783 8.9358=
+8 19.7071 10.7071L18.7073 11.7069L11.1603 19.2539C10.7182 19.696 10.1489 19=
+.989 9.53219 20.0918L4.1644 20.9864C3.84584 21.0395 3.52125 20.9355 3.29289=
+ 20.7071C3.06453 20.4788 2.96051 20.1542 3.0136 19.8356L3.90824 14.4678C4.0=
+1103 13.8511 4.30396 13.2818 4.7461 12.8397L13.2929 4.29291ZM13 7.41422L6.1=
+6031 14.2539C6.01293 14.4013 5.91529 14.591 5.88102 14.7966L5.21655 18.7835=
+L9.20339 18.119C9.40898 18.0847 9.59872 17.9871 9.7461 17.8397L16.5858 11L1=
+3 7.41422ZM18 9.5858L14.4142 6.00001L14.7071 5.70712C15.6973 4.71693 17.302=
+7 4.71693 18.2929 5.70712C19.2831 6.69731 19.2831 8.30272 18.2929 9.29291L1=
+8 9.5858Z" fill=3D"currentColor"></path></svg></div></button></div></div></=
+div></div></div></div></div><div class=3D"w-full text-token-text-primary" d=
+ir=3D"auto" data-testid=3D"conversation-turn-21" style=3D"--avatar-color: #=
+AB68FF;"><div class=3D"px-4 py-2 justify-center text-base md:gap-6 m-auto">=
+<div class=3D"flex flex-1 text-base mx-auto gap-3 juice:gap-4 juice:md:gap-=
+6 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] gr=
+oup final-completion"><div class=3D"flex-shrink-0 flex flex-col relative it=
+ems-end"><div><div class=3D"pt-0.5"><div class=3D"gizmo-shadow-stroke flex =
+h-6 w-6 items-center justify-center overflow-hidden rounded-full"><div clas=
+s=3D"relative p-1 rounded-sm h-9 w-9 text-white flex items-center justify-c=
+enter" style=3D"background-color: rgb(171, 104, 255); width: 24px; height: =
+24px;"><svg width=3D"41" height=3D"41" viewBox=3D"0 0 41 41" fill=3D"none" =
+xmlns=3D"http://www.w3.org/2000/svg" class=3D"icon-sm" role=3D"img"><text x=
+=3D"-9999" y=3D"-9999">ChatGPT</text><path d=3D"M37.5324 16.8707C37.9808 15=
+.5241 38.1363 14.0974 37.9886 12.6859C37.8409 11.2744 37.3934 9.91076 36.67=
+6 8.68622C35.6126 6.83404 33.9882 5.3676 32.0373 4.4985C30.0864 3.62941 27.=
+9098 3.40259 25.8215 3.85078C24.8796 2.7893 23.7219 1.94125 22.4257 1.36341=
+C21.1295 0.785575 19.7249 0.491269 18.3058 0.500197C16.1708 0.495044 14.089=
+3 1.16803 12.3614 2.42214C10.6335 3.67624 9.34853 5.44666 8.6917 7.47815C7.=
+30085 7.76286 5.98686 8.3414 4.8377 9.17505C3.68854 10.0087 2.73073 11.0782=
+ 2.02839 12.312C0.956464 14.1591 0.498905 16.2988 0.721698 18.4228C0.944492=
+ 20.5467 1.83612 22.5449 3.268 24.1293C2.81966 25.4759 2.66413 26.9026 2.81=
+182 28.3141C2.95951 29.7256 3.40701 31.0892 4.12437 32.3138C5.18791 34.1659=
+ 6.8123 35.6322 8.76321 36.5013C10.7141 37.3704 12.8907 37.5973 14.9789 37.=
+1492C15.9208 38.2107 17.0786 39.0587 18.3747 39.6366C19.6709 40.2144 21.075=
+5 40.5087 22.4946 40.4998C24.6307 40.5054 26.7133 39.8321 28.4418 38.5772C3=
+0.1704 37.3223 31.4556 35.5506 32.1119 33.5179C33.5027 33.2332 34.8167 32.6=
+547 35.9659 31.821C37.115 30.9874 38.0728 29.9178 38.7752 28.684C39.8458 26=
+.8371 40.3023 24.6979 40.0789 22.5748C39.8556 20.4517 38.9639 18.4544 37.53=
+24 16.8707ZM22.4978 37.8849C20.7443 37.8874 19.0459 37.2733 17.6994 36.1501=
+C17.7601 36.117 17.8666 36.0586 17.936 36.0161L25.9004 31.4156C26.1003 31.3=
+019 26.2663 31.137 26.3813 30.9378C26.4964 30.7386 26.5563 30.5124 26.5549 =
+30.2825V19.0542L29.9213 20.998C29.9389 21.0068 29.9541 21.0198 29.9656 21.0=
+359C29.977 21.052 29.9842 21.0707 29.9867 21.0902V30.3889C29.9842 32.375 29=
+.1946 34.2791 27.7909 35.6841C26.3872 37.0892 24.4838 37.8806 22.4978 37.88=
+49ZM6.39227 31.0064C5.51397 29.4888 5.19742 27.7107 5.49804 25.9832C5.55718=
+ 26.0187 5.66048 26.0818 5.73461 26.1244L13.699 30.7248C13.8975 30.8408 14.=
+1233 30.902 14.3532 30.902C14.583 30.902 14.8088 30.8408 15.0073 30.7248L24=
+.731 25.1103V28.9979C24.7321 29.0177 24.7283 29.0376 24.7199 29.0556C24.711=
+5 29.0736 24.6988 29.0893 24.6829 29.1012L16.6317 33.7497C14.9096 34.7416 1=
+2.8643 35.0097 10.9447 34.4954C9.02506 33.9811 7.38785 32.7263 6.39227 31.0=
+064ZM4.29707 13.6194C5.17156 12.0998 6.55279 10.9364 8.19885 10.3327C8.1988=
+5 10.4013 8.19491 10.5228 8.19491 10.6071V19.808C8.19351 20.0378 8.25334 20=
+.2638 8.36823 20.4629C8.48312 20.6619 8.64893 20.8267 8.84863 20.9404L18.57=
+23 26.5542L15.206 28.4979C15.1894 28.5089 15.1703 28.5155 15.1505 28.5173C1=
+5.1307 28.5191 15.1107 28.516 15.0924 28.5082L7.04046 23.8557C5.32135 22.86=
+01 4.06716 21.2235 3.55289 19.3046C3.03862 17.3858 3.30624 15.3413 4.29707 =
+13.6194ZM31.955 20.0556L22.2312 14.4411L25.5976 12.4981C25.6142 12.4872 25.=
+6333 12.4805 25.6531 12.4787C25.6729 12.4769 25.6928 12.4801 25.7111 12.487=
+9L33.7631 17.1364C34.9967 17.849 36.0017 18.8982 36.6606 20.1613C37.3194 21=
+.4244 37.6047 22.849 37.4832 24.2684C37.3617 25.6878 36.8382 27.0432 35.974=
+3 28.1759C35.1103 29.3086 33.9415 30.1717 32.6047 30.6641C32.6047 30.5947 3=
+2.6047 30.4733 32.6047 30.3889V21.188C32.6066 20.9586 32.5474 20.7328 32.43=
+32 20.5338C32.319 20.3348 32.154 20.1698 31.955 20.0556ZM35.3055 15.0128C35=
+.2464 14.9765 35.1431 14.9142 35.069 14.8717L27.1045 10.2712C26.906 10.1554=
+ 26.6803 10.0943 26.4504 10.0943C26.2206 10.0943 25.9948 10.1554 25.7963 10=
+.2712L16.0726 15.8858V11.9982C16.0715 11.9783 16.0753 11.9585 16.0837 11.94=
+05C16.0921 11.9225 16.1048 11.9068 16.1207 11.8949L24.1719 7.25025C25.4053 =
+6.53903 26.8158 6.19376 28.2383 6.25482C29.6608 6.31589 31.0364 6.78077 32.=
+2044 7.59508C33.3723 8.40939 34.2842 9.53945 34.8334 10.8531C35.3826 12.166=
+7 35.5464 13.6095 35.3055 15.0128ZM14.2424 21.9419L10.8752 19.9981C10.8576 =
+19.9893 10.8423 19.9763 10.8309 19.9602C10.8195 19.9441 10.8122 19.9254 10.=
+8098 19.9058V10.6071C10.8107 9.18295 11.2173 7.78848 11.9819 6.58696C12.746=
+6 5.38544 13.8377 4.42659 15.1275 3.82264C16.4173 3.21869 17.8524 2.99464 1=
+9.2649 3.1767C20.6775 3.35876 22.0089 3.93941 23.1034 4.85067C23.0427 4.883=
+79 22.937 4.94215 22.8668 4.98473L14.9024 9.58517C14.7025 9.69878 14.5366 9=
+.86356 14.4215 10.0626C14.3065 10.2616 14.2466 10.4877 14.2479 10.7175L14.2=
+424 21.9419ZM16.071 17.9991L20.4018 15.4978L24.7325 17.9975V22.9985L20.4018=
+ 25.4983L16.071 22.9985V17.9991Z" fill=3D"currentColor"></path></svg></div>=
+</div></div></div></div><div class=3D"relative flex w-full flex-col agent-t=
+urn"><div class=3D"font-semibold select-none">ChatGPT</div><div class=3D"fl=
+ex-col gap-1 md:gap-3"><div class=3D"flex flex-grow flex-col max-w-full"><d=
+iv data-message-author-role=3D"assistant" data-message-id=3D"4a234afe-1bb8-=
+48a8-a0b5-78d58d74e37d" dir=3D"auto" class=3D"min-h-[20px] text-message fle=
+x flex-col items-start gap-3 whitespace-pre-wrap break-words [.text-message=
++&amp;]:mt-5 overflow-x-auto"><div class=3D"markdown prose w-full break-wor=
+ds dark:prose-invert light"><p>Here's how to extend the CMD script to call =
+the function with "DynamicBacktest.py" as the parameter, wait for 5 seconds=
+ after killing the process, and then start a new instance of the script usi=
+ng the <code>python</code> command. This script effectively manages the res=
+tart of a specific Python process.</p><pre><div class=3D"dark bg-gray-950 r=
+ounded-md"><div class=3D"flex items-center relative text-token-text-seconda=
+ry bg-token-main-surface-secondary px-4 py-2 text-xs font-sans justify-betw=
+een rounded-t-md"><span>batch</span><span class=3D"" data-state=3D"closed">=
+<button class=3D"flex gap-1 items-center"><svg width=3D"24" height=3D"24" v=
+iewBox=3D"0 0 24 24" fill=3D"none" xmlns=3D"http://www.w3.org/2000/svg" cla=
+ss=3D"icon-sm"><path fill-rule=3D"evenodd" clip-rule=3D"evenodd" d=3D"M12 3=
+.5C10.8954 3.5 10 4.39543 10 5.5H14C14 4.39543 13.1046 3.5 12 3.5ZM8.53513 =
+3.5C9.22675 2.3044 10.5194 1.5 12 1.5C13.4806 1.5 14.7733 2.3044 15.4649 3.=
+5H17.25C18.9069 3.5 20.25 4.84315 20.25 6.5V18.5C20.25 20.1569 19.1569 21.5=
+ 17.25 21.5H6.75C5.09315 21.5 3.75 20.1569 3.75 18.5V6.5C3.75 4.84315 5.093=
+15 3.5 6.75 3.5H8.53513ZM8 5.5H6.75C6.19772 5.5 5.75 5.94772 5.75 6.5V18.5C=
+5.75 19.0523 6.19772 19.5 6.75 19.5H17.25C18.0523 19.5 18.25 19.0523 18.25 =
+18.5V6.5C18.25 5.94772 17.8023 5.5 17.25 5.5H16C16 6.60457 15.1046 7.5 14 7=
+.5H10C8.89543 7.5 8 6.60457 8 5.5Z" fill=3D"currentColor"></path></svg>Copy=
+ code</button></span></div><div class=3D"p-4 overflow-y-auto"><code class=
+=3D"!whitespace-pre hljs language-batch">@echo off
+setlocal enableextensions
+
+REM Define a label as a function to kill a Python process
+:KillPythonProcess
+    setlocal
+    set FILENAME=3D%~1
+    set PID=3D
+
+    REM Use WMIC to find the process ID of the specific Python script
+    for /f "tokens=3D2 delims=3D," %%G in ('wmic process where "name=3D'pyt=
+hon.exe' and commandline like '%%\%FILENAME%\%%'" get ProcessId^, CommandLi=
+ne /format:csv') do (
+        set PID=3D%%G
+    )
+
+    REM Check if PID was set and if so, kill the process
+    if defined PID (
+        echo Killing process with PID: %PID%
+        taskkill /PID %PID% /F
+        endlocal
+        exit /b 1
+    ) else (
+        echo No process found running %FILENAME%.
+        endlocal
+        exit /b 0
+    )
+
+REM Call the function with "DynamicBacktest.py" as the parameter
+call :KillPythonProcess DynamicBacktest.py
+set RESULT=3D%ERRORLEVEL%
+
+REM Output result of the function
+echo Function returned: %RESULT%
+
+REM Wait for 5 seconds
+timeout /t 5 /nobreak &gt; NUL
+
+REM Start a new instance of DynamicBacktest.py using Python
+echo Starting DynamicBacktest.py
+start python DynamicBacktest.py
+
+endlocal
+</code></div></div></pre><h3>Detailed Explanation:</h3><ol><li><p><strong>L=
+abel as Function (:KillPythonProcess)</strong>: This section defines a labe=
+l that acts like a function to kill a specific Python process.</p></li><li>=
+<p><strong>Calling the Function</strong>: The function is called with "Dyna=
+micBacktest.py" as the argument. The process associated with this script, i=
+f found, is terminated.</p></li><li><p><strong>Waiting</strong>: The script=
+ uses the <code>timeout</code> command to pause execution for 5 seconds. Th=
+e <code>/t 5</code> specifies the number of seconds, while <code>/nobreak</=
+code> ignores any key press to skip the countdown. <code>&gt; NUL</code> hi=
+des the countdown display.</p></li><li><p><strong>Starting the Python Scrip=
+t</strong>: After the wait, a new instance of "DynamicBacktest.py" is start=
+ed using the <code>start</code> command with <code>python</code>. The <code=
+>start</code> command is used to launch a separate window for the Python sc=
+ript, keeping the command prompt usable for further commands.</p></li><li><=
+p><strong>Output and Variable Management</strong>: Throughout, the script p=
+rints relevant messages to the console and manages variables within localiz=
+ed scopes to prevent side effects.</p></li></ol><p>This script provides a c=
+omprehensive approach to managing a Python script's lifecycle within a Wind=
+ows environment, useful for scenarios requiring script restarts or regular =
+updates.</p></div></div></div><div class=3D"mt-1 flex gap-3 empty:hidden"><=
+div class=3D"text-gray-400 flex self-end lg:self-center items-center justif=
+y-center lg:justify-start mt-0 -ml-1 h-7 gap-[2px] visible"><span class=3D"=
+" data-state=3D"closed"><button class=3D"flex items-center gap-1.5 rounded-=
+md p-1 text-xs text-token-text-tertiary hover:text-token-text-primary md:in=
+visible md:group-hover:visible md:group-[.final-completion]:visible"><svg w=
+idth=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" xmlns=3D"http=
+://www.w3.org/2000/svg" class=3D"icon-md"><path fill-rule=3D"evenodd" clip-=
+rule=3D"evenodd" d=3D"M11 4.9099C11 4.47485 10.4828 4.24734 10.1621 4.54132=
+L6.67572 7.7372C6.49129 7.90626 6.25019 8.00005 6 8.00005H4C3.44772 8.00005=
+ 3 8.44776 3 9.00005V15C3 15.5523 3.44772 16 4 16H6C6.25019 16 6.49129 16.0=
+938 6.67572 16.2629L10.1621 19.4588C10.4828 19.7527 11 19.5252 11 19.0902V4=
+.9099ZM8.81069 3.06701C10.4142 1.59714 13 2.73463 13 4.9099V19.0902C13 21.2=
+655 10.4142 22.403 8.81069 20.9331L5.61102 18H4C2.34315 18 1 16.6569 1 15V9=
+.00005C1 7.34319 2.34315 6.00005 4 6.00005H5.61102L8.81069 3.06701ZM20.3166=
+ 6.35665C20.8019 6.09313 21.409 6.27296 21.6725 6.75833C22.5191 8.3176 22.9=
+996 10.1042 22.9996 12.0001C22.9996 13.8507 22.5418 15.5974 21.7323 17.1302=
+C21.4744 17.6185 20.8695 17.8054 20.3811 17.5475C19.8927 17.2896 19.7059 16=
+.6846 19.9638 16.1962C20.6249 14.9444 20.9996 13.5175 20.9996 12.0001C20.99=
+96 10.4458 20.6064 8.98627 19.9149 7.71262C19.6514 7.22726 19.8312 6.62017 =
+20.3166 6.35665ZM15.7994 7.90049C16.241 7.5688 16.8679 7.65789 17.1995 8.09=
+947C18.0156 9.18593 18.4996 10.5379 18.4996 12.0001C18.4996 13.3127 18.1094=
+ 14.5372 17.4385 15.5604C17.1357 16.0222 16.5158 16.1511 16.0539 15.8483C15=
+.5921 15.5455 15.4632 14.9255 15.766 14.4637C16.2298 13.7564 16.4996 12.911=
+3 16.4996 12.0001C16.4996 10.9859 16.1653 10.0526 15.6004 9.30063C15.2687 8=
+.85905 15.3578 8.23218 15.7994 7.90049Z" fill=3D"currentColor"></path></svg=
+></button></span><span class=3D"" data-state=3D"closed"><button class=3D"fl=
+ex items-center gap-1.5 rounded-md p-1 text-xs text-token-text-tertiary hov=
+er:text-token-text-primary md:invisible md:group-hover:visible md:group-[.f=
+inal-completion]:visible"><svg width=3D"24" height=3D"24" viewBox=3D"0 0 24=
+ 24" fill=3D"none" xmlns=3D"http://www.w3.org/2000/svg" class=3D"icon-md"><=
+path fill-rule=3D"evenodd" clip-rule=3D"evenodd" d=3D"M12 3.5C10.8954 3.5 1=
+0 4.39543 10 5.5H14C14 4.39543 13.1046 3.5 12 3.5ZM8.53513 3.5C9.22675 2.30=
+44 10.5194 1.5 12 1.5C13.4806 1.5 14.7733 2.3044 15.4649 3.5H17.25C18.9069 =
+3.5 20.25 4.84315 20.25 6.5V18.5C20.25 20.1569 19.1569 21.5 17.25 21.5H6.75=
+C5.09315 21.5 3.75 20.1569 3.75 18.5V6.5C3.75 4.84315 5.09315 3.5 6.75 3.5H=
+8.53513ZM8 5.5H6.75C6.19772 5.5 5.75 5.94772 5.75 6.5V18.5C5.75 19.0523 6.1=
+9772 19.5 6.75 19.5H17.25C18.0523 19.5 18.25 19.0523 18.25 18.5V6.5C18.25 5=
+.94772 17.8023 5.5 17.25 5.5H16C16 6.60457 15.1046 7.5 14 7.5H10C8.89543 7.=
+5 8 6.60457 8 5.5Z" fill=3D"currentColor"></path></svg></button></span><spa=
+n class=3D"" data-state=3D"closed"><button class=3D"p-1 rounded-md text-tok=
+en-text-tertiary hover:text-token-text-primary md:invisible md:group-hover:=
+visible md:group-[.final-completion]:visible"><div class=3D"flex items-cent=
+er gap-1.5 text-xs"><svg width=3D"24" height=3D"24" viewBox=3D"0 0 24 24" f=
+ill=3D"none" xmlns=3D"http://www.w3.org/2000/svg" class=3D"icon-md"><path f=
+ill-rule=3D"evenodd" clip-rule=3D"evenodd" d=3D"M4.5 2.5C5.05228 2.5 5.5 2.=
+94772 5.5 3.5V5.07196C7.19872 3.47759 9.48483 2.5 12 2.5C17.2467 2.5 21.5 6=
+.75329 21.5 12C21.5 17.2467 17.2467 21.5 12 21.5C7.1307 21.5 3.11828 17.837=
+5 2.565 13.1164C2.50071 12.5679 2.89327 12.0711 3.4418 12.0068C3.99033 11.9=
+425 4.48712 12.3351 4.5514 12.8836C4.98798 16.6089 8.15708 19.5 12 19.5C16.=
+1421 19.5 19.5 16.1421 19.5 12C19.5 7.85786 16.1421 4.5 12 4.5C9.7796 4.5 7=
+.7836 5.46469 6.40954 7H9C9.55228 7 10 7.44772 10 8C10 8.55228 9.55228 9 9 =
+9H4.5C3.96064 9 3.52101 8.57299 3.50073 8.03859C3.49983 8.01771 3.49958 7.9=
+9677 3.5 7.9758V3.5C3.5 2.94772 3.94771 2.5 4.5 2.5Z" fill=3D"currentColor"=
+></path></svg></div></button></span><div class=3D"flex"><span class=3D"" da=
+ta-state=3D"closed"><button class=3D"p-1 rounded-md text-token-text-tertiar=
+y hover:text-token-text-primary md:invisible md:group-hover:visible md:grou=
+p-[.final-completion]:visible"><svg width=3D"24" height=3D"24" viewBox=3D"0=
+ 0 24 24" fill=3D"none" xmlns=3D"http://www.w3.org/2000/svg" class=3D"icon-=
+md"><path fill-rule=3D"evenodd" clip-rule=3D"evenodd" d=3D"M11.8727 21.4961=
+C11.6725 21.8466 11.2811 22.0423 10.8805 21.9922L10.4267 21.9355C7.95958 21=
+.6271 6.36855 19.1665 7.09975 16.7901L7.65054 15H6.93226C4.29476 15 2.37923=
+ 12.4921 3.0732 9.94753L4.43684 4.94753C4.91145 3.20728 6.49209 2 8.29589 2=
+H18.0045C19.6614 2 21.0045 3.34315 21.0045 5V12C21.0045 13.6569 19.6614 15 =
+18.0045 15H16.0045C15.745 15 15.5054 15.1391 15.3766 15.3644L11.8727 21.496=
+1ZM14.0045 4H8.29589C7.39399 4 6.60367 4.60364 6.36637 5.47376L5.00273 10.4=
+738C4.65574 11.746 5.61351 13 6.93226 13H9.00451C9.32185 13 9.62036 13.1506=
+ 9.8089 13.4059C9.99743 13.6612 10.0536 13.9908 9.96028 14.2941L9.01131 17.=
+3782C8.6661 18.5002 9.35608 19.6596 10.4726 19.9153L13.6401 14.3721C13.9523=
+ 13.8258 14.4376 13.4141 15.0045 13.1902V5C15.0045 4.44772 14.5568 4 14.004=
+5 4ZM17.0045 13V5C17.0045 4.64937 16.9444 4.31278 16.8338 4H18.0045C18.5568=
+ 4 19.0045 4.44772 19.0045 5V12C19.0045 12.5523 18.5568 13 18.0045 13H17.00=
+45Z" fill=3D"currentColor"></path></svg></button></span></div></div></div><=
+div class=3D"pr-2 lg:pr-0"></div></div></div></div></div></div></div></div>=
+</div></div></div><div class=3D"w-full pt-2 md:pt-0 dark:border-white/20 md=
+:border-transparent md:dark:border-transparent md:w-[calc(100%-.5rem)]" sty=
+le=3D"padding-left: 0px; padding-right: 0px;"><form class=3D"stretch mx-2 f=
+lex flex-row gap-3 last:mb-2 md:mx-4 md:last:mb-6 lg:mx-auto lg:max-w-2xl x=
+l:max-w-3xl"><div class=3D"relative flex h-full flex-1 flex-col"><div class=
+=3D"absolute bottom-full left-0 right-0"></div><div class=3D"flex w-full it=
+ems-center"><div class=3D"overflow-hidden [&amp;:has(textarea:focus)]:borde=
+r-token-border-xheavy [&amp;:has(textarea:focus)]:shadow-[0_2px_6px_rgba(0,=
+0,0,.05)] flex flex-col w-full flex-grow relative border dark:text-white ro=
+unded-2xl bg-token-main-surface-primary border-token-border-medium"><textar=
+ea id=3D"prompt-textarea" tabindex=3D"0" data-id=3D"request-WEB:5f7a90bb-e0=
+b8-4c98-9e1b-48101f6cc3bd-10" dir=3D"auto" rows=3D"1" placeholder=3D"Messag=
+e ChatGPT=E2=80=A6" class=3D"m-0 w-full resize-none border-0 bg-transparent=
+ focus:ring-0 focus-visible:ring-0 dark:bg-transparent py-[10px] pr-10 md:p=
+y-3.5 md:pr-12 max-h-[25dvh] max-h-52 placeholder-black/50 dark:placeholder=
+-white/50 pl-10 md:pl-[55px]" style=3D"height: 52px; overflow-y: hidden;"><=
+/textarea><div type=3D"button" aria-haspopup=3D"dialog" aria-expanded=3D"fa=
+lse" aria-controls=3D"radix-:reg:" data-state=3D"closed" class=3D"absolute =
+bottom-2 md:bottom-3 left-2 md:left-4"><div class=3D"flex"><button class=3D=
+"btn relative p-0 text-black dark:text-white" aria-label=3D"Attach files"><=
+div class=3D"flex w-full gap-2 items-center justify-center"><svg width=3D"2=
+4" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" xmlns=3D"http://www.w3=
+.org/2000/svg"><path fill-rule=3D"evenodd" clip-rule=3D"evenodd" d=3D"M9 7C=
+9 4.23858 11.2386 2 14 2C16.7614 2 19 4.23858 19 7V15C19 18.866 15.866 22 1=
+2 22C8.13401 22 5 18.866 5 15V9C5 8.44772 5.44772 8 6 8C6.55228 8 7 8.44772=
+ 7 9V15C7 17.7614 9.23858 20 12 20C14.7614 20 17 17.7614 17 15V7C17 5.34315=
+ 15.6569 4 14 4C12.3431 4 11 5.34315 11 7V15C11 15.5523 11.4477 16 12 16C12=
+.5523 16 13 15.5523 13 15V9C13 8.44772 13.4477 8 14 8C14.5523 8 15 8.44772 =
+15 9V15C15 16.6569 13.6569 18 12 18C10.3431 18 9 16.6569 9 15V7Z" fill=3D"c=
+urrentColor"></path></svg></div></button><input multiple=3D"" type=3D"file"=
+ tabindex=3D"-1" class=3D"hidden" style=3D"display: none;"></div></div><but=
+ton disabled=3D"" class=3D"absolute bottom-1.5 right-2 rounded-lg border bo=
+rder-black bg-black p-0.5 text-white transition-colors enabled:bg-black dis=
+abled:text-gray-400 disabled:opacity-10 dark:border-white dark:bg-white dar=
+k:hover:bg-white md:bottom-3 md:right-3" data-testid=3D"send-button"><span =
+class=3D"" data-state=3D"closed"><svg width=3D"24" height=3D"24" viewBox=3D=
+"0 0 24 24" fill=3D"none" class=3D"text-white dark:text-black"><path d=3D"M=
+7 11L12 6L17 11M12 18V7" stroke=3D"currentColor" stroke-width=3D"2" stroke-=
+linecap=3D"round" stroke-linejoin=3D"round"></path></svg></span></button></=
+div></div></div></form><div class=3D"relative px-2 py-2 text-center text-xs=
+ text-token-text-secondary md:px-[60px]"><span>ChatGPT can make mistakes. C=
+onsider checking important information.</span></div></div></div><div class=
+=3D"group fixed bottom-3 right-3 z-10 hidden gap-1 lg:flex"><div class=3D"g=
+roup relative" data-headlessui-state=3D""><button class=3D"flex items-cente=
+r justify-center rounded-full border border-token-border-light text-token-t=
+ext-secondary" id=3D"headlessui-menu-button-:rei:" type=3D"button" aria-has=
+popup=3D"true" aria-expanded=3D"false" data-headlessui-state=3D""><div clas=
+s=3D"flex h-6 w-6 items-center justify-center text-xs">?</div></button></di=
+v></div></main></div></div><div class=3D"absolute left-0 right-0 top-0 z-[2=
+]"></div><audio class=3D"fixed bottom-0 left-0 hidden h-0 w-0" autoplay=3D"=
+" crossorigin=3D"anonymous"></audio></div><iframe height=3D"1" width=3D"1" =
+style=3D"position: absolute; top: 0px; left: 0px; border: none; visibility:=
+ hidden;"></iframe><next-route-announcer><p aria-live=3D"assertive" id=3D"_=
+_next-route-announcer__" role=3D"alert" style=3D"border: 0px; clip: rect(0p=
+x, 0px, 0px, 0px); height: 1px; margin: -1px; overflow: hidden; padding: 0p=
+x; position: absolute; top: 0px; width: 1px; white-space: nowrap; overflow-=
+wrap: normal;">ChatGPT</p></next-route-announcer><div portal-container=3D""=
+><span class=3D"pointer-events-none fixed inset-0 z-[60] mx-auto my-2 flex =
+max-w-[560px] flex-col items-stretch justify-start md:pb-5"></span></div><d=
+iv id=3D"enforcement-containerchatgpt-paid" tabindex=3D"0" style=3D"positio=
+n: fixed; top: 0px; left: 0px; width: 100vw; height: 100vh; z-index: 1000; =
+background-color: rgba(255, 255, 255, 0.85); align-items: center; box-sizin=
+g: border-box; flex-direction: column; justify-content: center; text-align:=
+ center; opacity: 0; transition: opacity 0.5s ease 0s; pointer-events: auto=
+; display: none;"><div style=3D"position: fixed; top: 20px; right: 20px; he=
+ight: 20px; width: 20px; background-repeat: no-repeat; background-position:=
+ center center; z-index: 1500; cursor: pointer; transform: scale(1); backgr=
+ound-image: url(&quot;data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiB=
+lbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMzhweCIgaGVpZ2h0PSIzOHB4IiB2aWV3Qm=
+94PSIwIDAgMzggMzgiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwM=
+DAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8=
+IS0tIEdlbmVyYXRvcjogU2tldGNoIDQ0LjEgKDQxNDU1KSAtIGh0dHA6Ly93d3cuYm9oZW1pYW5=
+jb2RpbmcuY29tL3NrZXRjaCAtLT4KICAgIDx0aXRsZT5Hcm91cDwvdGl0bGU+CiAgICA8ZGVzYz=
+5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4KICAgIDxkZWZzPjwvZGVmcz4KICAgIDxnIGlkP=
+SJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxs=
+LXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxnIGlkPSJHcm91cCIgdHJhbnNmb3JtPSJ0cmFuc2x=
+hdGUoMTkuMDAwMDAwLCAxOS4wMDAwMDApIHJvdGF0ZSg0NS4wMDAwMDApIHRyYW5zbGF0ZSgtMT=
+kuMDAwMDAwLCAtMTkuMDAwMDAwKSB0cmFuc2xhdGUoLTYuMDAwMDAwLCAtNi4wMDAwMDApIiBma=
+WxsPSIjOTQ5NDk0Ij4KICAgICAgICAgICAgPHJlY3QgaWQ9IlJlY3RhbmdsZSIgeD0iMjQiIHk9=
+IjAiIHdpZHRoPSIyIiBoZWlnaHQ9IjUwIj48L3JlY3Q+CiAgICAgICAgICAgIDxyZWN0IGlkPSJ=
+SZWN0YW5nbGUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDI1LjAwMDAwMCwgMjUuMDAwMDAwKSByb3=
+RhdGUoOTAuMDAwMDAwKSB0cmFuc2xhdGUoLTI1LjAwMDAwMCwgLTI1LjAwMDAwMCkgIiB4PSIyN=
+CIgeT0iMCIgd2lkdGg9IjIiIGhlaWdodD0iNTAiPjwvcmVjdD4KICAgICAgICA8L2c+CiAgICA8=
+L2c+Cjwvc3ZnPg=3D=3D&quot;);"></div><div aria-hidden=3D"false" class=3D"ark=
+ose-35536E1E-65B4-4D96-9D97-6ADB7EFF8147-wrapper"><iframe src=3D"cid:frame-=
+3343D65843F2EF1B2A5646FFCA6FACA1@mhtml.blink" class=3D"r34K7X1zGgAi6DllVF3T=
+ active inline" title=3D"Verification challenge" aria-label=3D"Verification=
+ challenge" data-e2e=3D"enforcement-frame" style=3D"width: 0px; height: 0px=
+;"></iframe></div></div><iframe id=3D"intercom-frame" style=3D"position: ab=
+solute !important; opacity: 0 !important; width: 1px !important; height: 1p=
+x !important; top: 0 !important; left: 0 !important; border: none !importan=
+t; display: block !important; z-index: -1 !important; pointer-events: none;=
+" aria-hidden=3D"true" tabindex=3D"-1" title=3D"Intercom"></iframe><div cla=
+ss=3D"intercom-lightweight-app"></div></body></html>
+------MultipartBoundary--oKtfZAAxSPUBCvuoBce4co6ULeUAkLkl6xndfkJMkB----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-094474c4-a32c-43e9-afda-53903eef55e3@mhtml.blink
+Content-Location: cid:css-8129f915-e81f-41e5-918b-51c36941dabf@mhtml.blink
 
 @charset "utf-8";
 
@@ -4281,10 +4793,10 @@ r; height: 20px; outline: 0px; position: absolute; right: 20px; width: 20px=
 
 .react-scroll-to-bottom--css-rknae-1tj0vk3:active { background-color: rgba(=
 0, 0, 0, 0.6); }
-------MultipartBoundary--xbN73w344e7Gu9cDhlpmQVSCW1qiP8hqeZ36jVeOSl----
+------MultipartBoundary--oKtfZAAxSPUBCvuoBce4co6ULeUAkLkl6xndfkJMkB----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-55e9791c-4ea5-4813-bd67-a618eb41535b@mhtml.blink
+Content-Location: cid:css-efea4fa6-3dd3-422f-8c14-e8c68542b528@mhtml.blink
 
 @charset "utf-8";
 
@@ -4304,10 +4816,10 @@ sition: inherit; }
 
 .r34K7X1zGgAi6DllVF3T.active.show.lightbox { position: fixed; inset: 0px; w=
 idth: 100% !important; height: 100% !important; }
-------MultipartBoundary--xbN73w344e7Gu9cDhlpmQVSCW1qiP8hqeZ36jVeOSl----
+------MultipartBoundary--oKtfZAAxSPUBCvuoBce4co6ULeUAkLkl6xndfkJMkB----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-2d2aa394-405f-4abc-9d03-37105c1832aa@mhtml.blink
+Content-Location: cid:css-714170b5-bba6-4397-90f5-e8740c5d41dc@mhtml.blink
 
 @charset "utf-8";
 
@@ -4402,7 +4914,7 @@ w: rgba(0, 0, 0, 0.05) 0px 0px 25px; }
 @media print {
   .intercom-lightweight-app { display: none; }
 }
-------MultipartBoundary--xbN73w344e7Gu9cDhlpmQVSCW1qiP8hqeZ36jVeOSl----
+------MultipartBoundary--oKtfZAAxSPUBCvuoBce4co6ULeUAkLkl6xndfkJMkB----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://cdn.oaistatic.com/_next/static/css/f9d817fb094cb21a.css?dpl=f8767f0cc4fb146a44adf5f83a97a406552467d9
@@ -11523,7 +12035,7 @@ tionY) linear var(--delayY) infinite alternate; }
   0% { transform: translateY(0px); }
   100% { transform: translateY(var(--boundY)); }
 }
-------MultipartBoundary--xbN73w344e7Gu9cDhlpmQVSCW1qiP8hqeZ36jVeOSl----
+------MultipartBoundary--oKtfZAAxSPUBCvuoBce4co6ULeUAkLkl6xndfkJMkB----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://cdn.oaistatic.com/_next/static/css/b2b5486bcec590b9.css?dpl=f8767f0cc4fb146a44adf5f83a97a406552467d9
@@ -11596,7 +12108,7 @@ city: 1; background-color: rgba(171,104,255,var(--tw-bg-opacity)); }
 
 .ProseMirror_highlighted-delete__p_chl { --tw-bg-opacity: 1; background-col=
 or: rgba(220,38,38,var(--tw-bg-opacity)); }
-------MultipartBoundary--xbN73w344e7Gu9cDhlpmQVSCW1qiP8hqeZ36jVeOSl----
+------MultipartBoundary--oKtfZAAxSPUBCvuoBce4co6ULeUAkLkl6xndfkJMkB----
 Content-Type: image/webp
 Content-Transfer-Encoding: base64
 Content-Location: https://s.gravatar.com/avatar/ddcae653ee2eddac9f381cb44d864b27?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fop.png
@@ -11613,14 +12125,14 @@ ysH1qLMGDIjFZoB+lWQVcGOzzyiwrzEEtInNZBMIPzjbAryPdpMOIHLjZAlgTSz3VQ/4ZpKFvPQC
 jIrt5KMBoGzqNkfyZMgLMCL2k+8+cnorGxsSbrI9y1IKRA5rsgptfZQSIZmDTn+++MidOLWZiKTv
 dhdmZpaPnuS///+UCwA=
 
-------MultipartBoundary--xbN73w344e7Gu9cDhlpmQVSCW1qiP8hqeZ36jVeOSl----
+------MultipartBoundary--oKtfZAAxSPUBCvuoBce4co6ULeUAkLkl6xndfkJMkB----
 Content-Type: text/html
 Content-ID: <frame-38D19C225B1956C796402165FF552087@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
 
 <html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
 =3DUTF-8"></head><body></body></html>
-------MultipartBoundary--xbN73w344e7Gu9cDhlpmQVSCW1qiP8hqeZ36jVeOSl----
+------MultipartBoundary--oKtfZAAxSPUBCvuoBce4co6ULeUAkLkl6xndfkJMkB----
 Content-Type: text/html
 Content-ID: <frame-66321E431C15BC37A2CE9E34354B6208@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
@@ -11632,25 +12144,25 @@ tml; charset=3DUTF-8">
       <body>
      =20
     </body></html>
-------MultipartBoundary--xbN73w344e7Gu9cDhlpmQVSCW1qiP8hqeZ36jVeOSl----
+------MultipartBoundary--oKtfZAAxSPUBCvuoBce4co6ULeUAkLkl6xndfkJMkB----
 Content-Type: text/html
-Content-ID: <frame-CA3390675D010959E7090969FF250EFF@mhtml.blink>
+Content-ID: <frame-3343D65843F2EF1B2A5646FFCA6FACA1@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://tcr9i.chat.openai.com/v2/2.4.5/enforcement.6c9d6e9be9aa044cc5ce9548b4abe1b0.html#35536E1E-65B4-4D96-9D97-6ADB7EFF8147&5338e485-f893-43be-b42c-3a3d4eda3760
 
 <!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
 ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
-css" href=3D"cid:css-2d72933d-b647-49fc-ab38-d2d3332107c2@mhtml.blink" /><l=
-ink rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-61b5510d-e7c9-498f=
--8cdc-1e101c7fab7b@mhtml.blink" /><meta name=3D"viewport" content=3D"width=
+css" href=3D"cid:css-d362175e-b976-4666-bd1e-d5d5eca3c8e6@mhtml.blink" /><l=
+ink rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-b6c67e10-53ff-4ecb=
+-9682-c66d583fa158@mhtml.blink" /><meta name=3D"viewport" content=3D"width=
 =3Ddevice-width,initial-scale=3D1"><meta http-equiv=3D"X-UA-Compatible" con=
 tent=3D"ie=3Dedge"></head><body><div id=3D"app"><div id=3D"challenge" class=
 =3D"slrEYyWESVLe_Cx3DM1k"><div id=3D"FunCaptcha"></div></div></div></body><=
 /html>
-------MultipartBoundary--xbN73w344e7Gu9cDhlpmQVSCW1qiP8hqeZ36jVeOSl----
+------MultipartBoundary--oKtfZAAxSPUBCvuoBce4co6ULeUAkLkl6xndfkJMkB----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-2d72933d-b647-49fc-ab38-d2d3332107c2@mhtml.blink
+Content-Location: cid:css-d362175e-b976-4666-bd1e-d5d5eca3c8e6@mhtml.blink
 
 @charset "utf-8";
 
@@ -11659,10 +12171,10 @@ html, body { margin: 0px; padding: 0px; height: 100%; }
 * { box-sizing: border-box; }
 
 #app { height: 100%; overflow: hidden; }
-------MultipartBoundary--xbN73w344e7Gu9cDhlpmQVSCW1qiP8hqeZ36jVeOSl----
+------MultipartBoundary--oKtfZAAxSPUBCvuoBce4co6ULeUAkLkl6xndfkJMkB----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-61b5510d-e7c9-498f-8cdc-1e101c7fab7b@mhtml.blink
+Content-Location: cid:css-b6c67e10-53ff-4ecb-9682-c66d583fa158@mhtml.blink
 
 @charset "utf-8";
 
@@ -11740,4 +12252,4 @@ e-exit-done { transform: scale(0.8); opacity: 0; }
 
 .dTcazKGGob_VbK_J853h { display: flex; align-items: center; justify-content=
 : center; }
-------MultipartBoundary--xbN73w344e7Gu9cDhlpmQVSCW1qiP8hqeZ36jVeOSl------
+------MultipartBoundary--oKtfZAAxSPUBCvuoBce4co6ULeUAkLkl6xndfkJMkB------
