@@ -1,6 +1,6 @@
 import pandas as pd
-import numpy as np
 import QuantLib as ql
+import unittest
 
 def calculate_sensitivities(trades, 
                             bump_size=0.01, 
@@ -42,11 +42,11 @@ def calculate_sensitivities(trades,
         try:
             parts = trade.split()
             quantity = float(parts[0])
-            maturity = parts[1]
+            maturity_str = parts[1]
             equity_index = parts[2]
             trs_label = parts[3]
-            direction = parts[4]
-            rate = float(parts[5].replace('%', '')) / 100 if '%' in parts[5] else float(parts[5])
+            direction = parts[4].lower()
+            rate = float(parts[5].replace('bp', '')) / 10000 if 'bp' in parts[5] else float(parts[5])
             
             if trs_label.lower() != 'trs':
                 raise ValueError("Invalid TRS trade format.")
@@ -69,6 +69,15 @@ def calculate_sensitivities(trades,
                 if logger:
                     logger.warning(f"Missing FX rate for {equity_index}, assuming USD.")
             
+            # Convert maturity to numerical value in years
+            if maturity_str.endswith('y'):
+                maturity = int(maturity_str[:-1])
+            else:
+                raise ValueError("Unsupported maturity format.")
+            
+            # Determine position sign based on direction
+            position_sign = 1 if direction == 'receive' else -1
+            
             # Compute Delta Sensitivity (Risk_Equity)
             if use_quantlib:
                 spot_handle = ql.QuoteHandle(ql.SimpleQuote(spot_price))
@@ -76,11 +85,20 @@ def calculate_sensitivities(trades,
                 dividend_handle = ql.YieldTermStructureHandle(ql.FlatForward(0, ql.NullCalendar(), ql.QuoteHandle(ql.SimpleQuote(0.0)), ql.Actual360()))
                 vol_handle = ql.BlackVolTermStructureHandle(ql.BlackConstantVol(0, ql.NullCalendar(), ql.QuoteHandle(ql.SimpleQuote(volatility_surfaces.get(equity_index, 0.2))), ql.Actual360()))
                 bs_process = ql.BlackScholesMertonProcess(spot_handle, dividend_handle, risk_free_handle, vol_handle)
-                delta = bs_process.x0() * bump_size * quantity * fx_rate
+                
+                # Define option parameters for delta calculation
+                exercise = ql.EuropeanExercise(ql.Date().todaysDate() + ql.Period(maturity, ql.Years))
+                payoff = ql.PlainVanillaPayoff(ql.Option.Call, spot_price)  # ATM option
+                option = ql.VanillaOption(payoff, exercise)
+                option.setPricingEngine(ql.AnalyticEuropeanEngine(bs_process))
+                
+                # Calculate delta
+                delta = option.delta() * spot_price * quantity * position_sign * fx_rate
             else:
-                bumped_up = spot_price * (1 + bump_size)
-                bumped_down = spot_price * (1 - bump_size)
-                delta = ((bumped_up - bumped_down) / (2 * spot_price)) * quantity * fx_rate
+                # Simple bump-and-revalue approach for delta
+                bumped_up_price = spot_price * (1 + bump_size)
+                bumped_down_price = spot_price * (1 - bump_size)
+                delta = ((bumped_up_price - bumped_down_price) / (2 * spot_price)) * quantity * position_sign * fx_rate
             
             sensitivities.append({
                 "RiskType": "Risk_Equity",
@@ -92,6 +110,25 @@ def calculate_sensitivities(trades,
                 "AmountCurrency": "USD",
                 "AmountUSD": delta
             })
+            
+            # Compute Interest Rate Sensitivity (Risk_IRCurve)
+            if use_quantlib and discount_factors is not None:
+                df_maturity = curve.discount(dates[discount_factors["Tenor"].tolist().index(maturity_str)])
+            else:
+                df_maturity = 1 / ((1 + risk_free_rate) ** maturity)
+            
+            ir_sensitivity = -quantity * rate * df_maturity * position_sign * fx_rate
+            
+            sensitivities.append({
+                "RiskType": "Risk_IRCurve",
+                "Qualifier": "USD",  # Assume financing rate in USD
+                "Bucket": "1",  # Default bucket
+                "Label1": maturity_str,
+                "Label2": "",
+                "Amount": ir_sensitivity,
+                "AmountCurrency": "USD",
+                "AmountUSD": ir_sensitivity
+            })
         
         except Exception as e:
             if logger:
@@ -100,30 +137,48 @@ def calculate_sensitivities(trades,
     
     return sensitivities
 
-# Unit Tests
-def test_calculate_sensitivities():
-    trades = ["10000 5y sp500 trs pay 10bp"]
-    spot_prices = {"sp500": 4000}
-    volatility_surfaces = {"sp500": 0.2}
-    fx_rates = {"USD": 1.0}
-    bucket_mapping = {"sp500": "1"}
-    discount_factors = pd.DataFrame({"Tenor": ["5y"], "DiscountFactor": [0.95]})
-    
-    # Test without QuantLib
-    result_no_ql = calculate_sensitivities(trades, spot_prices=spot_prices, 
-                                           volatility_surfaces=volatility_surfaces, 
-                                           fx_rates=fx_rates, bucket_mapping=bucket_mapping, 
-                                           use_quantlib=False)
-    assert len(result_no_ql) == 1, "Should return one risk type"
-    
-    # Test with QuantLib
-    result_ql = calculate_sensitivities(trades, spot_prices=spot_prices, 
-                                        volatility_surfaces=volatility_surfaces, 
-                                        fx_rates=fx_rates, bucket_mapping=bucket_mapping, 
-                                        discount_factors=discount_factors, 
-                                        use_quantlib=True)
-    assert len(result_ql) == 1, "Should return one risk type"
-    
-    print("All tests passed.")
 
-test_calculate_sensitivities()
+
+
+class TestCalculateSensitivities(unittest.TestCase):
+
+    def setUp(self):
+        self.trades = ["10000 5y sp500 trs pay 10bp"]
+        self.spot_prices = {"sp500": 4000}
+        self.volatility_surfaces = {"sp500": 0.2}
+        self.fx_rates = {"USD": 1.0}
+        self.bucket_mapping = {"sp500": "1"}
+        self.discount_factors = pd.DataFrame({
+            "Tenor": ["0y", "5y"],  # Include '0y' for the reference date
+            "DiscountFactor": [1.0, 0.95]  # Discount factor of 1.0 at t=0
+        })
+
+    def test_without_quantlib(self):
+        result = calculate_sensitivities(
+            self.trades,
+            spot_prices=self.spot_prices,
+            volatility_surfaces=self.volatility_surfaces,
+            fx_rates=self.fx_rates,
+            bucket_mapping=self.bucket_mapping,
+            use_quantlib=False
+        )
+        self.assertEqual(len(result), 2, f"Expected 2 risk types, got {len(result)}")
+        self.assertEqual(result[0]["RiskType"], "Risk_Equity")
+        self.assertEqual(result[1]["RiskType"], "Risk_IRCurve")
+
+    def test_with_quantlib(self):
+        result = calculate_sensitivities(
+            self.trades,
+            spot_prices=self.spot_prices,
+            volatility_surfaces=self.volatility_surfaces,
+            fx_rates=self.fx_rates,
+            bucket_mapping=self.bucket_mapping,
+            discount_factors=self.discount_factors,
+            use_quantlib=True
+        )
+        self.assertEqual(len(result), 2, f"Expected 2 risk types, got {len(result)}")
+        self.assertEqual(result[0]["RiskType"], "Risk_Equity")
+        self.assertEqual(result[1]["RiskType"], "Risk_IRCurve")
+
+if __name__ == "__main__":
+    unittest.main()
